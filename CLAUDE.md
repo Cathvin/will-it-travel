@@ -46,3 +46,13 @@ marketing, programming and strategy with audience insights. Independent project 
 - List uncertain title matches for manual checking.
 - After analysis, give the 3 most useful findings for a sales exec in plain English.
 - GitHub: https://github.com/Cathvin/will-it-travel (origin, branch `main`). Push after each major step.
+
+## Status after session 1 (2026-10-04)
+- Outputs 1–3 done: `data/processed/matched_titles.csv`, `travel_score.csv`, `outputs/will_it_travel.xlsx`, `outputs/charts/`.
+- Pipeline: `.venv/bin/python src/run_all.py` (VOZ fetch is slow first time; cached after).
+- Data reality: Nielsen has no archive → 1 live week + 12 hand-entered weeks in `data/manual/nielsen_manual.csv` (`verified=no` until spot-checked). Wayback snapshots (Oct 25, Feb/Jul/Sep 26) unreachable from this machine; user can save them to `data/raw/nielsen_pages/`.
+- VOZ: 361 daily Top 30s (Oct 1 2025 – Sep 26 2026), weekly = each program's best day.
+- Manual match fixes live in `data/manual/match_overrides.csv` (set/exclude/origin). `titles_reviewed.csv` = corrected TMDB table; use it, not `titles_tmdb.csv`.
+- NBCU flags: `is_nbcu` = NBCU studio (ownership evidence); `nbcu_check_rights` = aired on NBCU channel only.
+- Key method choice: travel score = AU share of US-content chart space ÷ US chart share (rank-weighted). Netflix pickup reported for licensed titles only (originals launch globally).
+- Next (session 2): outputs 4–7. "What to sell next" must exclude titles already licensed in AU (Stan–NBCU/Peacock deal); Stan/BINGE/Prime have no public charts.
