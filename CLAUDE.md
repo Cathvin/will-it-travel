@@ -56,4 +56,9 @@ marketing, programming and strategy with audience insights. Independent project 
 - Manual match fixes live in `data/manual/match_overrides.csv` (set/exclude/origin). `titles_reviewed.csv` = corrected TMDB table; use it, not `titles_tmdb.csv`.
 - NBCU flags: `is_nbcu` = NBCU studio (ownership evidence); `nbcu_check_rights` = aired on NBCU channel only.
 - Key method choice: travel score = AU share of US-content chart space ÷ US chart share (rank-weighted). Netflix pickup reported for licensed titles only (originals launch globally).
-- Next (session 2): outputs 4–7. "What to sell next" must exclude titles already licensed in AU (Stan–NBCU/Peacock deal); Stan/BINGE/Prime have no public charts.
+
+## Status after session 2 (2026-10-04): ALL OUTPUTS DONE
+- 4: `src/sell_next.py` -> `sell_next.csv` (Tier A chart hits first, Tier B TMDB-signal titles 2022–25), `sell_next_excluded.csv` (already on AU streaming per JustWatch/TMDB, Peacock originals, other streamers' originals), `sell_next_renewals.csv`.
+- 5: `src/write_briefs.py` (claude-opus-5-5, server-side fallback "default") -> `outputs/briefs/*.md`.
+- 6: `src/build_deck.py` (python-pptx, native charts, numbers read from CSVs) -> `outputs/will_it_travel_exec.pptx`.
+- 7: `README.md`. Full pipeline: `src/run_all.py`. No LibreOffice on this machine: deck QA = validate.py + text-fit heuristic.

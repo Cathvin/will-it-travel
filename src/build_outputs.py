@@ -173,6 +173,7 @@ def build_workbook():
         ("travel_score: genre/format x Australian platform group. travel_score = AU share / US share x 100 (live formula). 100 = same share of chart space in AU as in the US.", False),
         ("netflix_pickup: of each genre's LICENSED US hits (Netflix originals excluded), the share that also charted on Netflix Australia (hit_rate is a live formula).", False),
         ("au_chart_mix: share of Australian chart slots by content origin (AU, US, UK, news/sport).", False),
+        ("sell_next: ranked NBCU titles to sell, best platform group and evidence (Output 4). renewals: licensed-but-not-charting watch-list.", False),
         ("title_travel: one row per US hit, with US and Australian rank percentiles per platform group.", False),
         ("matched_titles: one row per title family, all markets (Output 1).", False),
         ("charts_long: every weekly chart entry. Best tab for your own PivotTables.", False),
@@ -219,6 +220,8 @@ def build_workbook():
         ws[f"D{r}"].number_format = "0.0%"
         ws[f"D{r}"].font = Font(name="Arial", size=10)
 
+    add_table_sheet(wb, "sell_next", pd.read_csv(P / "sell_next.csv"), widths={"tmdb_name": 32, "pitch_to": 44, "evidence": 90})
+    add_table_sheet(wb, "renewals", pd.read_csv(P / "sell_next_renewals.csv"), widths={"tmdb_name": 32, "au_streaming_now": 50, "note": 60})
     add_table_sheet(wb, "title_travel", pd.read_csv(P / "title_travel.csv"), widths={"tmdb_name": 36, "networks": 30})
     add_table_sheet(wb, "matched_titles", pd.read_csv(P / "matched_titles.csv"), widths={"tmdb_name": 36, "chart_titles": 40})
     add_table_sheet(wb, "charts_long", pd.read_csv(P / "charts_long.csv"), widths={"title": 36, "platform_group": 30})
