@@ -1,0 +1,61 @@
+title,markets,sources,tmdb_name,year,media_type,tmdb_id,match_score,link_type,family_key
+2025: THE YEAR THAT WAS,AU,voz,2025爱奇艺尖叫之夜,2025.0,tv,307664.0,80.0,AU chart -> non-AU series,tv:307664
+FIND MY COUNTRY HOUSE AUSTRALIA,AU,voz,Find My Country House,2024.0,tv,280768.0,80.0,AU chart -> non-AU series,tv:280768
+THE AMAZING RACE AUSTRALIA: CELEBRITY,AU,voz,The Amazing Race,2001.0,tv,30957.0,80.0,AU chart -> non-AU series,tv:30957
+BEYOND PARADISE,AU,voz,Beyond Paradise,2023.0,tv,205072.0,100.0,AU chart -> non-AU series,tv:205072
+BLUE LIGHTS,AU,voz,Blue Lights,2023.0,tv,218344.0,100.0,AU chart -> non-AU series,tv:218344
+BORDER PATROL,AU,voz,Border Patrol,2002.0,tv,19910.0,100.0,AU chart -> non-AU series,tv:19910
+CLARKSON’S FARM,AU,voz,Clarkson's Farm,2021.0,tv,117648.0,100.0,AU chart -> non-AU series,tv:117648
+GOGGLEBOX,AU,voz,Gogglebox,2013.0,tv,55808.0,100.0,AU chart -> non-AU series,tv:55808
+GRAND DESIGNS NEW ZEALAND,AU,voz,Grand Designs New Zealand,2015.0,tv,64615.0,100.0,AU chart -> non-AU series,tv:64615
+KING & CONQUEROR,AU,voz,King & Conqueror,2025.0,tv,240558.0,100.0,AU chart -> non-AU series,tv:240558
+MAIGRET,AU,voz,Maigret,1960.0,tv,26992.0,100.0,AU chart -> non-AU series,tv:26992
+MURDER IN A SMALL TOWN,AU,voz,Murder in a Small Town,2024.0,tv,241549.0,100.0,AU chart -> non-AU series,tv:241549
+OFF THE GRID WITH COLIN AND MANU,AU,voz,Off the Grid with Colin and Manu,2025.0,tv,295074.0,100.0,AU chart -> non-AU series,tv:295074
+PROFESSOR T,AU,voz,Professor T,2021.0,tv,126660.0,100.0,AU chart -> non-AU series,tv:126660
+THE CASTLE,AU,voz,The Castle,2026.0,tv,308570.0,100.0,AU chart -> non-AU series,tv:308570
+THE FORSYTES,AU,voz,The Forsytes,2025.0,tv,286255.0,100.0,AU chart -> non-AU series,tv:286255
+THE FRONT BAR,AU,voz,The Front Bar,,tv,88585.0,100.0,AU chart -> non-AU series,tv:88585
+THE GIRL WHO CAUGHT A KILLER,AU,voz,The Girl Who Caught a Killer,2025.0,tv,292286.0,100.0,AU chart -> non-AU series,tv:292286
+THE GOLDEN BACHELOR,AU,voz,The Golden Bachelor,2023.0,tv,226624.0,100.0,AU chart -> non-AU series,tv:226624
+THE GRAND TOUR,AU,voz,The Grand Tour,2016.0,tv,67557.0,100.0,AU chart -> non-AU series,tv:67557
+THE RISE AND FALL OF KINGS CROSS,AU,voz,The Rise and Fall of Kings Cross,2025.0,tv,303424.0,100.0,AU chart -> non-AU series,tv:303424
+THE ROOKIE,AU,voz,The Rookie,2018.0,tv,79744.0,100.0,AU chart -> non-AU series,tv:79744
+TIPPING POINT AUSTRALIA,AU,voz,Tipping Point Australia,2023.0,tv,242192.0,100.0,AU chart -> non-AU series,tv:242192
+LOVE ISLAND AUSTRALIA,AU,voz,Love Island Australia,2018.0,tv,79792.0,100.0,local format version,tv:90521
+AFI Life Achievement Award: A Tribute to Eddie Murphy,US,netflix,The American Film Institute Salute to ...,1973.0,tv,23608.0,38.0,same TMDB title,tv:23608
+Taylor Tomlinson: Prodigal Daughter,US,netflix,After Midnight,2024.0,tv,242965.0,41.0,same TMDB title,tv:242965
+Trevor Noah: Joy in The Trenches,AU|US,netflix,The Daily Show,1996.0,tv,2224.0,42.0,same TMDB title,tv:2224
+World Breaker,AU,netflix,World's Most Awesome Record Breakers,2000.0,movie,319479.0,54.0,same TMDB title,movie:319479
+Mike Epps: Delusional,US,netflix,Cube & Epps,,tv,334165.0,55.0,same TMDB title,tv:334165
+Operation Safed Sagar: The Highest Air Force Mission,AU,netflix,Operation Safed Sagar: The Untold Story of the Kargil War,2026.0,tv,284753.0,55.0,same TMDB title,tv:284753
+Kevin Hart: Acting My Age,AU|US,netflix,Kevin Hart: Lyft Legend,2017.0,tv,128432.0,63.0,same TMDB title,tv:128432
+Bruce Bruce: I Ain’t Playin’,US,netflix,Bruce Wayne,,tv,20140.0,64.0,same TMDB title,tv:20140
+Louis C.K.: Ridiculous,US,netflix,Louis CK Stand Up,1996.0,tv,49458.0,64.0,same TMDB title,tv:49458
+Dr. Seuss' The Lorax,AU,netflix,The Lorax,2012.0,movie,73723.0,67.0,same TMDB title,movie:73723
+GOAT,US,nielsen,The GOAT,2024.0,tv,250316.0,67.0,same TMDB title,tv:250316
+FIND MY BEACH HOUSE AUSTRALIA,AU,voz,Beach House Hunters,2023.0,tv,238923.0,68.0,same TMDB title,tv:238923
+Wanda Sykes: Legacy,US,netflix,The Wanda Sykes Show,2009.0,tv,18103.0,71.0,same TMDB title,tv:18103
+The Expendables 4,US,netflix,Expend4bles,2023.0,movie,299054.0,72.0,same TMDB title,movie:299054
+WORKING CLASS MAN,AU,voz,Jimmy Barnes: Working Class Man,2025.0,movie,1511502.0,72.0,same TMDB title,movie:1511502
+Anne Rice's Mayfair Witches,AU,netflix,Mayfair Witches,2023.0,tv,207863.0,74.0,same TMDB title,tv:207863
+Dhurandhar The Revenge (Raw & Undekha),AU,netflix,Dhurandhar: The Revenge,2026.0,movie,1582770.0,74.0,same TMDB title,movie:1582770
+Terry McMillan Presents: Forever,US,netflix,Terry McMillan Presents: Tempted 2 Love,2026.0,movie,1619322.0,75.0,same TMDB title,movie:1619322
+"You, Me and the Penguins​",AU,netflix,Love and Penguins,2022.0,movie,857851.0,75.0,same TMDB title,movie:857851
+STEEL BALL RUN JoJo’s Bizarre Adventure,US,netflix,JoJo's Bizarre Adventure,2012.0,tv,45790.0,77.0,same TMDB title,tv:45790
+BIG BROTHER AUSTRALIA,AU,voz,Big Brother,2001.0,tv,990.0,80.0,same TMDB title,tv:990
+Dave Chappelle: The Unstoppable...,AU|US,netflix,Dave Chappelle,2017.0,tv,70830.0,80.0,same TMDB title,tv:70830
+Dracula: A Love Tale,AU,netflix,Dracula,2025.0,movie,1246049.0,80.0,same TMDB title,movie:1246049
+Gran Turismo: Based on a True Story,AU,netflix,Gran Turismo,2023.0,movie,980489.0,80.0,same TMDB title,movie:980489
+"Instadocs: Alex Murdaugh, Unconvicted",AU|US,netflix,Instadocs,2026.0,tv,334250.0,80.0,same TMDB title,tv:334250
+Instadocs: The Decoy Plane,AU|US,netflix,Instadocs,2026.0,tv,334250.0,80.0,same TMDB title,tv:334250
+Kill Tony: Once Upon a Time in Texas,US,netflix,Kill Tony,,tv,292601.0,80.0,same TMDB title,tv:292601
+Let's Marry Harry: The Reunion,AU|US,netflix,Let's Marry Harry,2026.0,tv,327817.0,80.0,same TMDB title,tv:327817
+RBT,AU,voz,RBT.AU,2010.0,tv,39208.0,80.0,same TMDB title,tv:39208
+Ricky Gervais: Mortality,AU|US,netflix,Meet Ricky Gervais,2000.0,tv,15222.0,80.0,same TMDB title,tv:15222
+THE 1% CLUB UK,AU,voz,The 1% Club,2023.0,tv,225523.0,80.0,same TMDB title,tv:225523
+Tom Clancy's Jack Ryan: Ghost War,US,nielsen,Tom Clancy's Jack Ryan,2018.0,tv,73375.0,80.0,same TMDB title,tv:73375
+Tom Segura: Teacher,AU|US,netflix,Tom Segura,2014.0,tv,271950.0,80.0,same TMDB title,tv:271950
+Hoppers,US,nielsen,De Hoppers,2019.0,tv,96443.0,82.0,same TMDB title,tv:96443
+Dr. Seuss' The Grinch,AU,netflix,Dr. Seuss' The Grinch Musical,2020.0,movie,762951.0,83.0,same TMDB title,movie:762951
+The Great British Baking Show,US,netflix,The Great British Bake Off,2017.0,tv,87012.0,84.0,same TMDB title,tv:87012

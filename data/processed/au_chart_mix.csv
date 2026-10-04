@@ -1,0 +1,16 @@
+platform_group,origin,chart_slots,share
+1 Free-to-air,AU,136,0.453
+1 Free-to-air,GB,15,0.05
+1 Free-to-air,News / sport / live (AU),115,0.383
+1 Free-to-air,Other,8,0.027
+1 Free-to-air,US,26,0.087
+2 BVOD,AU,117,0.39
+2 BVOD,GB,26,0.087
+2 BVOD,News / sport / live (AU),109,0.363
+2 BVOD,Other,19,0.063
+2 BVOD,US,29,0.097
+3 Paid streaming (Netflix AU),AU,38,0.037
+3 Paid streaming (Netflix AU),GB,105,0.101
+3 Paid streaming (Netflix AU),News / sport / live (AU),10,0.01
+3 Paid streaming (Netflix AU),Other,149,0.143
+3 Paid streaming (Netflix AU),US,738,0.71

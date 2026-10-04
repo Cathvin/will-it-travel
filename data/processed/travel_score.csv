@@ -1,0 +1,58 @@
+segment_type,segment,platform_group,au_share_of_us_content,us_chart_share,travel_score,au_titles,small_sample,example_titles
+genre,Action & Adventure,1 Free-to-air,0.0,0.035,0,0,True,
+genre,Comedy,1 Free-to-air,0.0,0.128,0,0,True,
+genre,Crime & Thriller,1 Free-to-air,0.377,0.308,122,1,True,The Rookie
+genre,Documentary,1 Free-to-air,0.0,0.115,0,0,True,
+genre,Drama,1 Free-to-air,0.0,0.079,0,0,True,
+genre,Family & Animation,1 Free-to-air,0.359,0.16,224,1,True,Tipping Point Australia
+genre,Horror,1 Free-to-air,0.0,0.031,0,0,True,
+genre,Other,1 Free-to-air,0.0,0.004,0,0,True,
+genre,Reality,1 Free-to-air,0.264,0.09,295,2,True,"The Golden Bachelor, The Amazing Race Australia: Celebrity"
+genre,Romance,1 Free-to-air,0.0,0.006,0,0,True,
+genre,Sci-Fi & Fantasy,1 Free-to-air,0.0,0.043,0,0,True,
+genre,Action & Adventure,2 BVOD,0.0,0.035,0,0,True,
+genre,Comedy,2 BVOD,0.0,0.128,0,0,True,
+genre,Crime & Thriller,2 BVOD,0.48,0.308,156,2,True,"The Rookie, Murder In A Small Town"
+genre,Documentary,2 BVOD,0.0,0.115,0,0,True,
+genre,Drama,2 BVOD,0.0,0.079,0,0,True,
+genre,Family & Animation,2 BVOD,0.219,0.16,137,1,True,Tipping Point Australia
+genre,Horror,2 BVOD,0.0,0.031,0,0,True,
+genre,Other,2 BVOD,0.036,0.004,892,3,False,"Wicked: One Wonderful Night, Find My Country House Australia, The Rise And Fall Of Kings Cross"
+genre,Reality,2 BVOD,0.265,0.09,296,2,True,"The Golden Bachelor, The Amazing Race Australia: Celebrity"
+genre,Romance,2 BVOD,0.0,0.006,0,0,True,
+genre,Sci-Fi & Fantasy,2 BVOD,0.0,0.043,0,0,True,
+genre,Action & Adventure,3 Paid streaming (Netflix AU),0.035,0.035,103,16,False,"Ransom Canyon, The Diplomat, Boots"
+genre,Comedy,3 Paid streaming (Netflix AU),0.148,0.128,115,50,False,"Voicemails For Isabelle, Nobody Wants This, Emily In Paris"
+genre,Crime & Thriller,3 Paid streaming (Netflix AU),0.298,0.308,97,77,False,"Stranger Things, I Will Find You, His & Hers"
+genre,Documentary,3 Paid streaming (Netflix AU),0.135,0.115,117,39,False,"Death Of The Pastor'S Wife, Sean Combs: The Reckoning, The Idaho Murders: College Nightmare"
+genre,Drama,3 Paid streaming (Netflix AU),0.052,0.079,65,14,False,"Bridgerton, My Life With The Walter Boys, Virgin River"
+genre,Family & Animation,3 Paid streaming (Netflix AU),0.185,0.16,116,49,False,"Kpop Demon Hunters, Danny Go!, Swapped"
+genre,Horror,3 Paid streaming (Netflix AU),0.042,0.031,135,18,False,"The Last House, Thrash, Frankenstein"
+genre,Other,3 Paid streaming (Netflix AU),0.003,0.004,69,3,False,"World Breaker, Baby Shark Hospital Play, Hot Ones: Extra Heat"
+genre,Reality,3 Paid streaming (Netflix AU),0.045,0.09,50,15,False,"Salish & Jordan Matter, Love On The Spectrum, Reality Check: Inside America'S Next Top Model"
+genre,Romance,3 Paid streaming (Netflix AU),0.008,0.006,121,4,False,"Song Sung Blue, Ruth & Boaz, A Royal Winter"
+genre,Sci-Fi & Fantasy,3 Paid streaming (Netflix AU),0.049,0.043,113,23,False,"Jurassic World Rebirth, Ladies First, The Witcher"
+format,Animated film,1 Free-to-air,0.0,0.092,0,0,True,
+format,Animated series,1 Free-to-air,0.0,0.021,0,0,True,
+format,Documentary,1 Free-to-air,0.0,0.06,0,0,True,
+format,Film,1 Free-to-air,0.0,0.38,0,0,True,
+format,Reality / unscripted,1 Free-to-air,0.264,0.09,295,2,True,"The Golden Bachelor, The Amazing Race Australia: Celebrity"
+format,Scripted limited series,1 Free-to-air,0.0,0.069,0,0,True,
+format,Scripted series,1 Free-to-air,0.736,0.284,259,2,True,"The Rookie, Tipping Point Australia"
+format,Talk / variety,1 Free-to-air,0.0,0.004,0,0,True,
+format,Animated film,2 BVOD,0.0,0.092,0,0,True,
+format,Animated series,2 BVOD,0.0,0.021,0,0,True,
+format,Documentary,2 BVOD,0.0,0.06,0,0,True,
+format,Film,2 BVOD,0.021,0.38,5,1,True,Wicked: One Wonderful Night
+format,Reality / unscripted,2 BVOD,0.276,0.09,308,3,False,"The Golden Bachelor, The Amazing Race Australia: Celebrity, Find My Country House Australia"
+format,Scripted limited series,2 BVOD,0.0,0.069,0,0,True,
+format,Scripted series,2 BVOD,0.703,0.284,248,4,False,"The Rookie, Tipping Point Australia, Murder In A Small Town"
+format,Talk / variety,2 BVOD,0.0,0.004,0,0,True,
+format,Animated film,3 Paid streaming (Netflix AU),0.104,0.092,113,29,False,"Kpop Demon Hunters, Swapped, Paw Patrol: The Movie"
+format,Animated series,3 Paid streaming (Netflix AU),0.009,0.021,42,5,False,"Gabby'S Dollhouse, Rick And Morty, The Creature Cases"
+format,Documentary,3 Paid streaming (Netflix AU),0.083,0.06,139,20,False,"Death Of The Pastor'S Wife, Sean Combs: The Reckoning, The Idaho Murders: College Nightmare"
+format,Film,3 Paid streaming (Netflix AU),0.436,0.38,115,169,False,"Apex, Voicemails For Isabelle, The Rip"
+format,Reality / unscripted,3 Paid streaming (Netflix AU),0.045,0.09,50,15,False,"Salish & Jordan Matter, Love On The Spectrum, Reality Check: Inside America'S Next Top Model"
+format,Scripted limited series,3 Paid streaming (Netflix AU),0.06,0.069,87,11,False,"I Will Find You, His & Hers, Run Away"
+format,Scripted series,3 Paid streaming (Netflix AU),0.262,0.284,92,57,False,"Danny Go!, Stranger Things, Bridgerton"
+format,Talk / variety,3 Paid streaming (Netflix AU),0.001,0.004,24,2,True,"Trevor Noah: Joy In The Trenches, Hot Ones: Extra Heat"

@@ -1,0 +1,394 @@
+tmdb_name,year,media_type,format,sales_genre,is_netflix_original,is_nbcu,nbcu_studio,nbcu_check_rights,networks,us_weeks,us_avg_pct,us_nielsen_weeks,us_netflix_weeks,au_fta_charted,au_fta_weeks,au_fta_avg_pct,au_bvod_charted,au_bvod_weeks,au_bvod_avg_pct,au_svod_charted,au_svod_weeks,au_svod_avg_pct,au_fta_rank_gap,au_bvod_rank_gap,au_svod_rank_gap,au_groups_charted
+Love Island USA,2019.0,tv,Reality / unscripted,Reality,False,False,,True,CBS|Peacock,2.0,0.95,2.0,,True,6.0,0.3943333333333333,True,6.0,1.0,False,,,-0.556,0.05,,2
+Raw,1993.0,tv,Reality / unscripted,Reality,True,False,,True,USA Network|Spike|Netflix|The New TNN,50.0,0.56,,50.0,False,,,False,,,True,9.0,0.1555555555555555,,,-0.404,1
+KPop Demon Hunters,2025.0,movie,Animated film,Family & Animation,False,False,,False,,37.0,0.5407142857142857,2.0,35.0,False,,,False,,,True,28.0,0.4642857142857143,,,-0.076,1
+Ms. Rachel,2025.0,tv,Scripted series,Family & Animation,True,False,,False,Netflix,32.0,0.225,,32.0,False,,,False,,,True,1.0,0.1,,,-0.125,1
+Danny Go!,2019.0,tv,Scripted series,Family & Animation,True,False,,False,Netflix,17.0,0.3,,17.0,False,,,False,,,True,25.0,0.4285714285714285,,,0.129,1
+Stranger Things,2016.0,tv,Scripted series,Crime & Thriller,True,False,,False,Netflix,14.0,0.7133333333333334,4.0,10.0,False,,,False,,,True,10.0,0.4952380952380952,,,-0.218,1
+I Will Find You,2026.0,tv,Scripted limited series,Crime & Thriller,True,False,,False,Netflix,9.0,0.875,1.0,8.0,False,,,False,,,True,8.0,0.8375,,,-0.037,1
+Bridgerton,2020.0,tv,Scripted series,Drama,True,False,,False,Netflix,8.0,0.8857142857142857,1.0,7.0,False,,,False,,,True,9.0,0.6818181818181818,,,-0.204,1
+Beauty in Black,2024.0,tv,Scripted series,Drama,True,False,,False,Netflix,7.0,0.8500000000000001,1.0,6.0,False,,,False,,,True,2.0,0.55,,,-0.3,1
+The Beast in Me,2025.0,tv,Scripted series,Crime & Thriller,True,False,,False,Netflix,7.0,0.7083333333333334,1.0,6.0,False,,,False,,,True,5.0,0.82,,,0.112,1
+Man on Fire,2004.0,movie,Film,Crime & Thriller,False,False,,False,,7.0,0.4714285714285714,,7.0,False,,,False,,,True,4.0,0.575,,,0.104,1
+Frankenstein,2025.0,movie,Film,Horror,False,False,,False,,6.0,0.7708333333333334,2.0,4.0,False,,,False,,,True,3.0,0.7333333333333334,,,-0.037,1
+Maternal Instinct,2026.0,movie,Film,Documentary,False,False,,False,,6.0,0.7250000000000001,2.0,4.0,False,,,False,,,True,4.0,0.675,,,-0.05,1
+Nemesis,2026.0,tv,Scripted series,Crime & Thriller,True,False,,False,Netflix,6.0,0.7375,2.0,4.0,False,,,False,,,True,3.0,0.3999999999999999,,,-0.338,1
+Apex,2026.0,movie,Film,Crime & Thriller,False,False,,False,,6.0,0.5333333333333333,,6.0,False,,,False,,,True,6.0,0.7666666666666666,,,0.233,1
+HIS & HERS,2026.0,tv,Scripted limited series,Crime & Thriller,True,False,,False,Netflix,6.0,0.8333333333333334,,6.0,False,,,False,,,True,6.0,0.8666666666666667,,,0.033,1
+Salish & Jordan Matter,2026.0,tv,Reality / unscripted,Reality,True,False,,False,Netflix,6.0,0.3666666666666667,,6.0,False,,,False,,,True,12.0,0.4769230769230769,,,0.11,1
+Voicemails for Isabelle,2026.0,movie,Film,Comedy,False,False,,False,,6.0,0.6666666666666666,,6.0,False,,,False,,,True,7.0,0.5714285714285714,,,-0.095,1
+Sweet Magnolias,2020.0,tv,Scripted series,Drama,True,False,,False,Netflix,5.0,0.525,2.0,3.0,False,,,False,,,True,3.0,0.5,,,-0.025,1
+The Boroughs,2026.0,tv,Scripted series,Crime & Thriller,True,False,,False,Netflix,5.0,0.8916666666666666,2.0,3.0,False,,,False,,,True,4.0,0.575,,,-0.317,1
+In Your Dreams,2025.0,movie,Animated film,Family & Animation,True,False,,False,,5.0,0.3125,1.0,4.0,False,,,False,,,True,3.0,0.6666666666666666,,,0.354,1
+Jurassic World Rebirth,2025.0,movie,Film,Sci-Fi & Fantasy,False,True,Universal Pictures,False,,5.0,0.44999999999999996,1.0,4.0,False,,,False,,,True,6.0,0.5833333333333334,,,0.133,1
+Remarkably Bright Creatures,2026.0,movie,Film,Crime & Thriller,False,False,,False,,5.0,0.5875,1.0,4.0,False,,,False,,,True,4.0,0.55,,,-0.037,1
+Sean Combs: The Reckoning,2025.0,tv,Documentary,Documentary,True,False,,False,Netflix,5.0,0.875,1.0,4.0,False,,,False,,,True,4.0,0.775,,,-0.1,1
+The Four Seasons,2025.0,tv,Scripted series,Comedy,True,True,Universal Television,False,Netflix,5.0,0.43000000000000005,1.0,4.0,False,,,False,,,True,4.0,0.65,,,0.22,1
+The Last House,2026.0,movie,Film,Horror,False,False,,False,,5.0,0.6499999999999999,1.0,4.0,False,,,False,,,True,3.0,0.9,,,0.25,1
+The Whisper Man,2026.0,movie,Film,Crime & Thriller,False,False,,False,,5.0,0.65,1.0,4.0,False,,,False,,,True,5.0,0.72,,,0.07,1
+Virgin River,2019.0,tv,Scripted series,Drama,True,False,,False,Netflix,5.0,0.7375,1.0,4.0,False,,,False,,,True,4.0,0.675,,,-0.062,1
+Wake Up Dead Man: A Knives Out Mystery,2025.0,movie,Film,Crime & Thriller,False,False,,False,,5.0,0.7749999999999999,1.0,4.0,False,,,False,,,True,5.0,0.72,,,-0.055,1
+72 HOURS,2026.0,movie,Film,Crime & Thriller,False,False,,False,,5.0,0.6599999999999999,,5.0,False,,,False,,,True,4.0,0.65,,,-0.01,1
+Spider-Man: Homecoming,2017.0,movie,Film,Sci-Fi & Fantasy,False,False,,False,,5.0,0.4,,5.0,False,,,False,,,True,2.0,0.2,,,-0.2,1
+Swapped,2026.0,movie,Animated film,Family & Animation,False,False,,False,,5.0,0.76,,5.0,False,,,False,,,True,7.0,0.6285714285714287,,,-0.131,1
+The Boss Baby,2017.0,movie,Animated film,Family & Animation,False,True,DreamWorks Animation,False,,5.0,0.4,,5.0,False,,,False,,,True,2.0,0.6,,,0.2,1
+A Merry Little Ex-Mas,2025.0,movie,Film,Comedy,False,False,,False,,4.0,0.36666666666666664,1.0,3.0,False,,,False,,,True,3.0,0.4666666666666666,,,0.1,1
+My Life with the Walter Boys,2023.0,tv,Scripted series,Drama,True,False,,False,Netflix,4.0,0.8166666666666667,1.0,3.0,False,,,False,,,True,3.0,0.9,,,0.083,1
+Run Away,2026.0,tv,Scripted limited series,Crime & Thriller,True,False,,False,Netflix,4.0,0.55,1.0,3.0,False,,,False,,,True,5.0,0.74,,,0.19,1
+The Night Agent,2023.0,tv,Scripted series,Crime & Thriller,True,False,,False,Netflix,4.0,0.8333333333333333,1.0,3.0,False,,,False,,,True,4.0,0.65,,,-0.183,1
+Why Did I Get Married Again?,2026.0,movie,Film,Comedy,False,False,,False,,4.0,0.9166666666666667,1.0,3.0,False,,,False,,,True,2.0,0.75,,,-0.167,1
+Boots,2025.0,tv,Scripted series,Action & Adventure,True,False,,False,Netflix,4.0,0.5,,4.0,False,,,False,,,True,5.0,0.4599999999999999,,,-0.04,1
+Death of the Pastor's Wife,2026.0,tv,Documentary,Documentary,True,False,,False,Netflix,4.0,0.85,,4.0,False,,,False,,,True,5.0,0.6599999999999999,,,-0.19,1
+Joe's College Road Trip,2026.0,movie,Film,Comedy,True,False,,False,,4.0,0.65,,4.0,False,,,False,,,True,2.0,0.15,,,-0.5,1
+Little House on the Prairie,1974.0,tv,Scripted series,Family & Animation,False,True,NBC Studios,False,NBC,4.0,0.575,,4.0,False,,,False,,,True,3.0,0.7666666666666666,,,0.192,1
+Monster: The Ed Gein Story,2025.0,tv,Scripted limited series,Crime & Thriller,True,False,,False,Netflix,4.0,0.875,,4.0,False,,,False,,,True,4.0,0.8,,,-0.075,1
+My Secret Santa,2025.0,movie,Film,Comedy,False,False,,False,,4.0,0.55,,4.0,False,,,False,,,True,3.0,0.7666666666666666,,,0.217,1
+Nobody Wants This,2024.0,tv,Scripted series,Comedy,True,False,,False,Netflix,4.0,0.825,,4.0,False,,,False,,,True,4.0,0.78,,,-0.045,1
+Office Romance,2026.0,movie,Film,Comedy,True,False,,False,,4.0,0.675,,4.0,False,,,False,,,True,3.0,0.8333333333333334,,,0.158,1
+People We Meet on Vacation,2026.0,movie,Film,Comedy,False,False,,False,,4.0,0.725,,4.0,False,,,False,,,True,4.0,0.8,,,0.075,1
+The Angry Birds Movie 2,2019.0,movie,Animated film,Family & Animation,False,False,,False,,4.0,0.475,,4.0,False,,,False,,,True,2.0,0.6000000000000001,,,0.125,1
+The Hawk,2026.0,tv,Scripted series,Comedy,True,False,,False,Netflix,4.0,0.775,,4.0,False,,,False,,,True,4.0,0.625,,,-0.15,1
+The Idaho Murders: College Nightmare,2026.0,tv,Documentary,Documentary,True,False,,False,Netflix,4.0,0.7,,4.0,False,,,False,,,True,4.0,0.75,,,0.05,1
+The Lincoln Lawyer,2022.0,tv,Scripted series,Crime & Thriller,True,False,,False,Netflix,4.0,0.675,,4.0,False,,,False,,,True,4.0,0.7,,,0.025,1
+The Rip,2026.0,movie,Film,Crime & Thriller,False,False,,False,,4.0,0.8,,4.0,False,,,False,,,True,5.0,0.76,,,-0.04,1
+Worst Ex Ever,2024.0,tv,Documentary,Documentary,True,False,,False,Netflix,4.0,0.775,,4.0,False,,,False,,,True,4.0,0.54,,,-0.235,1
+Worst Neighbor Ever,2026.0,tv,Documentary,Documentary,True,False,,False,Netflix,4.0,0.75,,4.0,False,,,False,,,True,3.0,0.8666666666666667,,,0.117,1
+Monster: The Lizzie Borden Story,2026.0,tv,Scripted limited series,Crime & Thriller,True,False,,False,Netflix,3.0,0.95,1.0,2.0,False,,,False,,,True,2.0,0.95,,,0.0,1
+The Witcher,2019.0,tv,Scripted series,Sci-Fi & Fantasy,True,False,,False,Netflix,3.0,0.7749999999999999,1.0,2.0,False,,,False,,,True,3.0,0.6666666666666666,,,-0.108,1
+Those Who Wish Me Dead,2021.0,movie,Film,Crime & Thriller,False,False,,False,,3.0,0.425,1.0,2.0,False,,,False,,,True,2.0,0.5,,,0.075,1
+A House of Dynamite,2025.0,movie,Film,Crime & Thriller,False,False,,False,,3.0,0.9,,3.0,False,,,False,,,True,3.0,0.7999999999999999,,,-0.1,1
+Age of Attraction,2026.0,tv,Reality / unscripted,Reality,True,False,,False,Netflix,3.0,0.5666666666666667,,3.0,False,,,False,,,True,1.0,0.2,,,-0.367,1
+Avatar: The Last Airbender,2024.0,tv,Scripted series,Family & Animation,True,False,,False,Netflix,3.0,0.7000000000000001,,3.0,False,,,False,,,True,3.0,0.525,,,-0.175,1
+Don't Say Good Luck,2026.0,movie,Film,Comedy,False,False,,False,,3.0,0.7000000000000001,,3.0,False,,,False,,,True,3.0,0.6,,,-0.1,1
+Emily in Paris,2020.0,tv,Scripted series,Comedy,True,False,,False,Netflix,3.0,0.7666666666666666,,3.0,False,,,False,,,True,5.0,0.6599999999999999,,,-0.107,1
+Little Brother,2026.0,movie,Film,Comedy,False,False,,False,,3.0,0.7000000000000001,,3.0,False,,,False,,,True,2.0,0.8,,,0.1,1
+Michael Jackson: The Verdict,2026.0,tv,Documentary,Documentary,True,False,,False,Netflix,3.0,0.7999999999999999,,3.0,False,,,False,,,True,3.0,0.7000000000000001,,,-0.1,1
+Outer Banks,2020.0,tv,Scripted series,Crime & Thriller,True,False,,False,Netflix,3.0,0.7333333333333334,,3.0,False,,,False,,,True,3.0,0.8333333333333334,,,0.1,1
+PAW Patrol: The Movie,2021.0,movie,Animated film,Family & Animation,False,False,,False,,3.0,0.2,,3.0,False,,,False,,,True,7.0,0.3428571428571428,,,0.143,1
+Ransom Canyon,2025.0,tv,Scripted series,Action & Adventure,True,False,,False,Netflix,3.0,0.65,,3.0,False,,,False,,,True,3.0,0.6499999999999999,,,-0.0,1
+Roommates,2026.0,movie,Film,Comedy,False,False,,False,,3.0,0.8666666666666667,,3.0,False,,,False,,,True,3.0,0.6333333333333333,,,-0.233,1
+Running Point,2025.0,tv,Scripted series,Comedy,True,False,,False,Netflix,3.0,0.475,,3.0,False,,,False,,,True,4.0,0.6,,,0.125,1
+Shark Tale,2004.0,movie,Animated film,Family & Animation,False,True,DreamWorks Animation,False,,3.0,0.2333333333333333,,3.0,False,,,False,,,True,2.0,0.7,,,0.467,1
+Something Very Bad Is Going to Happen,2026.0,tv,Scripted limited series,Crime & Thriller,True,False,,False,Netflix,3.0,0.6333333333333333,,3.0,False,,,False,,,True,3.0,0.4000000000000001,,,-0.233,1
+The Bad Guys 2,2025.0,movie,Animated film,Family & Animation,False,True,DreamWorks Animation,False,,3.0,0.4666666666666666,,3.0,False,,,False,,,True,3.0,0.4666666666666666,,,0.0,1
+The Dinosaurs,2026.0,tv,Documentary,Documentary,True,False,,False,Netflix,3.0,0.6666666666666666,,3.0,False,,,False,,,True,3.0,0.7999999999999999,,,0.133,1
+The Diplomat,2023.0,tv,Scripted series,Action & Adventure,True,False,,False,Netflix,3.0,0.7000000000000001,,3.0,False,,,False,,,True,4.0,0.625,,,-0.075,1
+The Perfect Neighbor,2025.0,movie,Film,Documentary,False,False,,False,,3.0,0.9,,3.0,False,,,False,,,True,3.0,0.8666666666666667,,,-0.033,1
+The Predator of Seville,2026.0,tv,Documentary,Documentary,True,False,,False,Netflix,3.0,0.3999999999999999,,3.0,False,,,False,,,True,2.0,0.45,,,0.05,1
+Thrash,2026.0,movie,Film,Horror,False,False,,False,,3.0,0.8333333333333334,,3.0,False,,,False,,,True,3.0,0.7666666666666666,,,-0.067,1
+Trust Me: The False Prophet,2026.0,tv,Documentary,Documentary,True,False,,False,Netflix,3.0,0.7999999999999999,,3.0,False,,,False,,,True,3.0,0.9,,,0.1,1
+Dave Chappelle,2017.0,tv,Scripted limited series,Comedy,True,False,,False,Netflix,3.0,0.7666666666666666,,3.0,False,,,False,,,True,1.0,0.7,,,-0.067,1
+Being Eddie,2025.0,movie,Film,Documentary,False,False,,False,,2.0,0.6,1.0,1.0,False,,,False,,,True,1.0,0.5,,,-0.1,1
+AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders,2024.0,tv,Documentary,Documentary,True,False,,False,Netflix,2.0,0.6,,2.0,False,,,False,,,True,3.0,0.7333333333333334,,,0.133,1
+BEEF,2023.0,tv,Scripted series,Comedy,True,False,,False,Netflix,2.0,0.6000000000000001,,2.0,False,,,False,,,True,3.0,0.4666666666666666,,,-0.133,1
+Best of the Best,2026.0,movie,Film,Comedy,False,False,,False,,2.0,0.55,,2.0,False,,,False,,,True,2.0,0.6000000000000001,,,0.05,1
+Big Mistakes,2026.0,tv,Scripted series,Crime & Thriller,True,False,,False,Netflix,2.0,0.75,,2.0,False,,,False,,,True,3.0,0.5666666666666668,,,-0.183,1
+Black Rabbit,2025.0,tv,Scripted limited series,Crime & Thriller,True,False,,False,Netflix,2.0,0.35,,2.0,False,,,False,,,True,2.0,0.4499999999999999,,,0.1,1
+Champagne Problems,2025.0,movie,Film,Comedy,False,False,,False,,2.0,0.8,,2.0,False,,,False,,,True,3.0,0.7666666666666666,,,-0.033,1
+Conversations with a Killer: The Charles Manson Tapes,2026.0,tv,Documentary,Documentary,True,False,,False,Netflix,2.0,0.8,,2.0,False,,,False,,,True,2.0,0.75,,,-0.05,1
+Dark Winds,2022.0,tv,Scripted series,Crime & Thriller,False,False,,False,AMC,2.0,0.25,,2.0,False,,,False,,,True,1.0,0.2,,,-0.05,1
+Death by Lightning,2025.0,tv,Scripted limited series,Crime & Thriller,True,False,,False,Netflix,2.0,0.8500000000000001,,2.0,False,,,False,,,True,2.0,0.35,,,-0.5,1
+Earle Meets World,2026.0,tv,Reality / unscripted,Reality,True,False,,False,Netflix,2.0,0.5,,2.0,False,,,False,,,True,1.0,0.5,,,0.0,1
+Enola Holmes 3,2026.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.8,,2.0,False,,,False,,,True,2.0,0.95,,,0.15,1
+Evil Influencer: The Jodi Hildebrandt Story,2025.0,movie,Film,Documentary,False,False,,False,,2.0,0.95,,2.0,False,,,False,,,True,2.0,0.95,,,0.0,1
+Free Bert,2026.0,tv,Scripted series,Comedy,True,False,,False,Netflix,2.0,0.75,,2.0,False,,,False,,,True,3.0,0.6666666666666666,,,-0.083,1
+How to Train Your Dragon,2025.0,movie,Film,Family & Animation,False,True,DreamWorks Animation,False,,2.0,0.8,,2.0,False,,,False,,,True,3.0,0.7000000000000001,,,-0.1,1
+Hulk Hogan: Real American,2026.0,tv,Documentary,Documentary,True,False,,False,Netflix,2.0,0.6,,2.0,False,,,False,,,True,2.0,0.25,,,-0.35,1
+Is It Cake? Halloween,2025.0,tv,Reality / unscripted,Reality,True,False,,False,Netflix,2.0,0.75,,2.0,False,,,False,,,True,2.0,0.4499999999999999,,,-0.3,1
+Jay Kelly,2025.0,movie,Film,Comedy,False,False,,False,,2.0,0.55,,2.0,False,,,False,,,True,2.0,0.5,,,-0.05,1
+Jingle Bell Heist,2025.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.75,,2.0,False,,,False,,,True,2.0,0.8500000000000001,,,0.1,1
+Kidnapped: Elizabeth Smart,2026.0,movie,Film,Documentary,False,False,,False,,2.0,0.8500000000000001,,2.0,False,,,False,,,True,2.0,0.95,,,0.1,1
+Ladies First,2026.0,movie,Film,Sci-Fi & Fantasy,True,False,,False,,2.0,0.6,,2.0,False,,,False,,,True,3.0,0.9333333333333332,,,0.333,1
+Let's Marry Harry,2026.0,tv,Reality / unscripted,Reality,True,False,,False,Netflix,2.0,0.1,,2.0,False,,,False,,,True,2.0,0.2,,,0.1,1
+Love on the Spectrum,2022.0,tv,Reality / unscripted,Reality,True,False,,False,Netflix,2.0,0.8,,2.0,False,,,False,,,True,3.0,0.6333333333333333,,,-0.167,1
+Madagascar,2005.0,movie,Animated film,Family & Animation,False,True,DreamWorks Animation,False,,2.0,0.6000000000000001,,2.0,False,,,False,,,True,2.0,0.4,,,-0.2,1
+Mark Rober's CrunchLabs,2025.0,tv,Documentary,Documentary,False,False,,False,,2.0,0.2,,2.0,False,,,False,,,True,6.0,0.4166666666666667,,,0.217,1
+"My Father, the BTK Killer",2025.0,movie,Film,Documentary,False,False,,False,,2.0,0.45,,2.0,False,,,False,,,True,3.0,0.5333333333333333,,,0.083,1
+Night at the Museum,2006.0,movie,Film,Family & Animation,False,False,,False,,2.0,0.35,,2.0,False,,,False,,,True,1.0,0.3,,,-0.05,1
+Nobody 2,2025.0,movie,Film,Crime & Thriller,False,True,Universal Pictures,False,,2.0,0.8,,2.0,False,,,False,,,True,2.0,0.95,,,0.15,1
+Ordinary Angels,2024.0,movie,Film,Drama,False,False,,False,,2.0,0.8,,2.0,False,,,False,,,True,2.0,0.7,,,-0.1,1
+Outlast: The Jungle,2026.0,tv,Reality / unscripted,Reality,True,False,,False,Netflix,2.0,0.8,,2.0,False,,,False,,,True,2.0,0.4499999999999999,,,-0.35,1
+Reality Check: Inside America's Next Top Model,2026.0,tv,Reality / unscripted,Reality,True,False,,False,Netflix,2.0,0.9,,2.0,False,,,False,,,True,2.0,0.9,,,0.0,1
+Selling Sunset,2019.0,tv,Reality / unscripted,Reality,True,False,,False,Netflix,2.0,0.75,,2.0,False,,,False,,,True,2.0,0.8,,,0.05,1
+The Abandons,2025.0,tv,Scripted series,Action & Adventure,True,False,,False,Netflix,2.0,0.7,,2.0,False,,,False,,,True,3.0,0.5666666666666667,,,-0.133,1
+The Carman Family Deaths,2025.0,movie,Film,Documentary,False,False,,False,,2.0,0.65,,2.0,False,,,False,,,True,2.0,0.7,,,0.05,1
+The Murder of Rachel Nickell,2026.0,movie,Film,Documentary,False,False,,False,,2.0,0.3,,2.0,False,,,False,,,True,2.0,0.75,,,0.45,1
+The Truth and Tragedy of Moriah Wilson,2026.0,movie,Film,Documentary,False,False,,False,,2.0,0.75,,2.0,False,,,False,,,True,2.0,0.8500000000000001,,,0.1,1
+Tires,2024.0,tv,Scripted series,Comedy,True,False,,False,Netflix,2.0,0.8500000000000001,,2.0,False,,,False,,,True,1.0,0.7,,,-0.15,1
+Turning Point: Generation 9/11,2026.0,movie,Film,Documentary,False,False,,False,,2.0,0.7,,2.0,False,,,False,,,True,2.0,0.4499999999999999,,,-0.25,1
+Untold: The Death & Life of Lamar Odom,2026.0,movie,Film,Documentary,False,False,,False,,2.0,0.5,,2.0,False,,,False,,,True,2.0,0.7,,,0.2,1
+"XO, Kitty",2023.0,tv,Scripted series,Comedy,True,False,,False,Netflix,2.0,0.75,,2.0,False,,,False,,,True,3.0,0.6333333333333333,,,-0.117,1
+How the Grinch Stole Christmas,2000.0,movie,Film,Family & Animation,False,True,Universal Pictures,False,,1.0,0.2,1.0,,False,,,False,,,True,4.0,0.6,,,0.4,1
+SEAL Team,2017.0,tv,Scripted series,Action & Adventure,False,False,,False,CBS|Paramount+,1.0,0.3,1.0,,False,,,False,,,True,1.0,0.1,,,-0.2,1
+A Man on the Inside,2024.0,tv,Scripted series,Crime & Thriller,True,True,Universal Television,False,Netflix,1.0,0.3,,1.0,False,,,False,,,True,1.0,0.3,,,0.0,1
+A Quiet Place: Day One,2024.0,movie,Film,Horror,False,False,,False,,1.0,0.7,,1.0,False,,,False,,,True,2.0,0.4,,,-0.3,1
+Absentia,2017.0,tv,Scripted series,Crime & Thriller,False,False,,False,Prime Video|AXN,1.0,0.9,,1.0,False,,,False,,,True,3.0,0.4,,,-0.5,1
+Bad Thoughts,2025.0,tv,Scripted series,Comedy,True,False,,False,Netflix,1.0,0.4,,1.0,False,,,False,,,True,1.0,0.3,,,-0.1,1
+Camp CrunchLabs,2026.0,tv,Reality / unscripted,Reality,True,False,,False,Netflix,1.0,0.1,,1.0,False,,,False,,,True,1.0,0.6,,,0.5,1
+David,2025.0,movie,Animated film,Family & Animation,False,False,,False,,1.0,0.8,,1.0,False,,,False,,,True,1.0,0.7,,,-0.1,1
+Detective Hole,2026.0,tv,Scripted series,Crime & Thriller,True,True,Universal International Studios,False,Netflix,1.0,0.4,,1.0,False,,,False,,,True,1.0,0.3,,,-0.1,1
+Devil May Cry,2025.0,tv,Animated series,Family & Animation,True,False,,False,Netflix,1.0,0.4,,1.0,False,,,False,,,True,1.0,0.2,,,-0.2,1
+Dog Man,2025.0,movie,Animated film,Family & Animation,False,True,DreamWorks Animation,False,,1.0,0.7,,1.0,False,,,False,,,True,2.0,0.5,,,-0.2,1
+Dr. Seuss The Cat in the Hat,2002.0,movie,Animated film,Family & Animation,False,True,Universal Pictures,False,,1.0,0.2,,1.0,False,,,False,,,True,1.0,0.2,,,0.0,1
+Dynasty: The Murdochs,2026.0,tv,Documentary,Documentary,True,False,,False,Netflix,1.0,0.5,,1.0,False,,,False,,,True,3.0,0.3333333333333333,,,-0.167,1
+Flipped,2010.0,movie,Film,Romance,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,True,1.0,0.4,,,-0.1,1
+Freefall: A Reckoning for Boeing,2026.0,movie,Film,Documentary,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,True,2.0,0.35,,,-0.15,1
+Gabby's Dollhouse,2021.0,tv,Animated series,Family & Animation,True,True,DreamWorks Animation Television,False,Netflix,1.0,0.3,,1.0,False,,,False,,,True,4.0,0.4,,,0.1,1
+Gabby's Dollhouse: The Movie,2025.0,movie,Animated film,Family & Animation,False,True,DreamWorks Animation,False,,1.0,0.2,,1.0,False,,,False,,,True,2.0,0.6,,,0.4,1
+Grand Theft Auto VI: An Extended Look,2026.0,movie,Animated film,Family & Animation,False,False,,False,,1.0,1.0,,1.0,False,,,False,,,True,2.0,0.55,,,-0.45,1
+Hot Ones: Extra Heat,2026.0,tv,Talk / variety,Other,True,False,,False,Netflix,1.0,0.6,,1.0,False,,,False,,,True,1.0,0.1,,,-0.5,1
+Jeffrey Epstein: Filthy Rich,2020.0,tv,Documentary,Documentary,True,False,,False,Netflix,1.0,0.5,,1.0,False,,,False,,,True,2.0,0.5,,,0.0,1
+Lawmen: Bass Reeves,2023.0,tv,Scripted limited series,Drama,False,False,,False,Paramount+,1.0,0.2,,1.0,False,,,False,,,True,1.0,0.6,,,0.4,1
+Legends,2014.0,tv,Scripted series,Crime & Thriller,False,False,,False,TNT,1.0,0.1,,1.0,False,,,False,,,True,6.0,0.6,,,0.5,1
+M3GAN 2.0,2025.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.9,,1.0,False,,,False,,,True,1.0,0.7,,,-0.2,1
+MARINES,2025.0,tv,Documentary,Documentary,True,False,,False,Netflix,1.0,0.6,,1.0,False,,,False,,,True,1.0,0.6,,,0.0,1
+Missing: Dead or Alive?,2023.0,tv,Documentary,Documentary,True,False,,False,Netflix,1.0,0.6,,1.0,False,,,False,,,True,2.0,0.5,,,-0.1,1
+One Last Adventure: The Making of Stranger Things 5,2026.0,movie,Film,Documentary,False,False,,False,,1.0,0.6,,1.0,False,,,False,,,True,1.0,0.6,,,0.0,1
+Ruth & Boaz,2025.0,movie,Film,Romance,False,False,,False,,1.0,0.9,,1.0,False,,,False,,,True,1.0,0.8,,,-0.1,1
+Shrill,2019.0,tv,Scripted series,Comedy,False,False,,False,Hulu,1.0,0.7,,1.0,False,,,False,,,True,2.0,0.4499999999999999,,,-0.25,1
+Song Sung Blue,2025.0,movie,Film,Romance,False,True,Focus Features,False,,1.0,0.3,,1.0,False,,,False,,,True,3.0,0.4666666666666666,,,0.167,1
+Southland,2009.0,tv,Scripted series,Drama,False,False,,True,NBC|TNT,1.0,0.3,,1.0,False,,,False,,,True,1.0,0.4,,,0.1,1
+Striking Distance,1993.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.3,,1.0,False,,,False,,,True,2.0,0.35,,,0.05,1
+Sweet Home Alabama,2002.0,movie,Film,Comedy,False,False,,False,,1.0,0.3,,1.0,False,,,False,,,True,1.0,0.5,,,0.2,1
+The Covenant,2006.0,movie,Film,Horror,False,False,,False,,1.0,0.7,,1.0,False,,,False,,,True,2.0,0.8,,,0.1,1
+The Creator,2023.0,movie,Film,Sci-Fi & Fantasy,False,False,,False,,1.0,0.2,,1.0,False,,,False,,,True,2.0,0.3,,,0.1,1
+The Hustle,2019.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,True,3.0,0.5666666666666667,,,0.067,1
+The Twits,2025.0,movie,Animated film,Family & Animation,True,False,,False,,1.0,0.5,,1.0,False,,,False,,,True,3.0,0.5666666666666667,,,0.067,1
+True Haunting,2025.0,tv,Documentary,Documentary,True,False,,False,Netflix,1.0,0.7,,1.0,False,,,False,,,True,1.0,0.7,,,0.0,1
+UNABOMBER,2026.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,1.0,,1.0,False,,,False,,,True,1.0,1.0,,,0.0,1
+Untold Mr. T: I Pity the Fool,2026.0,movie,Film,Documentary,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,True,1.0,0.2,,,-0.3,1
+Untold Raygun: Breaking Badly,2026.0,movie,Film,Documentary,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,True,2.0,0.55,,,0.05,1
+Untold: The Shooting at Hawthorne Hill,2026.0,movie,Film,Documentary,False,False,,False,,1.0,0.8,,1.0,False,,,False,,,True,1.0,0.6,,,-0.2,1
+Vladimir,2026.0,tv,Scripted limited series,Drama,True,False,,False,Netflix,1.0,0.4,,1.0,False,,,False,,,True,2.0,0.55,,,0.15,1
+Wicked: For Good,2025.0,movie,Film,Sci-Fi & Fantasy,False,True,Universal Pictures,False,,1.0,0.6,,1.0,False,,,False,,,True,1.0,0.4,,,-0.2,1
+Wonka's The Golden Ticket,2026.0,tv,Reality / unscripted,Reality,True,False,,False,Netflix,1.0,0.8,,1.0,False,,,False,,,True,1.0,0.8,,,0.0,1
+Tom Segura,2014.0,tv,Scripted series,Comedy,False,False,,False,,1.0,0.7,,1.0,False,,,False,,,True,1.0,0.1,,,-0.6,1
+Kevin Hart: Lyft Legend,2017.0,tv,Reality / unscripted,Reality,False,False,,False,,1.0,0.9,,1.0,False,,,False,,,True,1.0,0.8,,,-0.1,1
+The Daily Show,1996.0,tv,Talk / variety,Comedy,False,False,,False,Comedy Central,1.0,0.3,,1.0,False,,,False,,,True,1.0,0.3,,,0.0,1
+Grey's Anatomy,2005.0,tv,Scripted series,Drama,False,False,,False,ABC,12.0,0.4846153846153846,12.0,,False,,,False,,,False,,,,,,0
+The Big Bang Theory,2007.0,tv,Scripted series,Comedy,False,False,,False,CBS,10.0,0.5363636363636364,10.0,,False,,,False,,,False,,,,,,0
+Love Is Blind,2020.0,tv,Reality / unscripted,Reality,True,False,,False,Netflix,9.0,0.46875,1.0,8.0,False,,,False,,,False,,,,,,0
+GOAT,2026.0,movie,Animated film,Family & Animation,False,False,,False,,7.0,0.7285714285714285,,7.0,False,,,False,,,False,,,,,,0
+Spider-Man: Into the Spider-Verse,2018.0,movie,Animated film,Family & Animation,False,False,,False,,7.0,0.2714285714285714,,7.0,False,,,False,,,False,,,,,,0
+Minions: The Rise of Gru,2022.0,movie,Animated film,Family & Animation,False,True,Universal Pictures,False,,6.0,0.4666666666666666,,6.0,False,,,False,,,False,,,,,,0
+SpongeBob SquarePants,1999.0,tv,Animated series,Family & Animation,False,False,,False,Nickelodeon,5.0,0.2333333333333333,5.0,,False,,,False,,,False,,,,,,0
+Despicable Me 3,2017.0,movie,Animated film,Family & Animation,False,True,Illumination,False,,5.0,0.32,,5.0,False,,,False,,,False,,,,,,0
+Bob's Burgers,2011.0,tv,Animated series,Family & Animation,False,False,,False,FOX,4.0,0.375,4.0,,False,,,False,,,False,,,,,,0
+Dutton Ranch,2026.0,tv,Scripted series,Action & Adventure,False,False,,False,Paramount Network|Paramount+,4.0,0.35,4.0,,False,,,False,,,False,,,,,,0
+NCIS,2003.0,tv,Scripted series,Crime & Thriller,False,False,,False,CBS,4.0,0.5,4.0,,False,,,False,,,False,,,,,,0
+Anaconda,2025.0,movie,Film,Horror,False,False,,False,,4.0,0.5833333333333334,1.0,3.0,False,,,False,,,False,,,,,,0
+La Brea,2021.0,tv,Scripted series,Sci-Fi & Fantasy,False,True,Universal Television,False,NBC,4.0,0.6,1.0,3.0,False,,,False,,,False,,,,,,0
+11.22.63,2016.0,tv,Scripted limited series,Sci-Fi & Fantasy,False,False,,False,Hulu,4.0,0.475,,4.0,False,,,False,,,False,,,,,,0
+Law & Order,1990.0,tv,Scripted series,Crime & Thriller,False,True,Wolf Entertainment,False,NBC,3.0,0.2333333333333333,3.0,,False,,,False,,,False,,,,,,0
+The Boys,2019.0,tv,Scripted series,Sci-Fi & Fantasy,False,False,,False,Prime Video,3.0,0.6,3.0,,False,,,False,,,False,,,,,,0
+Puss in Boots: The Last Wish,2022.0,movie,Animated film,Family & Animation,False,True,DreamWorks Animation,False,,3.0,0.65,1.0,2.0,False,,,False,,,False,,,,,,0
+The Marksman,2021.0,movie,Film,Crime & Thriller,False,False,,False,,3.0,0.6749999999999999,1.0,2.0,False,,,False,,,False,,,,,,0
+The Seemingly Perfect Family,2026.0,movie,Film,Crime & Thriller,False,False,,False,,3.0,0.775,1.0,2.0,False,,,False,,,False,,,,,,0
+Gaslit by My Husband: The Morgan Metzer Story,2024.0,movie,Film,Crime & Thriller,False,False,,False,,3.0,0.5,,3.0,False,,,False,,,False,,,,,,0
+Home,2015.0,movie,Animated film,Family & Animation,False,True,DreamWorks Animation,False,,3.0,0.3333333333333333,,3.0,False,,,False,,,False,,,,,,0
+Homefront,2013.0,movie,Film,Crime & Thriller,False,True,Universal Pictures,False,,3.0,0.3999999999999999,,3.0,False,,,False,,,False,,,,,,0
+Stolen Baby: The Murder of Heidi Broussard,2023.0,movie,Film,Crime & Thriller,False,False,,False,,3.0,0.5666666666666668,,3.0,False,,,False,,,False,,,,,,0
+Trap House,2025.0,movie,Film,Crime & Thriller,False,False,,False,,3.0,0.7666666666666666,,3.0,False,,,False,,,False,,,,,,0
+Trolls,2016.0,movie,Animated film,Family & Animation,False,True,DreamWorks Animation,False,,3.0,0.2666666666666666,,3.0,False,,,False,,,False,,,,,,0
+Family Guy,1999.0,tv,Animated series,Family & Animation,False,False,,False,FOX,2.0,0.3,2.0,,False,,,False,,,False,,,,,,0
+Homeland,2011.0,tv,Scripted series,Crime & Thriller,False,False,,False,Showtime,2.0,0.6,2.0,,False,,,False,,,False,,,,,,0
+House of the Dragon,2022.0,tv,Scripted series,Sci-Fi & Fantasy,False,False,,False,HBO,2.0,0.55,2.0,,False,,,False,,,False,,,,,,0
+Landman,2024.0,tv,Scripted series,Drama,False,False,,False,Paramount+,2.0,0.8500000000000001,2.0,,False,,,False,,,False,,,,,,0
+Lioness,2023.0,tv,Scripted series,Action & Adventure,False,False,,False,Paramount+,2.0,0.5333333333333333,2.0,,False,,,False,,,False,,,,,,0
+Ted Lasso,2020.0,tv,Scripted series,Comedy,False,True,Universal Television,False,Apple TV,2.0,0.6,2.0,,False,,,False,,,False,,,,,,0
+The Pitt,2025.0,tv,Scripted series,Drama,False,False,,False,Max|HBO Max,2.0,0.8500000000000001,2.0,,False,,,False,,,False,,,,,,0
+The Secret Lives of Mormon Wives,2024.0,tv,Reality / unscripted,Reality,False,False,,False,Hulu,2.0,0.1,2.0,,False,,,False,,,False,,,,,,0
+The Fantastic 4: First Steps,2025.0,movie,Film,Sci-Fi & Fantasy,False,False,,False,,2.0,0.25,2.0,,False,,,False,,,False,,,,,,0
+The GOAT,2024.0,tv,Reality / unscripted,Reality,False,False,,False,Prime Video|Amazon Freevee,2.0,0.7,2.0,,False,,,False,,,False,,,,,,0
+The Closer,2005.0,tv,Scripted series,Crime & Thriller,False,False,,False,TNT,2.0,0.55,1.0,1.0,False,,,False,,,False,,,,,,0
+A Cowboy Christmas Romance,2023.0,movie,Film,Comedy,False,False,,False,,2.0,0.6,,2.0,False,,,False,,,False,,,,,,0
+About My Father,2023.0,movie,Film,Comedy,False,False,,False,,2.0,0.6,,2.0,False,,,False,,,False,,,,,,0
+Arthur the King,2024.0,movie,Film,Action & Adventure,False,False,,False,,2.0,0.5,,2.0,False,,,False,,,False,,,,,,0
+Bee Movie,2007.0,movie,Animated film,Family & Animation,False,True,DreamWorks Animation,False,,2.0,0.6,,2.0,False,,,False,,,False,,,,,,0
+Best Medicine,2026.0,tv,Scripted series,Comedy,False,False,,False,FOX,2.0,0.55,,2.0,False,,,False,,,False,,,,,,0
+Black and Blue,2019.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.45,,2.0,False,,,False,,,False,,,,,,0
+Fall,2022.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.6,,2.0,False,,,False,,,False,,,,,,0
+Fast Charlie,2023.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.45,,2.0,False,,,False,,,False,,,,,,0
+Funny AF with Kevin Hart,2026.0,tv,Reality / unscripted,Reality,True,False,,False,Netflix,2.0,0.3999999999999999,,2.0,False,,,False,,,False,,,,,,0
+Gone Girl,2014.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.3,,2.0,False,,,False,,,False,,,,,,0
+Green Book,2018.0,movie,Film,Comedy,False,False,,False,,2.0,0.4499999999999999,,2.0,False,,,False,,,False,,,,,,0
+Husband Father Killer: The Alyssa Pladl Story,2024.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.55,,2.0,False,,,False,,,False,,,,,,0
+I Know What You Did Last Summer,2025.0,movie,Film,Horror,False,False,,False,,2.0,0.35,,2.0,False,,,False,,,False,,,,,,0
+Jumanji: Welcome to the Jungle,2017.0,movie,Film,Sci-Fi & Fantasy,False,False,,False,,2.0,0.7,,2.0,False,,,False,,,False,,,,,,0
+Jurassic World Dominion,2022.0,movie,Film,Crime & Thriller,False,True,Universal Pictures,False,,2.0,0.5,,2.0,False,,,False,,,False,,,,,,0
+Law Abiding Citizen,2009.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.15,,2.0,False,,,False,,,False,,,,,,0
+Leanne,2025.0,tv,Scripted series,Comedy,True,False,,False,Netflix,2.0,0.6,,2.0,False,,,False,,,False,,,,,,0
+Life of the Party,2018.0,movie,Film,Comedy,False,False,,False,,2.0,0.35,,2.0,False,,,False,,,False,,,,,,0
+Love & Death,2023.0,tv,Scripted limited series,Crime & Thriller,False,False,,False,HBO Max|Max,2.0,0.4,,2.0,False,,,False,,,False,,,,,,0
+Maze Runner: The Scorch Trials,2015.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.4,,2.0,False,,,False,,,False,,,,,,0
+Mean Girls,2004.0,movie,Film,Comedy,False,False,,False,,2.0,0.2,,2.0,False,,,False,,,False,,,,,,0
+Million Dollar Secret,2025.0,tv,Reality / unscripted,Reality,True,False,,False,Netflix,2.0,0.2,,2.0,False,,,False,,,False,,,,,,0
+Minions,2015.0,movie,Animated film,Family & Animation,False,True,Illumination,False,,2.0,0.6,,2.0,False,,,False,,,False,,,,,,0
+Mother's Day,2016.0,movie,Film,Comedy,False,True,Universal Pictures,False,,2.0,0.6,,2.0,False,,,False,,,False,,,,,,0
+Old Henry,2021.0,movie,Film,Action & Adventure,False,False,,False,,2.0,0.55,,2.0,False,,,False,,,False,,,,,,0
+PAW Patrol: The Mighty Movie,2023.0,movie,Animated film,Family & Animation,False,False,,False,,2.0,0.55,,2.0,False,,,False,,,False,,,,,,0
+Priscilla,2023.0,movie,Film,Romance,False,False,,False,,2.0,0.35,,2.0,False,,,False,,,False,,,,,,0
+Ready or Not,2019.0,movie,Film,Horror,False,False,,False,,2.0,0.15,,2.0,False,,,False,,,False,,,,,,0
+Suitcase Killer: The Melanie McGuire Story,2022.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.75,,2.0,False,,,False,,,False,,,,,,0
+Taken in Plain Sight,2024.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.6499999999999999,,2.0,False,,,False,,,False,,,,,,0
+Talamasca: The Secret Order,2025.0,tv,Scripted series,Sci-Fi & Fantasy,False,False,,False,AMC,2.0,0.4499999999999999,,2.0,False,,,False,,,False,,,,,,0
+"Terry McMillan Presents: His, Hers & Ours",2025.0,movie,Film,Romance,False,False,,False,,2.0,0.55,,2.0,False,,,False,,,False,,,,,,0
+The Addams Family,1991.0,movie,Film,Sci-Fi & Fantasy,False,False,,False,,2.0,0.6,,2.0,False,,,False,,,False,,,,,,0
+The Bad Guardian,2024.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.35,,2.0,False,,,False,,,False,,,,,,0
+The Bad Guys,2022.0,movie,Animated film,Family & Animation,False,True,DreamWorks Animation,False,,2.0,0.5,,2.0,False,,,False,,,False,,,,,,0
+The Dating App Killer: The Monica White Story,2026.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.8,,2.0,False,,,False,,,False,,,,,,0
+The Hangover,2009.0,movie,Film,Comedy,False,False,,False,,2.0,0.4499999999999999,,2.0,False,,,False,,,False,,,,,,0
+The Hunger Games,2012.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.2,,2.0,False,,,False,,,False,,,,,,0
+The Hunting Party,2025.0,tv,Scripted series,Crime & Thriller,False,True,Universal Television,False,NBC,2.0,0.65,,2.0,False,,,False,,,False,,,,,,0
+The Last Ship,2014.0,tv,Scripted series,Sci-Fi & Fantasy,False,False,,False,TNT,2.0,0.5,,2.0,False,,,False,,,False,,,,,,0
+The Maze Runner,2014.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.6000000000000001,,2.0,False,,,False,,,False,,,,,,0
+The Ministry of Ungentlemanly Warfare,2024.0,movie,Film,Action & Adventure,False,False,,False,,2.0,0.8500000000000001,,2.0,False,,,False,,,False,,,,,,0
+The Requin,2022.0,movie,Film,Horror,False,False,,False,,2.0,0.6499999999999999,,2.0,False,,,False,,,False,,,,,,0
+The Ultimatum: Marry or Move On,2022.0,tv,Reality / unscripted,Reality,True,False,,False,Netflix,2.0,0.55,,2.0,False,,,False,,,False,,,,,,0
+Ticket to Paradise,2022.0,movie,Film,Comedy,False,True,Universal Pictures,False,,2.0,0.4499999999999999,,2.0,False,,,False,,,False,,,,,,0
+To Catch a Cheater,2026.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.5,,2.0,False,,,False,,,False,,,,,,0
+White Chicks,2004.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.6000000000000001,,2.0,False,,,False,,,False,,,,,,0
+Wrath of Man,2021.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.8500000000000001,,2.0,False,,,False,,,False,,,,,,0
+Zombieland: Double Tap,2019.0,movie,Film,Comedy,False,False,,False,,2.0,0.15,,2.0,False,,,False,,,False,,,,,,0
+Tyler Perry's A Madea Christmas - The Play,2011.0,movie,Film,Comedy,False,False,,False,,2.0,0.2,,2.0,False,,,False,,,False,,,,,,0
+Expend4bles,2023.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.75,,2.0,False,,,False,,,False,,,,,,0
+Cube & Epps,,tv,Scripted series,Comedy,False,False,,False,,2.0,0.55,,2.0,False,,,False,,,False,,,,,,0
+Criminal Minds,2005.0,tv,Scripted series,Crime & Thriller,False,False,,False,CBS|Paramount+,1.0,0.2,1.0,,False,,,False,,,False,,,,,,0
+Euphoria,2019.0,tv,Scripted series,Drama,False,False,,False,HBO,1.0,0.2,1.0,,False,,,False,,,False,,,,,,0
+Fallout,2024.0,tv,Scripted series,Sci-Fi & Fantasy,False,False,,False,Prime Video,1.0,0.5,1.0,,False,,,False,,,False,,,,,,0
+Freakier Friday,2025.0,movie,Film,Family & Animation,False,False,,False,,1.0,0.6,1.0,,False,,,False,,,False,,,,,,0
+Gunsmoke,1955.0,tv,Scripted series,Action & Adventure,False,False,,False,CBS,1.0,0.3,1.0,,False,,,False,,,False,,,,,,0
+IT: Welcome to Derry,2025.0,tv,Scripted series,Crime & Thriller,False,False,,False,HBO,1.0,0.1,1.0,,False,,,False,,,False,,,,,,0
+Lanterns,2026.0,tv,Scripted series,Crime & Thriller,False,False,,False,HBO,1.0,0.4,1.0,,False,,,False,,,False,,,,,,0
+Major Crimes,2012.0,tv,Scripted series,Crime & Thriller,False,False,,False,TNT,1.0,0.65,1.0,,False,,,False,,,False,,,,,,0
+Mayday,2026.0,movie,Film,Action & Adventure,False,False,,False,,1.0,0.2,1.0,,False,,,False,,,False,,,,,,0
+Modern Family,2009.0,tv,Scripted series,Comedy,False,False,,False,ABC,1.0,0.3,1.0,,False,,,False,,,False,,,,,,0
+Neagley,2026.0,tv,Scripted series,Crime & Thriller,False,False,,False,Prime Video,1.0,1.0,1.0,,False,,,False,,,False,,,,,,0
+Playdate,2025.0,movie,Film,Action & Adventure,False,False,,False,,1.0,0.8,1.0,,False,,,False,,,False,,,,,,0
+Practical Magic,1998.0,movie,Film,Sci-Fi & Fantasy,False,False,,False,,1.0,0.4,1.0,,False,,,False,,,False,,,,,,0
+Reacher,2022.0,tv,Scripted series,Crime & Thriller,False,False,,False,Prime Video,1.0,0.8,1.0,,False,,,False,,,False,,,,,,0
+Spider-Noir,2026.0,tv,Scripted series,Crime & Thriller,False,False,,False,MGM+,1.0,0.7,1.0,,False,,,False,,,False,,,,,,0
+Supergirl,2026.0,movie,Film,Sci-Fi & Fantasy,False,False,,False,,1.0,0.7,1.0,,False,,,False,,,False,,,,,,0
+The Madison,2026.0,tv,Scripted series,Drama,False,False,,False,Paramount+,1.0,0.7,1.0,,False,,,False,,,False,,,,,,0
+The Super Mario Galaxy Movie,2026.0,movie,Animated film,Family & Animation,False,True,Illumination,False,,1.0,0.3,1.0,,False,,,False,,,False,,,,,,0
+Young Sheldon,2017.0,tv,Scripted series,Family & Animation,False,False,,False,CBS,1.0,0.1,1.0,,False,,,False,,,False,,,,,,0
+The Mandalorian and Grogu,2026.0,movie,Film,Sci-Fi & Fantasy,False,False,,False,,1.0,0.6,1.0,,False,,,False,,,False,,,,,,0
+Tom Clancy's Jack Ryan,2018.0,tv,Scripted series,Action & Adventure,False,False,,False,Prime Video,1.0,0.4,1.0,,False,,,False,,,False,,,,,,0
+10 Things I Hate About You,1999.0,movie,Film,Comedy,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+5lbs of Pressure,2024.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.7,,1.0,False,,,False,,,False,,,,,,0
+9 to 5,,movie,Film,Comedy,False,False,,False,,1.0,0.3,,1.0,False,,,False,,,False,,,,,,0
+A Different World,1987.0,tv,Scripted series,Family & Animation,False,False,,True,NBC,1.0,0.9,,1.0,False,,,False,,,False,,,,,,0
+A Line of Fire,2025.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+Alice,2022.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Alone,2015.0,tv,Reality / unscripted,Reality,False,False,,False,History,1.0,0.2,,1.0,False,,,False,,,False,,,,,,0
+Ambulance,2022.0,movie,Film,Crime & Thriller,False,True,Universal Pictures,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+American Godfathers: The Five Families,2024.0,tv,Documentary,Documentary,False,False,,False,History,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+Amish Stud: The Eli Weaver Story,2023.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+An Unexpected Valentine,2025.0,movie,Film,Comedy,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+And So It Goes,2014.0,movie,Film,Comedy,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Aquaman and the Lost Kingdom,2023.0,movie,Film,Sci-Fi & Fantasy,False,False,,False,,1.0,0.7,,1.0,False,,,False,,,False,,,,,,0
+Black Adam,2022.0,movie,Film,Sci-Fi & Fantasy,False,False,,False,,1.0,0.2,,1.0,False,,,False,,,False,,,,,,0
+Blue Beetle,2023.0,movie,Film,Sci-Fi & Fantasy,False,False,,False,,1.0,0.1,,1.0,False,,,False,,,False,,,,,,0
+Bugonia,2025.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Casper,1995.0,movie,Film,Family & Animation,False,True,Universal Pictures,False,,1.0,0.2,,1.0,False,,,False,,,False,,,,,,0
+Caught Stealing,2025.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Charlie and the Chocolate Factory,2005.0,movie,Film,Family & Animation,False,False,,False,,1.0,0.1,,1.0,False,,,False,,,False,,,,,,0
+Cheaper by the Dozen,2003.0,movie,Film,Family & Animation,False,False,,False,,1.0,0.1,,1.0,False,,,False,,,False,,,,,,0
+Chief of Station,2024.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Christmas at the Chalet,2023.0,movie,Film,Comedy,False,False,,False,,1.0,0.2,,1.0,False,,,False,,,False,,,,,,0
+Clika,2026.0,movie,Film,Drama,False,False,,False,,1.0,0.3,,1.0,False,,,False,,,False,,,,,,0
+Contraband,2012.0,movie,Film,Crime & Thriller,False,True,Universal Pictures,False,,1.0,0.6,,1.0,False,,,False,,,False,,,,,,0
+Copshop,2021.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.8,,1.0,False,,,False,,,False,,,,,,0
+Creed,2015.0,movie,Film,Drama,False,False,,False,,1.0,0.2,,1.0,False,,,False,,,False,,,,,,0
+Creed III,2023.0,movie,Film,Action & Adventure,False,False,,False,,1.0,0.3,,1.0,False,,,False,,,False,,,,,,0
+Deepwater Horizon,2016.0,movie,Film,Action & Adventure,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Doc,2025.0,tv,Scripted series,Drama,False,False,,False,FOX,1.0,0.7,,1.0,False,,,False,,,False,,,,,,0
+Dog,2022.0,movie,Film,Comedy,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Don't Say a Word,2001.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Eden,2025.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.2,,1.0,False,,,False,,,False,,,,,,0
+Eleanor the Great,2025.0,movie,Film,Drama,False,False,,False,,1.0,0.3,,1.0,False,,,False,,,False,,,,,,0
+Faith in the Flames: The Nichole Jolly Story,2025.0,movie,Film,Drama,False,False,,False,,1.0,0.7,,1.0,False,,,False,,,False,,,,,,0
+Five Nights at Freddy's 2,2025.0,movie,Film,Horror,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+Flowers in the Attic,2014.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.8,,1.0,False,,,False,,,False,,,,,,0
+Ford v Ferrari,2019.0,movie,Film,Action & Adventure,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Four Brothers,2005.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.6,,1.0,False,,,False,,,False,,,,,,0
+Game Night,2018.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.1,,1.0,False,,,False,,,False,,,,,,0
+Ghost Rider: Spirit of Vengeance,2011.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.1,,1.0,False,,,False,,,False,,,,,,0
+Goosebumps 2: Haunted Halloween,2018.0,movie,Film,Family & Animation,False,False,,False,,1.0,0.6,,1.0,False,,,False,,,False,,,,,,0
+Halloween Ends,2022.0,movie,Film,Horror,False,True,Universal Pictures,False,,1.0,0.1,,1.0,False,,,False,,,False,,,,,,0
+Halo,2022.0,tv,Scripted series,Sci-Fi & Fantasy,False,False,,False,Paramount+,1.0,0.2,,1.0,False,,,False,,,False,,,,,,0
+HIM,2025.0,movie,Film,Horror,False,True,Universal Pictures,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Hoax: The Kidnapping of Sherri Papini,2023.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Homicide Squad New Orleans,2025.0,tv,Documentary,Documentary,False,True,Wolf Entertainment,False,A&E,1.0,0.2,,1.0,False,,,False,,,False,,,,,,0
+Honest Thief,2020.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Hotel Transylvania 3: Summer Vacation,2018.0,movie,Animated film,Family & Animation,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+Hunting Housewives,2024.0,movie,Film,Drama,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+I Survived a Serial Killer,2021.0,tv,Documentary,Documentary,False,False,,False,A&E,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+Idiocracy,2006.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.2,,1.0,False,,,False,,,False,,,,,,0
+Independence Day,1996.0,movie,Film,Sci-Fi & Fantasy,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Is It Cake? Holiday,2024.0,tv,Reality / unscripted,Reality,True,False,,False,Netflix,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Jennifer's Body,2009.0,movie,Film,Horror,False,False,,False,,1.0,0.1,,1.0,False,,,False,,,False,,,,,,0
+Jurassic World,2015.0,movie,Film,Crime & Thriller,False,True,Universal Pictures,False,,1.0,0.6,,1.0,False,,,False,,,False,,,,,,0
+Jurassic World: Fallen Kingdom,2018.0,movie,Film,Crime & Thriller,False,True,Universal Pictures,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+Just Go with It,2011.0,movie,Film,Comedy,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+Karate Kid: Legends,2025.0,movie,Film,Action & Adventure,False,False,,False,,1.0,0.8,,1.0,False,,,False,,,False,,,,,,0
+Knock at the Cabin,2023.0,movie,Film,Horror,False,True,Universal Pictures,False,,1.0,0.2,,1.0,False,,,False,,,False,,,,,,0
+Mike and Dave Need Wedding Dates,2016.0,movie,Film,Comedy,False,False,,False,,1.0,0.9,,1.0,False,,,False,,,False,,,,,,0
+No Sleep 'Til Christmas,2018.0,movie,Film,Comedy,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+Nobody Dumps My Daughter,2024.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.6,,1.0,False,,,False,,,False,,,,,,0
+Nope,2022.0,movie,Film,Horror,False,True,Universal Pictures,False,,1.0,0.3,,1.0,False,,,False,,,False,,,,,,0
+Nothing to Lose,1997.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+Nuremberg,2025.0,movie,Film,Drama,False,False,,False,,1.0,0.9,,1.0,False,,,False,,,False,,,,,,0
+Overboard,2018.0,movie,Film,Comedy,False,False,,False,,1.0,0.6,,1.0,False,,,False,,,False,,,,,,0
+Passengers,2016.0,movie,Film,Sci-Fi & Fantasy,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+Percy Jackson & the Olympians: The Lightning Thief,2010.0,movie,Film,Family & Animation,False,False,,False,,1.0,0.7,,1.0,False,,,False,,,False,,,,,,0
+Percy Jackson: Sea of Monsters,2013.0,movie,Film,Family & Animation,False,False,,False,,1.0,0.6,,1.0,False,,,False,,,False,,,,,,0
+Pitch Perfect,2012.0,movie,Film,Comedy,False,True,Universal Pictures,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Pitch Perfect 2,2015.0,movie,Film,Comedy,False,True,Universal Pictures,False,,1.0,0.2,,1.0,False,,,False,,,False,,,,,,0
+Premonition,2007.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.3,,1.0,False,,,False,,,False,,,,,,0
+Pretty Woman,1990.0,movie,Film,Comedy,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Rio,2011.0,movie,Animated film,Family & Animation,False,False,,False,,1.0,0.8,,1.0,False,,,False,,,False,,,,,,0
+Rio 2,2014.0,movie,Animated film,Family & Animation,False,False,,False,,1.0,0.7,,1.0,False,,,False,,,False,,,,,,0
+Safe Haven,2013.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.1,,1.0,False,,,False,,,False,,,,,,0
+Secret Mall Apartment,2025.0,movie,Film,Documentary,False,False,,False,,1.0,0.7,,1.0,False,,,False,,,False,,,,,,0
+Selena y Los Dinos: A Family's Legacy,2025.0,movie,Film,Documentary,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+Sesame Street,1969.0,tv,Scripted series,Family & Animation,True,False,,False,PBS|HBO|National Educational Television|PBS Kids|Netflix|HBO Max|Max|HBO Max,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+Sniper: No Nation,2026.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.7,,1.0,False,,,False,,,False,,,,,,0
+Sonic the Hedgehog 2,2022.0,movie,Film,Family & Animation,False,False,,False,,1.0,0.6,,1.0,False,,,False,,,False,,,,,,0
+Soul on Fire,2025.0,movie,Film,Drama,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+Star Search,1995.0,tv,Scripted series,Other,False,False,,False,,1.0,0.6,,1.0,False,,,False,,,False,,,,,,0
+Straight Outta Compton,2015.0,movie,Film,Drama,False,True,Universal Pictures,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Survival of the Thickest,2023.0,tv,Scripted series,Comedy,True,False,,False,Netflix,1.0,0.1,,1.0,False,,,False,,,False,,,,,,0
+Temptation Island,2019.0,tv,Reality / unscripted,Reality,False,False,,True,USA Network,1.0,0.7,,1.0,False,,,False,,,False,,,,,,0
+The A-Team,2010.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.1,,1.0,False,,,False,,,False,,,,,,0
+The Addams Family 2,2021.0,movie,Animated film,Family & Animation,False,False,,False,,1.0,0.3,,1.0,False,,,False,,,False,,,,,,0
+The Black Phone,2022.0,movie,Film,Horror,False,False,,False,,1.0,0.2,,1.0,False,,,False,,,False,,,,,,0
+The Body in the Locker,2025.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.7,,1.0,False,,,False,,,False,,,,,,0
+The Boss,2016.0,movie,Film,Comedy,False,True,Universal Pictures,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+The Breadwinner,2026.0,movie,Film,Family & Animation,False,False,,False,,1.0,0.6,,1.0,False,,,False,,,False,,,,,,0
+The Christmas Chronicles,2018.0,movie,Film,Family & Animation,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+The Girl Who Got Away,2021.0,movie,Film,Horror,False,False,,False,,1.0,0.3,,1.0,False,,,False,,,False,,,,,,0
+The Great Wall,2016.0,movie,Film,Sci-Fi & Fantasy,False,True,Universal Pictures,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+The Hangover Part II,2011.0,movie,Film,Comedy,False,False,,False,,1.0,0.2,,1.0,False,,,False,,,False,,,,,,0
+The Hunger Games: The Ballad of Songbirds & Snakes,2023.0,movie,Film,Sci-Fi & Fantasy,False,False,,False,,1.0,0.3,,1.0,False,,,False,,,False,,,,,,0
+The Island,2005.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.2,,1.0,False,,,False,,,False,,,,,,0
+The Matchmaker's Playbook,2018.0,movie,Film,Romance,False,False,,False,,1.0,0.1,,1.0,False,,,False,,,False,,,,,,0
+The Proposal,2009.0,movie,Film,Comedy,False,False,,False,,1.0,0.7,,1.0,False,,,False,,,False,,,,,,0
+The Royal We,2025.0,movie,Film,Comedy,False,False,,False,,1.0,0.2,,1.0,False,,,False,,,False,,,,,,0
+The Sandlot,1993.0,movie,Film,Family & Animation,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+The Smurfs,2011.0,movie,Animated film,Family & Animation,False,False,,False,,1.0,0.1,,1.0,False,,,False,,,False,,,,,,0
+Top Gun: Maverick,2022.0,movie,Film,Action & Adventure,False,False,,False,,1.0,0.8,,1.0,False,,,False,,,False,,,,,,0
+Turbo,2013.0,movie,Animated film,Family & Animation,False,True,DreamWorks Animation,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Untold: Jail Blazers,2026.0,movie,Film,Documentary,False,False,,False,,1.0,0.2,,1.0,False,,,False,,,False,,,,,,0
+Untold: The Testimony of Vince Young,2026.0,movie,Film,Documentary,False,False,,False,,1.0,0.6,,1.0,False,,,False,,,False,,,,,,0
+Vacation,2015.0,movie,Film,Action & Adventure,False,False,,False,,1.0,0.7,,1.0,False,,,False,,,False,,,,,,0
+Wanted Man,2024.0,movie,Film,Action & Adventure,False,False,,False,,1.0,0.3,,1.0,False,,,False,,,False,,,,,,0
+Welcome Home Roscoe Jenkins,2008.0,movie,Film,Family & Animation,False,True,Universal Pictures,False,,1.0,0.1,,1.0,False,,,False,,,False,,,,,,0
+Maze Runner: The Death Cure,2018.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.1,,1.0,False,,,False,,,False,,,,,,0
+Mission: Impossible - Dead Reckoning Part One,2023.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
+Kill Tony,,tv,Talk / variety,Comedy,False,False,,False,,1.0,0.6,,1.0,False,,,False,,,False,,,,,,0
+Terry McMillan Presents: Tempted 2 Love,2026.0,movie,Film,Romance,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+The Wanda Sykes Show,2009.0,tv,Scripted series,Other,False,False,,False,FOX,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+Louis CK Stand Up,1996.0,tv,Scripted series,Comedy,False,False,,False,,1.0,0.3,,1.0,False,,,False,,,False,,,,,,0
+After Midnight,2024.0,tv,Talk / variety,Comedy,False,False,,False,CBS,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
+The American Film Institute Salute to ...,1973.0,tv,Reality / unscripted,Reality,True,False,,False,TNT|Netflix,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0

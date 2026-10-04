@@ -2249,543 +2249,603 @@ US,nielsen,US streaming (Nielsen),Overall,2026-08-03,Grey's Anatomy,,7,10,minute
 US,nielsen,US streaming (Nielsen),Overall,2026-08-03,Lioness,,8,10,minutes viewed (millions),783.0,,,0.3
 US,nielsen,US streaming (Nielsen),Overall,2026-08-03,SpongeBob SquarePants,,9,10,minutes viewed (millions),742.0,,,0.2
 US,nielsen,US streaming (Nielsen),Overall,2026-08-03,The Best Medicine,,10,10,minutes viewed (millions),595.0,,,0.1
-AU,voz,1 Free-to-air,Total TV,2025-09-29,7.30,,22,30,Total TV avg audience,744000,ABC,False,0.3
-AU,voz,1 Free-to-air,Total TV,2025-09-29,9NEWS,,6,30,Total TV avg audience,1359000,Nine,False,0.833
-AU,voz,1 Free-to-air,Total TV,2025-09-29,9NEWS SATURDAY,,14,30,Total TV avg audience,1022000,Nine,False,0.567
-AU,voz,1 Free-to-air,Total TV,2025-09-29,9NEWS SUNDAY,,11,30,Total TV avg audience,1096000,Nine,False,0.667
-AU,voz,1 Free-to-air,Total TV,2025-09-29,A CURRENT AFFAIR,,8,30,Total TV avg audience,1140000,Nine,False,0.767
-AU,voz,1 Free-to-air,Total TV,2025-09-29,ABC NEWS,,17,30,Total TV avg audience,903000,ABC,False,0.467
-AU,voz,1 Free-to-air,Total TV,2025-09-29,ABC NEWS SUNDAY,,24,30,Total TV avg audience,688000,ABC,False,0.233
-AU,voz,1 Free-to-air,Total TV,2025-09-29,ABC NEWS-SA,,23,30,Total TV avg audience,710000,ABC,False,0.267
-AU,voz,1 Free-to-air,Total TV,2025-09-29,BETTER HOMES AND GARDENS,,26,30,Total TV avg audience,659000,Seven,False,0.167
-AU,voz,1 Free-to-air,Total TV,2025-09-29,BEYOND PARADISE,,21,30,Total TV avg audience,759000,ABC,False,0.333
-AU,voz,1 Free-to-air,Total TV,2025-09-29,BLEDISLOE CUP 2025 -GAME 2,,18,30,Total TV avg audience,898000,Nine,False,0.433
-AU,voz,1 Free-to-air,Total TV,2025-09-29,GARDENING AUSTRALIA,,30,30,Total TV avg audience,574000,ABC,False,0.033
-AU,voz,1 Free-to-air,Total TV,2025-09-29,GOGGLEBOX,,20,30,Total TV avg audience,794000,10,False,0.367
-AU,voz,1 Free-to-air,Total TV,2025-09-29,HARD QUIZ,,25,30,Total TV avg audience,666000,ABC,False,0.2
-AU,voz,1 Free-to-air,Total TV,2025-09-29,HOME AND AWAY,,13,30,Total TV avg audience,1064000,Seven,False,0.6
-AU,voz,1 Free-to-air,Total TV,2025-09-29,HOME AND AWAY EP.2,,16,30,Total TV avg audience,960000,Seven,False,0.5
-AU,voz,1 Free-to-air,Total TV,2025-09-29,HOME AND AWAY EP.3,,15,30,Total TV avg audience,961000,Seven,False,0.533
-AU,voz,1 Free-to-air,Total TV,2025-09-29,NRL GRAND FINAL DAY,,3,30,Total TV avg audience,2005000,Nine,False,0.933
-AU,voz,1 Free-to-air,Total TV,2025-09-29,NRL GRAND FINAL DAY -ENTERTAINMENT,,2,30,Total TV avg audience,2408000,Nine,False,0.967
-AU,voz,1 Free-to-air,Total TV,2025-09-29,NRL GRAND FINAL DAY -MATCH,,1,30,Total TV avg audience,4553000,Nine,False,1.0
-AU,voz,1 Free-to-air,Total TV,2025-09-29,NRL WOMEN’S PREMIERSHIP,,5,30,Total TV avg audience,1381000,Nine,False,0.867
-AU,voz,1 Free-to-air,Total TV,2025-09-29,NRL WOMEN’S PREMIERSHIP -GRAND FINAL,,12,30,Total TV avg audience,1084000,Nine,False,0.633
-AU,voz,1 Free-to-air,Total TV,2025-09-29,RFDS,,10,30,Total TV avg audience,1108000,Seven,False,0.7
-AU,voz,1 Free-to-air,Total TV,2025-09-29,SEVEN NEWS,,7,30,Total TV avg audience,1315000,Seven,False,0.8
-AU,voz,1 Free-to-air,Total TV,2025-09-29,SEVEN NEWS –,,9,30,Total TV avg audience,1139000,Seven,False,0.733
-AU,voz,1 Free-to-air,Total TV,2025-09-29,THE 1% CLUB,,29,30,Total TV avg audience,596000,Seven,False,0.067
-AU,voz,1 Free-to-air,Total TV,2025-09-29,THE AMAZING RACE AUSTRALIA: CELEBRITY,,27,30,Total TV avg audience,654000,10,False,0.133
-AU,voz,1 Free-to-air,Total TV,2025-09-29,THE BLOCK,,4,30,Total TV avg audience,1515000,Nine,False,0.9
-AU,voz,1 Free-to-air,Total TV,2025-09-29,THE CHASE AUSTRALIA,,28,30,Total TV avg audience,629000,Seven,False,0.1
-AU,voz,1 Free-to-air,Total TV,2025-09-29,TIPPING POINT AUSTRALIA,,19,30,Total TV avg audience,800000,Nine,False,0.4
-AU,voz,1 Free-to-air,Total TV,2025-10-06,60 MINUTES,,20,30,Total TV avg audience,821000,Nine,False,0.367
-AU,voz,1 Free-to-air,Total TV,2025-10-06,7.30,,25,30,Total TV avg audience,775000,ABC,False,0.2
+AU,voz,1 Free-to-air,Total TV,2025-09-29,2025 STATE CUP CHAMPIONSHIP GRAND FINAL,,27,30,Total TV avg audience,500000,Nine,False,0.133
+AU,voz,1 Free-to-air,Total TV,2025-09-29,7.30,,16,30,Total TV avg audience,744000,ABC,False,0.5
+AU,voz,1 Free-to-air,Total TV,2025-09-29,9NEWS,,4,30,Total TV avg audience,1359000,Nine,False,0.9
+AU,voz,1 Free-to-air,Total TV,2025-09-29,9NEWS SATURDAY,,10,30,Total TV avg audience,1022000,Nine,False,0.7
+AU,voz,1 Free-to-air,Total TV,2025-09-29,9NEWS SUNDAY,,8,30,Total TV avg audience,1096000,Nine,False,0.767
+AU,voz,1 Free-to-air,Total TV,2025-09-29,A CURRENT AFFAIR,,6,30,Total TV avg audience,1140000,Nine,False,0.833
+AU,voz,1 Free-to-air,Total TV,2025-09-29,ABC NEWS,,11,30,Total TV avg audience,903000,ABC,False,0.667
+AU,voz,1 Free-to-air,Total TV,2025-09-29,ABC NEWS SUNDAY,,17,30,Total TV avg audience,688000,ABC,False,0.467
+AU,voz,1 Free-to-air,Total TV,2025-09-29,BACK ROADS,,24,30,Total TV avg audience,573000,ABC,False,0.233
+AU,voz,1 Free-to-air,Total TV,2025-09-29,BETTER HOMES AND GARDENS,,19,30,Total TV avg audience,659000,Seven,False,0.4
+AU,voz,1 Free-to-air,Total TV,2025-09-29,BEYOND PARADISE,,15,30,Total TV avg audience,759000,ABC,False,0.533
+AU,voz,1 Free-to-air,Total TV,2025-09-29,BLEDISLOE CUP 2025,,12,30,Total TV avg audience,898000,Nine,False,0.633
+AU,voz,1 Free-to-air,Total TV,2025-09-29,CLARKSON’S FARM,,25,30,Total TV avg audience,559000,Nine,False,0.2
+AU,voz,1 Free-to-air,Total TV,2025-09-29,GARDENING AUSTRALIA,,23,30,Total TV avg audience,574000,ABC,False,0.267
+AU,voz,1 Free-to-air,Total TV,2025-09-29,GOGGLEBOX,,14,30,Total TV avg audience,794000,10,False,0.567
+AU,voz,1 Free-to-air,Total TV,2025-09-29,GRAND DESIGNS NEW ZEALAND,,29,30,Total TV avg audience,482000,ABC,False,0.067
+AU,voz,1 Free-to-air,Total TV,2025-09-29,HARD QUIZ,,18,30,Total TV avg audience,666000,ABC,False,0.433
+AU,voz,1 Free-to-air,Total TV,2025-09-29,HOME AND AWAY,,9,30,Total TV avg audience,1064000,Seven,False,0.733
+AU,voz,1 Free-to-air,Total TV,2025-09-29,MYSTERY ROAD: ORIGIN,,30,30,Total TV avg audience,479000,ABC,False,0.033
+AU,voz,1 Free-to-air,Total TV,2025-09-29,NRL GRAND FINAL DAY,,1,30,Total TV avg audience,4553000,Nine,False,1.0
+AU,voz,1 Free-to-air,Total TV,2025-09-29,NRL WOMEN’S PREMIERSHIP,,3,30,Total TV avg audience,1381000,Nine,False,0.933
+AU,voz,1 Free-to-air,Total TV,2025-09-29,OFF THE GRID WITH COLIN AND MANU,,26,30,Total TV avg audience,509000,Seven,False,0.167
+AU,voz,1 Free-to-air,Total TV,2025-09-29,PROFESSOR T,,28,30,Total TV avg audience,492000,ABC,False,0.1
+AU,voz,1 Free-to-air,Total TV,2025-09-29,RFDS,,7,30,Total TV avg audience,1108000,Seven,False,0.8
+AU,voz,1 Free-to-air,Total TV,2025-09-29,SEVEN NEWS,,5,30,Total TV avg audience,1315000,Seven,False,0.867
+AU,voz,1 Free-to-air,Total TV,2025-09-29,THE 1% CLUB,,22,30,Total TV avg audience,596000,Seven,False,0.3
+AU,voz,1 Free-to-air,Total TV,2025-09-29,THE AMAZING RACE AUSTRALIA: CELEBRITY,,20,30,Total TV avg audience,654000,10,False,0.367
+AU,voz,1 Free-to-air,Total TV,2025-09-29,THE BLOCK,,2,30,Total TV avg audience,1515000,Nine,False,0.967
+AU,voz,1 Free-to-air,Total TV,2025-09-29,THE CHASE AUSTRALIA,,21,30,Total TV avg audience,629000,Seven,False,0.333
+AU,voz,1 Free-to-air,Total TV,2025-09-29,TIPPING POINT AUSTRALIA,,13,30,Total TV avg audience,800000,Nine,False,0.6
+AU,voz,1 Free-to-air,Total TV,2025-10-06,60 MINUTES,,17,30,Total TV avg audience,821000,Nine,False,0.467
+AU,voz,1 Free-to-air,Total TV,2025-10-06,7.30,,22,30,Total TV avg audience,775000,ABC,False,0.3
 AU,voz,1 Free-to-air,Total TV,2025-10-06,9NEWS,,4,30,Total TV avg audience,1446000,Nine,False,0.9
-AU,voz,1 Free-to-air,Total TV,2025-10-06,9NEWS SATURDAY,,12,30,Total TV avg audience,1057000,Nine,False,0.633
-AU,voz,1 Free-to-air,Total TV,2025-10-06,9NEWS SUNDAY,,8,30,Total TV avg audience,1313000,Nine,False,0.767
-AU,voz,1 Free-to-air,Total TV,2025-10-06,A CURRENT AFFAIR,,7,30,Total TV avg audience,1328000,Nine,False,0.8
-AU,voz,1 Free-to-air,Total TV,2025-10-06,ABC NEWS,,15,30,Total TV avg audience,918000,ABC,False,0.533
-AU,voz,1 Free-to-air,Total TV,2025-10-06,ABC NEWS SUNDAY,,21,30,Total TV avg audience,810000,ABC,False,0.333
-AU,voz,1 Free-to-air,Total TV,2025-10-06,ABC NEWS-SA,,26,30,Total TV avg audience,773000,ABC,False,0.167
-AU,voz,1 Free-to-air,Total TV,2025-10-06,AUSTRALIAN STORY,,17,30,Total TV avg audience,887000,ABC,False,0.467
-AU,voz,1 Free-to-air,Total TV,2025-10-06,BEYOND PARADISE,,27,30,Total TV avg audience,726000,ABC,False,0.133
-AU,voz,1 Free-to-air,Total TV,2025-10-06,FOUR CORNERS,,28,30,Total TV avg audience,723000,ABC,False,0.1
-AU,voz,1 Free-to-air,Total TV,2025-10-06,GOGGLEBOX,,29,30,Total TV avg audience,719000,10,False,0.067
-AU,voz,1 Free-to-air,Total TV,2025-10-06,HAVE YOU BEEN PAYING ATTENTION?,,16,30,Total TV avg audience,910000,10,False,0.5
-AU,voz,1 Free-to-air,Total TV,2025-10-06,HOME AND AWAY,,11,30,Total TV avg audience,1060000,Seven,False,0.667
-AU,voz,1 Free-to-air,Total TV,2025-10-06,HOME AND AWAY EP.2,,13,30,Total TV avg audience,947000,Seven,False,0.6
-AU,voz,1 Free-to-air,Total TV,2025-10-06,HOME AND AWAY EP.3,,14,30,Total TV avg audience,936000,Seven,False,0.567
-AU,voz,1 Free-to-air,Total TV,2025-10-06,MEDIA WATCH,,30,30,Total TV avg audience,700000,ABC,False,0.033
-AU,voz,1 Free-to-air,Total TV,2025-10-06,MY KITCHEN RULES –,,6,30,Total TV avg audience,1350000,Seven,False,0.833
-AU,voz,1 Free-to-air,Total TV,2025-10-06,RFDS,,9,30,Total TV avg audience,1088000,Seven,False,0.733
-AU,voz,1 Free-to-air,Total TV,2025-10-06,SEVEN NEWS,,5,30,Total TV avg audience,1369000,Seven,False,0.867
-AU,voz,1 Free-to-air,Total TV,2025-10-06,SEVEN NEWS –,,2,30,Total TV avg audience,1600000,Seven,False,0.967
-AU,voz,1 Free-to-air,Total TV,2025-10-06,SUPERCARS CHAMPIONSHIP: BATHURST 1000 D2 TOP 10 SHOOTOUT,,24,30,Total TV avg audience,782000,Seven,False,0.233
-AU,voz,1 Free-to-air,Total TV,2025-10-06,SUPERCARS CHAMPSIONSHIP: BATHURST 1000 D3 PODIUM,,18,30,Total TV avg audience,876000,Seven,False,0.433
+AU,voz,1 Free-to-air,Total TV,2025-10-06,9NEWS SATURDAY,,11,30,Total TV avg audience,1057000,Nine,False,0.667
+AU,voz,1 Free-to-air,Total TV,2025-10-06,9NEWS SUNDAY,,7,30,Total TV avg audience,1313000,Nine,False,0.8
+AU,voz,1 Free-to-air,Total TV,2025-10-06,A CURRENT AFFAIR,,6,30,Total TV avg audience,1328000,Nine,False,0.833
+AU,voz,1 Free-to-air,Total TV,2025-10-06,ABC NEWS,,12,30,Total TV avg audience,918000,ABC,False,0.633
+AU,voz,1 Free-to-air,Total TV,2025-10-06,ABC NEWS SUNDAY,,18,30,Total TV avg audience,810000,ABC,False,0.433
+AU,voz,1 Free-to-air,Total TV,2025-10-06,AUSTRALIAN STORY,,14,30,Total TV avg audience,887000,ABC,False,0.567
+AU,voz,1 Free-to-air,Total TV,2025-10-06,BETTER HOMES AND GARDENS,,30,30,Total TV avg audience,613000,Seven,False,0.033
+AU,voz,1 Free-to-air,Total TV,2025-10-06,BEYOND PARADISE,,23,30,Total TV avg audience,726000,ABC,False,0.267
+AU,voz,1 Free-to-air,Total TV,2025-10-06,FOUR CORNERS,,24,30,Total TV avg audience,723000,ABC,False,0.233
+AU,voz,1 Free-to-air,Total TV,2025-10-06,GOGGLEBOX,,25,30,Total TV avg audience,719000,10,False,0.2
+AU,voz,1 Free-to-air,Total TV,2025-10-06,HARD QUIZ,,29,30,Total TV avg audience,629000,ABC,False,0.067
+AU,voz,1 Free-to-air,Total TV,2025-10-06,HAVE YOU BEEN PAYING ATTENTION?,,13,30,Total TV avg audience,910000,10,False,0.6
+AU,voz,1 Free-to-air,Total TV,2025-10-06,HOME AND AWAY,,10,30,Total TV avg audience,1060000,Seven,False,0.7
+AU,voz,1 Free-to-air,Total TV,2025-10-06,I WAS ACTUALLY THERE,,27,30,Total TV avg audience,665000,ABC,False,0.133
+AU,voz,1 Free-to-air,Total TV,2025-10-06,MEDIA WATCH,,26,30,Total TV avg audience,700000,ABC,False,0.167
+AU,voz,1 Free-to-air,Total TV,2025-10-06,MY KITCHEN RULES,,5,30,Total TV avg audience,1350000,Seven,False,0.867
+AU,voz,1 Free-to-air,Total TV,2025-10-06,RFDS,,8,30,Total TV avg audience,1088000,Seven,False,0.767
+AU,voz,1 Free-to-air,Total TV,2025-10-06,SEVEN NEWS,,2,30,Total TV avg audience,1600000,Seven,False,0.967
+AU,voz,1 Free-to-air,Total TV,2025-10-06,SUPERCARS CHAMPIONSHIP: BATHURST 1000 D2 TOP 10 SHOOTOUT,,21,30,Total TV avg audience,782000,Seven,False,0.333
+AU,voz,1 Free-to-air,Total TV,2025-10-06,SUPERCARS CHAMPSIONSHIP: BATHURST 1000 D3 PODIUM,,15,30,Total TV avg audience,876000,Seven,False,0.533
 AU,voz,1 Free-to-air,Total TV,2025-10-06,SUPERCARS CHAMPSIONSHIP: BATHURST 1000 D3 RACE,,3,30,Total TV avg audience,1562000,Seven,False,0.933
-AU,voz,1 Free-to-air,Total TV,2025-10-06,THE AMAZING RACE AUSTRALIA: CELEBRITY,,22,30,Total TV avg audience,809000,10,False,0.3
+AU,voz,1 Free-to-air,Total TV,2025-10-06,THE AMAZING RACE AUSTRALIA: CELEBRITY,,19,30,Total TV avg audience,809000,10,False,0.4
 AU,voz,1 Free-to-air,Total TV,2025-10-06,THE BLOCK,,1,30,Total TV avg audience,1968000,Nine,False,1.0
-AU,voz,1 Free-to-air,Total TV,2025-10-06,THE ROOKIE,,19,30,Total TV avg audience,862000,Seven,False,0.4
-AU,voz,1 Free-to-air,Total TV,2025-10-06,THE VOICE –,,10,30,Total TV avg audience,1080000,Seven,False,0.7
-AU,voz,1 Free-to-air,Total TV,2025-10-06,TIPPING POINT AUSTRALIA,,23,30,Total TV avg audience,794000,Nine,False,0.267
-AU,voz,1 Free-to-air,Total TV,2025-10-13,60 MINUTES,,11,30,Total TV avg audience,973000,Nine,False,0.667
-AU,voz,1 Free-to-air,Total TV,2025-10-13,7.30,,21,30,Total TV avg audience,775000,ABC,False,0.333
+AU,voz,1 Free-to-air,Total TV,2025-10-06,THE CHASE AUSTRALIA,,28,30,Total TV avg audience,637000,Seven,False,0.1
+AU,voz,1 Free-to-air,Total TV,2025-10-06,THE ROOKIE,,16,30,Total TV avg audience,862000,Seven,False,0.5
+AU,voz,1 Free-to-air,Total TV,2025-10-06,THE VOICE,,9,30,Total TV avg audience,1080000,Seven,False,0.733
+AU,voz,1 Free-to-air,Total TV,2025-10-06,TIPPING POINT AUSTRALIA,,20,30,Total TV avg audience,794000,Nine,False,0.367
+AU,voz,1 Free-to-air,Total TV,2025-10-13,60 MINUTES,,10,30,Total TV avg audience,973000,Nine,False,0.7
+AU,voz,1 Free-to-air,Total TV,2025-10-13,7.30,,18,30,Total TV avg audience,775000,ABC,False,0.433
 AU,voz,1 Free-to-air,Total TV,2025-10-13,9NEWS,,3,30,Total TV avg audience,1360000,Nine,False,0.933
-AU,voz,1 Free-to-air,Total TV,2025-10-13,9NEWS SATURDAY,,10,30,Total TV avg audience,996000,Nine,False,0.7
-AU,voz,1 Free-to-air,Total TV,2025-10-13,9NEWS SUNDAY,,6,30,Total TV avg audience,1217000,Nine,False,0.833
-AU,voz,1 Free-to-air,Total TV,2025-10-13,A CURRENT AFFAIR,,7,30,Total TV avg audience,1150000,Nine,False,0.8
-AU,voz,1 Free-to-air,Total TV,2025-10-13,ABC NEWS,,12,30,Total TV avg audience,973000,ABC,False,0.633
-AU,voz,1 Free-to-air,Total TV,2025-10-13,ABC NEWS SUNDAY,,18,30,Total TV avg audience,870000,ABC,False,0.433
-AU,voz,1 Free-to-air,Total TV,2025-10-13,ABC NEWS-SA,,24,30,Total TV avg audience,753000,ABC,False,0.233
-AU,voz,1 Free-to-air,Total TV,2025-10-13,AUSTRALIAN STORY,,19,30,Total TV avg audience,843000,ABC,False,0.4
-AU,voz,1 Free-to-air,Total TV,2025-10-13,BEYOND PARADISE,,22,30,Total TV avg audience,763000,ABC,False,0.3
-AU,voz,1 Free-to-air,Total TV,2025-10-13,FOUR CORNERS,,17,30,Total TV avg audience,881000,ABC,False,0.467
-AU,voz,1 Free-to-air,Total TV,2025-10-13,GARDENING AUSTRALIA,,30,30,Total TV avg audience,614000,ABC,False,0.033
-AU,voz,1 Free-to-air,Total TV,2025-10-13,GOGGLEBOX,,26,30,Total TV avg audience,730000,10,False,0.167
-AU,voz,1 Free-to-air,Total TV,2025-10-13,GRAND DESIGNS AUSTRALIA,,27,30,Total TV avg audience,727000,ABC,False,0.133
-AU,voz,1 Free-to-air,Total TV,2025-10-13,HOME AND AWAY,,9,30,Total TV avg audience,1064000,Seven,False,0.733
-AU,voz,1 Free-to-air,Total TV,2025-10-13,HOME AND AWAY EP.2,,16,30,Total TV avg audience,901000,Seven,False,0.5
-AU,voz,1 Free-to-air,Total TV,2025-10-13,HOME AND AWAY EP.3,,15,30,Total TV avg audience,903000,Seven,False,0.533
-AU,voz,1 Free-to-air,Total TV,2025-10-13,I WAS ACTUALLY THERE,,29,30,Total TV avg audience,642000,ABC,False,0.067
-AU,voz,1 Free-to-air,Total TV,2025-10-13,MEDIA WATCH,,25,30,Total TV avg audience,746000,ABC,False,0.2
-AU,voz,1 Free-to-air,Total TV,2025-10-13,MY KITCHEN RULES –,,5,30,Total TV avg audience,1317000,Seven,False,0.867
-AU,voz,1 Free-to-air,Total TV,2025-10-13,RBT,,28,30,Total TV avg audience,644000,Nine,False,0.1
-AU,voz,1 Free-to-air,Total TV,2025-10-13,RFDS,,8,30,Total TV avg audience,1079000,Seven,False,0.767
-AU,voz,1 Free-to-air,Total TV,2025-10-13,SEVEN NEWS,,4,30,Total TV avg audience,1348000,Seven,False,0.9
-AU,voz,1 Free-to-air,Total TV,2025-10-13,SEVEN NEWS –,,2,30,Total TV avg audience,1423000,Seven,False,0.967
-AU,voz,1 Free-to-air,Total TV,2025-10-13,THE AMAZING RACE AUSTRALIA: CELEBRITY,,20,30,Total TV avg audience,820000,10,False,0.367
+AU,voz,1 Free-to-air,Total TV,2025-10-13,9NEWS SATURDAY,,9,30,Total TV avg audience,996000,Nine,False,0.733
+AU,voz,1 Free-to-air,Total TV,2025-10-13,9NEWS SUNDAY,,5,30,Total TV avg audience,1217000,Nine,False,0.867
+AU,voz,1 Free-to-air,Total TV,2025-10-13,A CURRENT AFFAIR,,6,30,Total TV avg audience,1150000,Nine,False,0.833
+AU,voz,1 Free-to-air,Total TV,2025-10-13,ABC NEWS,,11,30,Total TV avg audience,973000,ABC,False,0.667
+AU,voz,1 Free-to-air,Total TV,2025-10-13,ABC NEWS SUNDAY,,15,30,Total TV avg audience,870000,ABC,False,0.533
+AU,voz,1 Free-to-air,Total TV,2025-10-13,AUSTRALIAN CRIME STORIES: THE INVESTIGATORS,,30,30,Total TV avg audience,600000,Nine,False,0.033
+AU,voz,1 Free-to-air,Total TV,2025-10-13,AUSTRALIAN STORY,,16,30,Total TV avg audience,843000,ABC,False,0.5
+AU,voz,1 Free-to-air,Total TV,2025-10-13,BETTER HOMES AND GARDENS,,29,30,Total TV avg audience,610000,Seven,False,0.067
+AU,voz,1 Free-to-air,Total TV,2025-10-13,BEYOND PARADISE,,19,30,Total TV avg audience,763000,ABC,False,0.4
+AU,voz,1 Free-to-air,Total TV,2025-10-13,FOUR CORNERS,,14,30,Total TV avg audience,881000,ABC,False,0.567
+AU,voz,1 Free-to-air,Total TV,2025-10-13,GARDENING AUSTRALIA,,26,30,Total TV avg audience,614000,ABC,False,0.167
+AU,voz,1 Free-to-air,Total TV,2025-10-13,GOGGLEBOX,,22,30,Total TV avg audience,730000,10,False,0.3
+AU,voz,1 Free-to-air,Total TV,2025-10-13,GRAND DESIGNS AUSTRALIA,,23,30,Total TV avg audience,727000,ABC,False,0.267
+AU,voz,1 Free-to-air,Total TV,2025-10-13,HARD QUIZ,,27,30,Total TV avg audience,614000,ABC,False,0.133
+AU,voz,1 Free-to-air,Total TV,2025-10-13,HOME AND AWAY,,8,30,Total TV avg audience,1064000,Seven,False,0.767
+AU,voz,1 Free-to-air,Total TV,2025-10-13,I WAS ACTUALLY THERE,,25,30,Total TV avg audience,642000,ABC,False,0.2
+AU,voz,1 Free-to-air,Total TV,2025-10-13,MEDIA WATCH,,21,30,Total TV avg audience,746000,ABC,False,0.333
+AU,voz,1 Free-to-air,Total TV,2025-10-13,MY KITCHEN RULES,,4,30,Total TV avg audience,1317000,Seven,False,0.9
+AU,voz,1 Free-to-air,Total TV,2025-10-13,RBT,,24,30,Total TV avg audience,644000,Nine,False,0.233
+AU,voz,1 Free-to-air,Total TV,2025-10-13,RFDS,,7,30,Total TV avg audience,1079000,Seven,False,0.8
+AU,voz,1 Free-to-air,Total TV,2025-10-13,SAM PANG TONIGHT,,28,30,Total TV avg audience,612000,10,False,0.1
+AU,voz,1 Free-to-air,Total TV,2025-10-13,SEVEN NEWS,,2,30,Total TV avg audience,1423000,Seven,False,0.967
+AU,voz,1 Free-to-air,Total TV,2025-10-13,THE AMAZING RACE AUSTRALIA: CELEBRITY,,17,30,Total TV avg audience,820000,10,False,0.467
 AU,voz,1 Free-to-air,Total TV,2025-10-13,THE BLOCK,,1,30,Total TV avg audience,2049000,Nine,False,1.0
-AU,voz,1 Free-to-air,Total TV,2025-10-13,THE ROOKIE,,14,30,Total TV avg audience,913000,Seven,False,0.567
-AU,voz,1 Free-to-air,Total TV,2025-10-13,THE VOICE –,,13,30,Total TV avg audience,972000,Seven,False,0.6
-AU,voz,1 Free-to-air,Total TV,2025-10-13,TIPPING POINT AUSTRALIA,,23,30,Total TV avg audience,759000,Nine,False,0.267
-AU,voz,1 Free-to-air,Total TV,2025-10-20,60 MINUTES,,16,30,Total TV avg audience,941000,Nine,False,0.5
-AU,voz,1 Free-to-air,Total TV,2025-10-20,7.30,,20,30,Total TV avg audience,851000,ABC,False,0.367
+AU,voz,1 Free-to-air,Total TV,2025-10-13,THE ROOKIE,,13,30,Total TV avg audience,913000,Seven,False,0.6
+AU,voz,1 Free-to-air,Total TV,2025-10-13,THE VOICE,,12,30,Total TV avg audience,972000,Seven,False,0.633
+AU,voz,1 Free-to-air,Total TV,2025-10-13,TIPPING POINT AUSTRALIA,,20,30,Total TV avg audience,759000,Nine,False,0.367
+AU,voz,1 Free-to-air,Total TV,2025-10-20,60 MINUTES,,12,30,Total TV avg audience,941000,Nine,False,0.633
+AU,voz,1 Free-to-air,Total TV,2025-10-20,7.30,,16,30,Total TV avg audience,851000,ABC,False,0.5
 AU,voz,1 Free-to-air,Total TV,2025-10-20,9NEWS,,3,30,Total TV avg audience,1374000,Nine,False,0.933
-AU,voz,1 Free-to-air,Total TV,2025-10-20,9NEWS SATURDAY,,11,30,Total TV avg audience,986000,Nine,False,0.667
+AU,voz,1 Free-to-air,Total TV,2025-10-20,9NEWS SATURDAY,,10,30,Total TV avg audience,986000,Nine,False,0.7
 AU,voz,1 Free-to-air,Total TV,2025-10-20,9NEWS SUNDAY,,2,30,Total TV avg audience,1483000,Nine,False,0.967
-AU,voz,1 Free-to-air,Total TV,2025-10-20,A CURRENT AFFAIR,,7,30,Total TV avg audience,1182000,Nine,False,0.8
-AU,voz,1 Free-to-air,Total TV,2025-10-20,ABC NEWS,,12,30,Total TV avg audience,984000,ABC,False,0.633
-AU,voz,1 Free-to-air,Total TV,2025-10-20,ABC NEWS SUNDAY,,22,30,Total TV avg audience,824000,ABC,False,0.3
-AU,voz,1 Free-to-air,Total TV,2025-10-20,ABC NEWS-SA,,23,30,Total TV avg audience,742000,ABC,False,0.267
-AU,voz,1 Free-to-air,Total TV,2025-10-20,AUSTRALIAN STORY,,25,30,Total TV avg audience,709000,ABC,False,0.2
-AU,voz,1 Free-to-air,Total TV,2025-10-20,BEYOND PARADISE,,24,30,Total TV avg audience,723000,ABC,False,0.233
-AU,voz,1 Free-to-air,Total TV,2025-10-20,GOGGLEBOX,,26,30,Total TV avg audience,706000,10,False,0.167
-AU,voz,1 Free-to-air,Total TV,2025-10-20,HARD QUIZ,,27,30,Total TV avg audience,675000,ABC,False,0.133
-AU,voz,1 Free-to-air,Total TV,2025-10-20,HOME AND AWAY,,9,30,Total TV avg audience,1058000,Seven,False,0.733
-AU,voz,1 Free-to-air,Total TV,2025-10-20,HOME AND AWAY EP.2,,14,30,Total TV avg audience,947000,Seven,False,0.567
-AU,voz,1 Free-to-air,Total TV,2025-10-20,HOME AND AWAY EP.3,,15,30,Total TV avg audience,946000,Seven,False,0.533
-AU,voz,1 Free-to-air,Total TV,2025-10-20,MEDIA WATCH,,28,30,Total TV avg audience,650000,ABC,False,0.1
-AU,voz,1 Free-to-air,Total TV,2025-10-20,MY KITCHEN RULES –,,4,30,Total TV avg audience,1361000,Seven,False,0.9
-AU,voz,1 Free-to-air,Total TV,2025-10-20,RFDS,,8,30,Total TV avg audience,1163000,Seven,False,0.767
-AU,voz,1 Free-to-air,Total TV,2025-10-20,SAM PANG TONIGHT,,29,30,Total TV avg audience,643000,10,False,0.067
+AU,voz,1 Free-to-air,Total TV,2025-10-20,A CURRENT AFFAIR,,6,30,Total TV avg audience,1182000,Nine,False,0.833
+AU,voz,1 Free-to-air,Total TV,2025-10-20,ABC NEWS,,11,30,Total TV avg audience,984000,ABC,False,0.667
+AU,voz,1 Free-to-air,Total TV,2025-10-20,ABC NEWS SUNDAY,,18,30,Total TV avg audience,824000,ABC,False,0.433
+AU,voz,1 Free-to-air,Total TV,2025-10-20,AUSTRALIAN STORY,,20,30,Total TV avg audience,709000,ABC,False,0.367
+AU,voz,1 Free-to-air,Total TV,2025-10-20,BETTER HOMES AND GARDENS,,26,30,Total TV avg audience,627000,Seven,False,0.167
+AU,voz,1 Free-to-air,Total TV,2025-10-20,BEYOND PARADISE,,19,30,Total TV avg audience,723000,ABC,False,0.4
+AU,voz,1 Free-to-air,Total TV,2025-10-20,BUDGET BATTLERS,,30,30,Total TV avg audience,604000,Nine,False,0.033
+AU,voz,1 Free-to-air,Total TV,2025-10-20,GARDENING AUSTRALIA,,27,30,Total TV avg audience,626000,ABC,False,0.133
+AU,voz,1 Free-to-air,Total TV,2025-10-20,GOGGLEBOX,,21,30,Total TV avg audience,706000,10,False,0.333
+AU,voz,1 Free-to-air,Total TV,2025-10-20,GRAND DESIGNS AUSTRALIA,,29,30,Total TV avg audience,611000,ABC,False,0.067
+AU,voz,1 Free-to-air,Total TV,2025-10-20,HARD QUIZ,,22,30,Total TV avg audience,675000,ABC,False,0.3
+AU,voz,1 Free-to-air,Total TV,2025-10-20,HOME AND AWAY,,8,30,Total TV avg audience,1058000,Seven,False,0.767
+AU,voz,1 Free-to-air,Total TV,2025-10-20,I WAS ACTUALLY THERE,,28,30,Total TV avg audience,623000,ABC,False,0.1
+AU,voz,1 Free-to-air,Total TV,2025-10-20,MEDIA WATCH,,23,30,Total TV avg audience,650000,ABC,False,0.267
+AU,voz,1 Free-to-air,Total TV,2025-10-20,MY KITCHEN RULES,,4,30,Total TV avg audience,1361000,Seven,False,0.9
+AU,voz,1 Free-to-air,Total TV,2025-10-20,RFDS,,7,30,Total TV avg audience,1163000,Seven,False,0.8
+AU,voz,1 Free-to-air,Total TV,2025-10-20,SAM PANG TONIGHT,,24,30,Total TV avg audience,643000,10,False,0.233
 AU,voz,1 Free-to-air,Total TV,2025-10-20,SEVEN NEWS,,5,30,Total TV avg audience,1354000,Seven,False,0.867
-AU,voz,1 Free-to-air,Total TV,2025-10-20,SEVEN NEWS –,,6,30,Total TV avg audience,1273000,Seven,False,0.833
-AU,voz,1 Free-to-air,Total TV,2025-10-20,THE AMAZING RACE AUSTRALIA: CELEBRITY GRAND FINALE,,19,30,Total TV avg audience,868000,10,False,0.4
-AU,voz,1 Free-to-air,Total TV,2025-10-20,THE BLOCK -GRAND FINAL,,1,30,Total TV avg audience,2650000,Nine,False,1.0
-AU,voz,1 Free-to-air,Total TV,2025-10-20,THE CHASE AUSTRALIA,,30,30,Total TV avg audience,631000,Seven,False,0.033
-AU,voz,1 Free-to-air,Total TV,2025-10-20,THE GOLDEN BACHELOR,,13,30,Total TV avg audience,968000,Nine,False,0.6
-AU,voz,1 Free-to-air,Total TV,2025-10-20,THE GOLDEN BACHELOR -LAUNCH,,10,30,Total TV avg audience,1012000,Nine,False,0.7
-AU,voz,1 Free-to-air,Total TV,2025-10-20,THE ROOKIE,,17,30,Total TV avg audience,925000,Seven,False,0.467
-AU,voz,1 Free-to-air,Total TV,2025-10-20,THE VOICE –,,18,30,Total TV avg audience,921000,Seven,False,0.433
-AU,voz,1 Free-to-air,Total TV,2025-10-20,TIPPING POINT AUSTRALIA,,21,30,Total TV avg audience,837000,Nine,False,0.333
-AU,voz,1 Free-to-air,Total TV,2025-10-27,60 MINUTES,,17,30,Total TV avg audience,889000,Nine,False,0.467
-AU,voz,1 Free-to-air,Total TV,2025-10-27,7.30,,16,30,Total TV avg audience,912000,ABC,False,0.5
+AU,voz,1 Free-to-air,Total TV,2025-10-20,THE AMAZING RACE AUSTRALIA: CELEBRITY GRAND FINALE,,15,30,Total TV avg audience,868000,10,False,0.533
+AU,voz,1 Free-to-air,Total TV,2025-10-20,THE BLOCK,,1,30,Total TV avg audience,2650000,Nine,False,1.0
+AU,voz,1 Free-to-air,Total TV,2025-10-20,THE CHASE AUSTRALIA,,25,30,Total TV avg audience,631000,Seven,False,0.2
+AU,voz,1 Free-to-air,Total TV,2025-10-20,THE GOLDEN BACHELOR,,9,30,Total TV avg audience,1012000,Nine,False,0.733
+AU,voz,1 Free-to-air,Total TV,2025-10-20,THE ROOKIE,,13,30,Total TV avg audience,925000,Seven,False,0.6
+AU,voz,1 Free-to-air,Total TV,2025-10-20,THE VOICE,,14,30,Total TV avg audience,921000,Seven,False,0.567
+AU,voz,1 Free-to-air,Total TV,2025-10-20,TIPPING POINT AUSTRALIA,,17,30,Total TV avg audience,837000,Nine,False,0.467
+AU,voz,1 Free-to-air,Total TV,2025-10-27,60 MINUTES,,14,30,Total TV avg audience,889000,Nine,False,0.567
+AU,voz,1 Free-to-air,Total TV,2025-10-27,7.30,,13,30,Total TV avg audience,912000,ABC,False,0.6
 AU,voz,1 Free-to-air,Total TV,2025-10-27,9NEWS,,2,30,Total TV avg audience,1383000,Nine,False,0.967
-AU,voz,1 Free-to-air,Total TV,2025-10-27,9NEWS SATURDAY,,9,30,Total TV avg audience,1011000,Nine,False,0.733
+AU,voz,1 Free-to-air,Total TV,2025-10-27,9NEWS SATURDAY,,8,30,Total TV avg audience,1011000,Nine,False,0.767
 AU,voz,1 Free-to-air,Total TV,2025-10-27,9NEWS SUNDAY,,4,30,Total TV avg audience,1333000,Nine,False,0.9
 AU,voz,1 Free-to-air,Total TV,2025-10-27,A CURRENT AFFAIR,,5,30,Total TV avg audience,1209000,Nine,False,0.867
-AU,voz,1 Free-to-air,Total TV,2025-10-27,ABC NEWS,,11,30,Total TV avg audience,955000,ABC,False,0.667
-AU,voz,1 Free-to-air,Total TV,2025-10-27,ABC NEWS-SA,,20,30,Total TV avg audience,803000,ABC,False,0.367
-AU,voz,1 Free-to-air,Total TV,2025-10-27,AUSTRALIAN STORY,,21,30,Total TV avg audience,799000,ABC,False,0.333
-AU,voz,1 Free-to-air,Total TV,2025-10-27,BEYOND PARADISE,,22,30,Total TV avg audience,734000,ABC,False,0.3
-AU,voz,1 Free-to-air,Total TV,2025-10-27,FOUR CORNERS,,26,30,Total TV avg audience,690000,ABC,False,0.167
-AU,voz,1 Free-to-air,Total TV,2025-10-27,GOGGLEBOX,,27,30,Total TV avg audience,687000,10,False,0.133
-AU,voz,1 Free-to-air,Total TV,2025-10-27,GRAND DESIGNS AUSTRALIA,,30,30,Total TV avg audience,616000,ABC,False,0.033
-AU,voz,1 Free-to-air,Total TV,2025-10-27,HARD QUIZ,,29,30,Total TV avg audience,618000,ABC,False,0.067
-AU,voz,1 Free-to-air,Total TV,2025-10-27,HOME AND AWAY,,8,30,Total TV avg audience,1077000,Seven,False,0.767
-AU,voz,1 Free-to-air,Total TV,2025-10-27,HOME AND AWAY EP.2,,13,30,Total TV avg audience,931000,Seven,False,0.6
-AU,voz,1 Free-to-air,Total TV,2025-10-27,HOME AND AWAY EP.3,,14,30,Total TV avg audience,929000,Seven,False,0.567
-AU,voz,1 Free-to-air,Total TV,2025-10-27,LOVE ISLAND AUSTRALIA,,23,30,Total TV avg audience,712000,Nine,False,0.267
-AU,voz,1 Free-to-air,Total TV,2025-10-27,MEDIA WATCH,,25,30,Total TV avg audience,695000,ABC,False,0.2
-AU,voz,1 Free-to-air,Total TV,2025-10-27,MY KITCHEN RULES –,,1,30,Total TV avg audience,1413000,Seven,False,1.0
-AU,voz,1 Free-to-air,Total TV,2025-10-27,PORTRAIT ARTIST OF THE YEAR,,15,30,Total TV avg audience,914000,ABC,False,0.533
-AU,voz,1 Free-to-air,Total TV,2025-10-27,RFDS,,7,30,Total TV avg audience,1137000,Seven,False,0.8
+AU,voz,1 Free-to-air,Total TV,2025-10-27,ABC NEWS,,10,30,Total TV avg audience,955000,ABC,False,0.7
+AU,voz,1 Free-to-air,Total TV,2025-10-27,AUSTRALIAN STORY,,17,30,Total TV avg audience,799000,ABC,False,0.467
+AU,voz,1 Free-to-air,Total TV,2025-10-27,BETTER HOMES AND GARDENS,,29,30,Total TV avg audience,601000,Seven,False,0.067
+AU,voz,1 Free-to-air,Total TV,2025-10-27,BEYOND PARADISE,,18,30,Total TV avg audience,734000,ABC,False,0.433
+AU,voz,1 Free-to-air,Total TV,2025-10-27,FOUR CORNERS,,22,30,Total TV avg audience,690000,ABC,False,0.3
+AU,voz,1 Free-to-air,Total TV,2025-10-27,GOGGLEBOX,,23,30,Total TV avg audience,687000,10,False,0.267
+AU,voz,1 Free-to-air,Total TV,2025-10-27,GRAND DESIGNS AUSTRALIA,,26,30,Total TV avg audience,616000,ABC,False,0.167
+AU,voz,1 Free-to-air,Total TV,2025-10-27,HARD QUIZ,,25,30,Total TV avg audience,618000,ABC,False,0.2
+AU,voz,1 Free-to-air,Total TV,2025-10-27,HOME AND AWAY,,7,30,Total TV avg audience,1077000,Seven,False,0.8
+AU,voz,1 Free-to-air,Total TV,2025-10-27,I WAS ACTUALLY THERE,,28,30,Total TV avg audience,603000,ABC,False,0.1
+AU,voz,1 Free-to-air,Total TV,2025-10-27,LOVE ISLAND AUSTRALIA,,19,30,Total TV avg audience,712000,Nine,False,0.4
+AU,voz,1 Free-to-air,Total TV,2025-10-27,MEDIA WATCH,,21,30,Total TV avg audience,695000,ABC,False,0.333
+AU,voz,1 Free-to-air,Total TV,2025-10-27,MY KITCHEN RULES,,1,30,Total TV avg audience,1413000,Seven,False,1.0
+AU,voz,1 Free-to-air,Total TV,2025-10-27,OFF THE GRID WITH COLIN AND MANU,,27,30,Total TV avg audience,606000,Seven,False,0.133
+AU,voz,1 Free-to-air,Total TV,2025-10-27,PORTRAIT ARTIST OF THE YEAR,,12,30,Total TV avg audience,914000,ABC,False,0.633
+AU,voz,1 Free-to-air,Total TV,2025-10-27,RBT,,30,30,Total TV avg audience,596000,Nine,False,0.033
+AU,voz,1 Free-to-air,Total TV,2025-10-27,RFDS,,6,30,Total TV avg audience,1137000,Seven,False,0.833
 AU,voz,1 Free-to-air,Total TV,2025-10-27,SEVEN NEWS,,3,30,Total TV avg audience,1380000,Seven,False,0.933
-AU,voz,1 Free-to-air,Total TV,2025-10-27,SEVEN NEWS –,,6,30,Total TV avg audience,1168000,Seven,False,0.833
-AU,voz,1 Free-to-air,Total TV,2025-10-27,SPICKS AND SPECKS,,24,30,Total TV avg audience,711000,ABC,False,0.233
-AU,voz,1 Free-to-air,Total TV,2025-10-27,THE CHASE AUSTRALIA,,28,30,Total TV avg audience,637000,Seven,False,0.1
-AU,voz,1 Free-to-air,Total TV,2025-10-27,THE GOLDEN BACHELOR,,18,30,Total TV avg audience,873000,Nine,False,0.433
-AU,voz,1 Free-to-air,Total TV,2025-10-27,THE ROOKIE,,12,30,Total TV avg audience,942000,Seven,False,0.633
-AU,voz,1 Free-to-air,Total TV,2025-10-27,THE VOICE – GRAND FINAL,,10,30,Total TV avg audience,981000,Seven,False,0.7
-AU,voz,1 Free-to-air,Total TV,2025-10-27,TIPPING POINT AUSTRALIA,,19,30,Total TV avg audience,804000,Nine,False,0.4
-AU,voz,1 Free-to-air,Total TV,2025-11-03,60 MINUTES,,28,30,Total TV avg audience,681000,Nine,False,0.1
-AU,voz,1 Free-to-air,Total TV,2025-11-03,7.30,,18,30,Total TV avg audience,900000,ABC,False,0.433
-AU,voz,1 Free-to-air,Total TV,2025-11-03,9NEWS,,6,30,Total TV avg audience,1377000,Nine,False,0.833
-AU,voz,1 Free-to-air,Total TV,2025-11-03,9NEWS SATURDAY,,14,30,Total TV avg audience,983000,Nine,False,0.567
-AU,voz,1 Free-to-air,Total TV,2025-11-03,9NEWS SUNDAY,,8,30,Total TV avg audience,1294000,Nine,False,0.767
-AU,voz,1 Free-to-air,Total TV,2025-11-03,A CURRENT AFFAIR,,11,30,Total TV avg audience,1083000,Nine,False,0.667
-AU,voz,1 Free-to-air,Total TV,2025-11-03,ABC NEWS,,13,30,Total TV avg audience,993000,ABC,False,0.6
-AU,voz,1 Free-to-air,Total TV,2025-11-03,ABC NEWS SUNDAY,,20,30,Total TV avg audience,893000,ABC,False,0.367
-AU,voz,1 Free-to-air,Total TV,2025-11-03,ABC NEWS-SA,,23,30,Total TV avg audience,746000,ABC,False,0.267
-AU,voz,1 Free-to-air,Total TV,2025-11-03,AUSTRALIAN STORY,,24,30,Total TV avg audience,739000,ABC,False,0.233
-AU,voz,1 Free-to-air,Total TV,2025-11-03,BETTER HOMES AND GARDENS,,30,30,Total TV avg audience,667000,Seven,False,0.033
-AU,voz,1 Free-to-air,Total TV,2025-11-03,BEYOND PARADISE,,26,30,Total TV avg audience,685000,ABC,False,0.167
-AU,voz,1 Free-to-air,Total TV,2025-11-03,BIG BROTHER AUSTRALIA – LAUNCH,,10,30,Total TV avg audience,1123000,10,False,0.7
-AU,voz,1 Free-to-air,Total TV,2025-11-03,CRIME NIGHT!,,27,30,Total TV avg audience,682000,ABC,False,0.133
-AU,voz,1 Free-to-air,Total TV,2025-11-03,HARD QUIZ,,29,30,Total TV avg audience,672000,ABC,False,0.067
-AU,voz,1 Free-to-air,Total TV,2025-11-03,HOME AND AWAY,,12,30,Total TV avg audience,1063000,Seven,False,0.633
-AU,voz,1 Free-to-air,Total TV,2025-11-03,MAIGRET,,21,30,Total TV avg audience,887000,ABC,False,0.333
-AU,voz,1 Free-to-air,Total TV,2025-11-03,MELBOURNE CUP CARNIVAL -MELBOURNE CUP -LATE,,15,30,Total TV avg audience,948000,Nine,False,0.533
-AU,voz,1 Free-to-air,Total TV,2025-11-03,MELBOURNE CUP CARNIVAL -MELBOURNE CUP -MOUNTING YARD,,3,30,Total TV avg audience,1479000,Nine,False,0.933
-AU,voz,1 Free-to-air,Total TV,2025-11-03,MELBOURNE CUP CARNIVAL -MELBOURNE CUP -PRESENTATION,,2,30,Total TV avg audience,1794000,Nine,False,0.967
-AU,voz,1 Free-to-air,Total TV,2025-11-03,MELBOURNE CUP CARNIVAL -MELBOURNE CUP -PREVIEW,,19,30,Total TV avg audience,897000,Nine,False,0.4
-AU,voz,1 Free-to-air,Total TV,2025-11-03,MELBOURNE CUP CARNIVAL -MELBOURNE CUP -RACE,,1,30,Total TV avg audience,2085000,Nine,False,1.0
-AU,voz,1 Free-to-air,Total TV,2025-11-03,MY KITCHEN RULES –,,5,30,Total TV avg audience,1386000,Seven,False,0.867
-AU,voz,1 Free-to-air,Total TV,2025-11-03,PORTRAIT ARTIST OF THE YEAR,,25,30,Total TV avg audience,692000,ABC,False,0.2
-AU,voz,1 Free-to-air,Total TV,2025-11-03,RFDS,,9,30,Total TV avg audience,1181000,Seven,False,0.733
-AU,voz,1 Free-to-air,Total TV,2025-11-03,SEVEN NEWS,,4,30,Total TV avg audience,1392000,Seven,False,0.9
-AU,voz,1 Free-to-air,Total TV,2025-11-03,SEVEN NEWS –,,7,30,Total TV avg audience,1347000,Seven,False,0.8
-AU,voz,1 Free-to-air,Total TV,2025-11-03,THE GOLDEN BACHELOR,,16,30,Total TV avg audience,942000,Nine,False,0.5
-AU,voz,1 Free-to-air,Total TV,2025-11-03,THE ROOKIE,,17,30,Total TV avg audience,905000,Seven,False,0.467
-AU,voz,1 Free-to-air,Total TV,2025-11-03,TIPPING POINT AUSTRALIA,,22,30,Total TV avg audience,845000,Nine,False,0.3
-AU,voz,1 Free-to-air,Total TV,2025-11-10,60 MINUTES,,22,30,Total TV avg audience,744000,Nine,False,0.3
-AU,voz,1 Free-to-air,Total TV,2025-11-10,7.30,,16,30,Total TV avg audience,868000,ABC,False,0.5
-AU,voz,1 Free-to-air,Total TV,2025-11-10,9NEWS,,4,30,Total TV avg audience,1312000,Nine,False,0.9
-AU,voz,1 Free-to-air,Total TV,2025-11-10,9NEWS SATURDAY,,10,30,Total TV avg audience,989000,Nine,False,0.7
-AU,voz,1 Free-to-air,Total TV,2025-11-10,9NEWS SUNDAY,,6,30,Total TV avg audience,1189000,Nine,False,0.833
-AU,voz,1 Free-to-air,Total TV,2025-11-10,A CURRENT AFFAIR,,8,30,Total TV avg audience,1108000,Nine,False,0.767
-AU,voz,1 Free-to-air,Total TV,2025-11-10,ABC NEWS,,11,30,Total TV avg audience,978000,ABC,False,0.667
-AU,voz,1 Free-to-air,Total TV,2025-11-10,ABC NEWS SUNDAY,,17,30,Total TV avg audience,868000,ABC,False,0.467
-AU,voz,1 Free-to-air,Total TV,2025-11-10,ABC NEWS-SA,,23,30,Total TV avg audience,709000,ABC,False,0.267
-AU,voz,1 Free-to-air,Total TV,2025-11-10,ANNABEL CRABB’S CIVIC DUTY,,19,30,Total TV avg audience,822000,ABC,False,0.4
-AU,voz,1 Free-to-air,Total TV,2025-11-10,AUSTRALIAN STORY,,21,30,Total TV avg audience,752000,ABC,False,0.333
-AU,voz,1 Free-to-air,Total TV,2025-11-10,BETTER HOMES AND GARDENS,,27,30,Total TV avg audience,655000,Seven,False,0.133
-AU,voz,1 Free-to-air,Total TV,2025-11-10,BIG BROTHER AUSTRALIA,,12,30,Total TV avg audience,975000,10,False,0.633
-AU,voz,1 Free-to-air,Total TV,2025-11-10,HARD QUIZ,,30,30,Total TV avg audience,646000,ABC,False,0.033
-AU,voz,1 Free-to-air,Total TV,2025-11-10,HOME AND AWAY,,9,30,Total TV avg audience,1055000,Seven,False,0.733
-AU,voz,1 Free-to-air,Total TV,2025-11-10,LOVE ISLAND AUSTRALIA,,26,30,Total TV avg audience,662000,Nine,False,0.167
-AU,voz,1 Free-to-air,Total TV,2025-11-10,MEDIA WATCH,,25,30,Total TV avg audience,692000,ABC,False,0.2
-AU,voz,1 Free-to-air,Total TV,2025-11-10,MY KITCHEN RULES –,,2,30,Total TV avg audience,1398000,Seven,False,0.967
-AU,voz,1 Free-to-air,Total TV,2025-11-10,MY KITCHEN RULES – GRAND FINAL,,1,30,Total TV avg audience,1468000,Seven,False,1.0
-AU,voz,1 Free-to-air,Total TV,2025-11-10,PORTRAIT ARTIST OF THE YEAR,,29,30,Total TV avg audience,651000,ABC,False,0.067
-AU,voz,1 Free-to-air,Total TV,2025-11-10,RBT,,28,30,Total TV avg audience,652000,Nine,False,0.1
-AU,voz,1 Free-to-air,Total TV,2025-11-10,RETURN TO PARADISE,,18,30,Total TV avg audience,838000,ABC,False,0.433
-AU,voz,1 Free-to-air,Total TV,2025-11-10,RFDS,,7,30,Total TV avg audience,1114000,Seven,False,0.8
-AU,voz,1 Free-to-air,Total TV,2025-11-10,SEVEN NEWS,,3,30,Total TV avg audience,1319000,Seven,False,0.933
-AU,voz,1 Free-to-air,Total TV,2025-11-10,SEVEN NEWS –,,5,30,Total TV avg audience,1293000,Seven,False,0.867
-AU,voz,1 Free-to-air,Total TV,2025-11-10,THE 1% CLUB,,24,30,Total TV avg audience,706000,Seven,False,0.233
-AU,voz,1 Free-to-air,Total TV,2025-11-10,THE GOLDEN BACHELOR,,14,30,Total TV avg audience,900000,Nine,False,0.567
-AU,voz,1 Free-to-air,Total TV,2025-11-10,THE GOLDEN BACHELOR -FINALE,,13,30,Total TV avg audience,962000,Nine,False,0.6
-AU,voz,1 Free-to-air,Total TV,2025-11-10,THE ROOKIE,,15,30,Total TV avg audience,892000,Seven,False,0.533
-AU,voz,1 Free-to-air,Total TV,2025-11-10,TIPPING POINT AUSTRALIA,,20,30,Total TV avg audience,785000,Nine,False,0.367
-AU,voz,1 Free-to-air,Total TV,2025-11-17,60 MINUTES,,10,30,Total TV avg audience,978000,Nine,False,0.7
-AU,voz,1 Free-to-air,Total TV,2025-11-17,7.30,,16,30,Total TV avg audience,794000,ABC,False,0.5
+AU,voz,1 Free-to-air,Total TV,2025-10-27,SPICKS AND SPECKS,,20,30,Total TV avg audience,711000,ABC,False,0.367
+AU,voz,1 Free-to-air,Total TV,2025-10-27,THE CHASE AUSTRALIA,,24,30,Total TV avg audience,637000,Seven,False,0.233
+AU,voz,1 Free-to-air,Total TV,2025-10-27,THE GOLDEN BACHELOR,,15,30,Total TV avg audience,873000,Nine,False,0.533
+AU,voz,1 Free-to-air,Total TV,2025-10-27,THE ROOKIE,,11,30,Total TV avg audience,942000,Seven,False,0.667
+AU,voz,1 Free-to-air,Total TV,2025-10-27,THE VOICE,,9,30,Total TV avg audience,981000,Seven,False,0.733
+AU,voz,1 Free-to-air,Total TV,2025-10-27,TIPPING POINT AUSTRALIA,,16,30,Total TV avg audience,804000,Nine,False,0.5
+AU,voz,1 Free-to-air,Total TV,2025-11-03,60 MINUTES,,22,30,Total TV avg audience,681000,Nine,False,0.3
+AU,voz,1 Free-to-air,Total TV,2025-11-03,7.30,,14,30,Total TV avg audience,900000,ABC,False,0.567
+AU,voz,1 Free-to-air,Total TV,2025-11-03,9NEWS,,4,30,Total TV avg audience,1377000,Nine,False,0.9
+AU,voz,1 Free-to-air,Total TV,2025-11-03,9NEWS SATURDAY,,11,30,Total TV avg audience,983000,Nine,False,0.667
+AU,voz,1 Free-to-air,Total TV,2025-11-03,9NEWS SUNDAY,,5,30,Total TV avg audience,1294000,Nine,False,0.867
+AU,voz,1 Free-to-air,Total TV,2025-11-03,A CURRENT AFFAIR,,8,30,Total TV avg audience,1083000,Nine,False,0.767
+AU,voz,1 Free-to-air,Total TV,2025-11-03,ABC NEWS,,10,30,Total TV avg audience,993000,ABC,False,0.7
+AU,voz,1 Free-to-air,Total TV,2025-11-03,ABC NEWS SUNDAY,,15,30,Total TV avg audience,893000,ABC,False,0.533
+AU,voz,1 Free-to-air,Total TV,2025-11-03,AUSTRALIAN STORY,,18,30,Total TV avg audience,739000,ABC,False,0.433
+AU,voz,1 Free-to-air,Total TV,2025-11-03,BETTER HOMES AND GARDENS,,24,30,Total TV avg audience,667000,Seven,False,0.233
+AU,voz,1 Free-to-air,Total TV,2025-11-03,BEYOND PARADISE,,20,30,Total TV avg audience,685000,ABC,False,0.367
+AU,voz,1 Free-to-air,Total TV,2025-11-03,BIG BROTHER AUSTRALIA,,7,30,Total TV avg audience,1123000,10,False,0.8
+AU,voz,1 Free-to-air,Total TV,2025-11-03,CRIME NIGHT!,,21,30,Total TV avg audience,682000,ABC,False,0.333
+AU,voz,1 Free-to-air,Total TV,2025-11-03,FOUR CORNERS,,29,30,Total TV avg audience,630000,ABC,False,0.067
+AU,voz,1 Free-to-air,Total TV,2025-11-03,HARD QUIZ,,23,30,Total TV avg audience,672000,ABC,False,0.267
+AU,voz,1 Free-to-air,Total TV,2025-11-03,HOME AND AWAY,,9,30,Total TV avg audience,1063000,Seven,False,0.733
+AU,voz,1 Free-to-air,Total TV,2025-11-03,LOVE ISLAND AUSTRALIA,,30,30,Total TV avg audience,630000,Nine,False,0.033
+AU,voz,1 Free-to-air,Total TV,2025-11-03,MAIGRET,,16,30,Total TV avg audience,887000,ABC,False,0.5
+AU,voz,1 Free-to-air,Total TV,2025-11-03,MEDIA WATCH,,28,30,Total TV avg audience,642000,ABC,False,0.1
+AU,voz,1 Free-to-air,Total TV,2025-11-03,MELBOURNE CUP CARNIVAL,,1,30,Total TV avg audience,2085000,Nine,False,1.0
+AU,voz,1 Free-to-air,Total TV,2025-11-03,MY KITCHEN RULES,,3,30,Total TV avg audience,1386000,Seven,False,0.933
+AU,voz,1 Free-to-air,Total TV,2025-11-03,PACIFIC CHAMPIONSHIPS,,26,30,Total TV avg audience,643000,Nine,False,0.167
+AU,voz,1 Free-to-air,Total TV,2025-11-03,PORTRAIT ARTIST OF THE YEAR,,19,30,Total TV avg audience,692000,ABC,False,0.4
+AU,voz,1 Free-to-air,Total TV,2025-11-03,RBT,,27,30,Total TV avg audience,643000,Nine,False,0.133
+AU,voz,1 Free-to-air,Total TV,2025-11-03,RFDS,,6,30,Total TV avg audience,1181000,Seven,False,0.833
+AU,voz,1 Free-to-air,Total TV,2025-11-03,SEVEN NEWS,,2,30,Total TV avg audience,1392000,Seven,False,0.967
+AU,voz,1 Free-to-air,Total TV,2025-11-03,THE CHASE AUSTRALIA,,25,30,Total TV avg audience,664000,Seven,False,0.2
+AU,voz,1 Free-to-air,Total TV,2025-11-03,THE GOLDEN BACHELOR,,12,30,Total TV avg audience,942000,Nine,False,0.633
+AU,voz,1 Free-to-air,Total TV,2025-11-03,THE ROOKIE,,13,30,Total TV avg audience,905000,Seven,False,0.6
+AU,voz,1 Free-to-air,Total TV,2025-11-03,TIPPING POINT AUSTRALIA,,17,30,Total TV avg audience,845000,Nine,False,0.467
+AU,voz,1 Free-to-air,Total TV,2025-11-10,60 MINUTES,,19,30,Total TV avg audience,744000,Nine,False,0.4
+AU,voz,1 Free-to-air,Total TV,2025-11-10,7.30,,13,30,Total TV avg audience,868000,ABC,False,0.6
+AU,voz,1 Free-to-air,Total TV,2025-11-10,9NEWS,,3,30,Total TV avg audience,1312000,Nine,False,0.933
+AU,voz,1 Free-to-air,Total TV,2025-11-10,9NEWS SATURDAY,,8,30,Total TV avg audience,989000,Nine,False,0.767
+AU,voz,1 Free-to-air,Total TV,2025-11-10,9NEWS SUNDAY,,4,30,Total TV avg audience,1189000,Nine,False,0.9
+AU,voz,1 Free-to-air,Total TV,2025-11-10,A CURRENT AFFAIR,,6,30,Total TV avg audience,1108000,Nine,False,0.833
+AU,voz,1 Free-to-air,Total TV,2025-11-10,ABC NEWS,,9,30,Total TV avg audience,978000,ABC,False,0.733
+AU,voz,1 Free-to-air,Total TV,2025-11-10,ABC NEWS SUNDAY,,14,30,Total TV avg audience,868000,ABC,False,0.567
+AU,voz,1 Free-to-air,Total TV,2025-11-10,ANNABEL CRABB’S CIVIC DUTY,,16,30,Total TV avg audience,822000,ABC,False,0.5
+AU,voz,1 Free-to-air,Total TV,2025-11-10,AUSTRALIAN STORY,,18,30,Total TV avg audience,752000,ABC,False,0.433
+AU,voz,1 Free-to-air,Total TV,2025-11-10,BETTER HOMES AND GARDENS,,23,30,Total TV avg audience,655000,Seven,False,0.267
+AU,voz,1 Free-to-air,Total TV,2025-11-10,BIG BROTHER AUSTRALIA,,10,30,Total TV avg audience,975000,10,False,0.7
+AU,voz,1 Free-to-air,Total TV,2025-11-10,GARDENING AUSTRALIA,,29,30,Total TV avg audience,595000,ABC,False,0.067
+AU,voz,1 Free-to-air,Total TV,2025-11-10,GRAND DESIGNS AUSTRALIA,,28,30,Total TV avg audience,613000,ABC,False,0.1
+AU,voz,1 Free-to-air,Total TV,2025-11-10,HARD QUIZ,,26,30,Total TV avg audience,646000,ABC,False,0.167
+AU,voz,1 Free-to-air,Total TV,2025-11-10,HOME AND AWAY,,7,30,Total TV avg audience,1055000,Seven,False,0.8
+AU,voz,1 Free-to-air,Total TV,2025-11-10,LOVE ISLAND AUSTRALIA,,22,30,Total TV avg audience,662000,Nine,False,0.3
+AU,voz,1 Free-to-air,Total TV,2025-11-10,MAIGRET,,27,30,Total TV avg audience,614000,ABC,False,0.133
+AU,voz,1 Free-to-air,Total TV,2025-11-10,MEDIA WATCH,,21,30,Total TV avg audience,692000,ABC,False,0.333
+AU,voz,1 Free-to-air,Total TV,2025-11-10,MY KITCHEN RULES,,1,30,Total TV avg audience,1468000,Seven,False,1.0
+AU,voz,1 Free-to-air,Total TV,2025-11-10,PORTRAIT ARTIST OF THE YEAR,,25,30,Total TV avg audience,651000,ABC,False,0.2
+AU,voz,1 Free-to-air,Total TV,2025-11-10,RBT,,24,30,Total TV avg audience,652000,Nine,False,0.233
+AU,voz,1 Free-to-air,Total TV,2025-11-10,RETURN TO PARADISE,,15,30,Total TV avg audience,838000,ABC,False,0.533
+AU,voz,1 Free-to-air,Total TV,2025-11-10,RFDS,,5,30,Total TV avg audience,1114000,Seven,False,0.867
+AU,voz,1 Free-to-air,Total TV,2025-11-10,SEVEN NEWS,,2,30,Total TV avg audience,1319000,Seven,False,0.967
+AU,voz,1 Free-to-air,Total TV,2025-11-10,THE 1% CLUB,,20,30,Total TV avg audience,706000,Seven,False,0.367
+AU,voz,1 Free-to-air,Total TV,2025-11-10,THE CHASE AUSTRALIA,,30,30,Total TV avg audience,578000,Seven,False,0.033
+AU,voz,1 Free-to-air,Total TV,2025-11-10,THE GOLDEN BACHELOR,,11,30,Total TV avg audience,962000,Nine,False,0.667
+AU,voz,1 Free-to-air,Total TV,2025-11-10,THE ROOKIE,,12,30,Total TV avg audience,892000,Seven,False,0.633
+AU,voz,1 Free-to-air,Total TV,2025-11-10,TIPPING POINT AUSTRALIA,,17,30,Total TV avg audience,785000,Nine,False,0.467
+AU,voz,1 Free-to-air,Total TV,2025-11-17,60 MINUTES,,8,30,Total TV avg audience,978000,Nine,False,0.767
+AU,voz,1 Free-to-air,Total TV,2025-11-17,7.30,,13,30,Total TV avg audience,794000,ABC,False,0.6
 AU,voz,1 Free-to-air,Total TV,2025-11-17,9NEWS,,3,30,Total TV avg audience,1300000,Nine,False,0.933
-AU,voz,1 Free-to-air,Total TV,2025-11-17,9NEWS SATURDAY,,14,30,Total TV avg audience,855000,Nine,False,0.567
+AU,voz,1 Free-to-air,Total TV,2025-11-17,9NEWS SATURDAY,,12,30,Total TV avg audience,855000,Nine,False,0.633
 AU,voz,1 Free-to-air,Total TV,2025-11-17,9NEWS SUNDAY,,4,30,Total TV avg audience,1233000,Nine,False,0.9
-AU,voz,1 Free-to-air,Total TV,2025-11-17,A CURRENT AFFAIR,,7,30,Total TV avg audience,1094000,Nine,False,0.8
-AU,voz,1 Free-to-air,Total TV,2025-11-17,ABC NEWS,,11,30,Total TV avg audience,968000,ABC,False,0.667
-AU,voz,1 Free-to-air,Total TV,2025-11-17,ABC NEWS SUNDAY,,13,30,Total TV avg audience,887000,ABC,False,0.6
-AU,voz,1 Free-to-air,Total TV,2025-11-17,ABC NEWS-SA,,30,30,Total TV avg audience,610000,ABC,False,0.033
-AU,voz,1 Free-to-air,Total TV,2025-11-17,BIG BROTHER AUSTRALIA,,12,30,Total TV avg audience,899000,10,False,0.633
-AU,voz,1 Free-to-air,Total TV,2025-11-17,HARD QUIZ,,27,30,Total TV avg audience,644000,ABC,False,0.133
-AU,voz,1 Free-to-air,Total TV,2025-11-17,HOME AND AWAY,,8,30,Total TV avg audience,1073000,Seven,False,0.767
-AU,voz,1 Free-to-air,Total TV,2025-11-17,LIVE AID: WHEN ROCK ‘N’ ROLL TOOK ON THE WORLD,,9,30,Total TV avg audience,984000,Nine,False,0.733
-AU,voz,1 Free-to-air,Total TV,2025-11-17,LOVE ISLAND AUSTRALIA,,20,30,Total TV avg audience,739000,Nine,False,0.367
-AU,voz,1 Free-to-air,Total TV,2025-11-17,PORTRAIT ARTIST OF THE YEAR,,26,30,Total TV avg audience,646000,ABC,False,0.167
-AU,voz,1 Free-to-air,Total TV,2025-11-17,RETURN TO PARADISE,,25,30,Total TV avg audience,676000,ABC,False,0.2
+AU,voz,1 Free-to-air,Total TV,2025-11-17,A CURRENT AFFAIR,,5,30,Total TV avg audience,1094000,Nine,False,0.867
+AU,voz,1 Free-to-air,Total TV,2025-11-17,ABC NEWS,,9,30,Total TV avg audience,968000,ABC,False,0.733
+AU,voz,1 Free-to-air,Total TV,2025-11-17,ABC NEWS SUNDAY,,11,30,Total TV avg audience,887000,ABC,False,0.667
+AU,voz,1 Free-to-air,Total TV,2025-11-17,ANNABEL CRABB’S CIVIC DUTY,,27,30,Total TV avg audience,602000,ABC,False,0.133
+AU,voz,1 Free-to-air,Total TV,2025-11-17,AUSTRALIAN STORY,,24,30,Total TV avg audience,609000,ABC,False,0.233
+AU,voz,1 Free-to-air,Total TV,2025-11-17,BIG BROTHER AUSTRALIA,,10,30,Total TV avg audience,899000,10,False,0.7
+AU,voz,1 Free-to-air,Total TV,2025-11-17,BUDGET BATTLERS,,26,30,Total TV avg audience,604000,Nine,False,0.167
+AU,voz,1 Free-to-air,Total TV,2025-11-17,GRAND DESIGNS AUSTRALIA,,30,30,Total TV avg audience,594000,ABC,False,0.033
+AU,voz,1 Free-to-air,Total TV,2025-11-17,HARD QUIZ,,21,30,Total TV avg audience,644000,ABC,False,0.333
+AU,voz,1 Free-to-air,Total TV,2025-11-17,HOME AND AWAY,,6,30,Total TV avg audience,1073000,Seven,False,0.833
+AU,voz,1 Free-to-air,Total TV,2025-11-17,LIVE AID: WHEN ROCK ‘N’ ROLL TOOK ON THE WORLD,,7,30,Total TV avg audience,984000,Nine,False,0.8
+AU,voz,1 Free-to-air,Total TV,2025-11-17,LOVE ISLAND AUSTRALIA,,16,30,Total TV avg audience,739000,Nine,False,0.5
+AU,voz,1 Free-to-air,Total TV,2025-11-17,MEDIA WATCH,,28,30,Total TV avg audience,600000,ABC,False,0.1
+AU,voz,1 Free-to-air,Total TV,2025-11-17,PORTRAIT ARTIST OF THE YEAR,,20,30,Total TV avg audience,646000,ABC,False,0.367
+AU,voz,1 Free-to-air,Total TV,2025-11-17,RBT,,29,30,Total TV avg audience,595000,Nine,False,0.067
+AU,voz,1 Free-to-air,Total TV,2025-11-17,RETURN TO PARADISE,,19,30,Total TV avg audience,676000,ABC,False,0.4
 AU,voz,1 Free-to-air,Total TV,2025-11-17,SEVEN NEWS,,2,30,Total TV avg audience,1359000,Seven,False,0.967
-AU,voz,1 Free-to-air,Total TV,2025-11-17,SEVEN NEWS –,,5,30,Total TV avg audience,1193000,Seven,False,0.867
-AU,voz,1 Free-to-air,Total TV,2025-11-17,SEVEN’S CRICKET: FIRST TEST – THE ASHES D1,,6,30,Total TV avg audience,1180000,Seven,False,0.833
-AU,voz,1 Free-to-air,Total TV,2025-11-17,SEVEN’S CRICKET: FIRST TEST – THE ASHES D1 LUNCH,,17,30,Total TV avg audience,772000,Seven,False,0.467
-AU,voz,1 Free-to-air,Total TV,2025-11-17,SEVEN’S CRICKET: FIRST TEST – THE ASHES D2,,1,30,Total TV avg audience,1506000,Seven,False,1.0
-AU,voz,1 Free-to-air,Total TV,2025-11-17,SEVEN’S CRICKET: FIRST TEST – THE ASHES D2 LUNCH,,15,30,Total TV avg audience,802000,Seven,False,0.533
-AU,voz,1 Free-to-air,Total TV,2025-11-17,SEVEN’S CRICKET: FIRST TEST – THE ASHES D2 S3 MULTI,,23,30,Total TV avg audience,712000,Seven,False,0.267
-AU,voz,1 Free-to-air,Total TV,2025-11-17,SEVEN’S CRICKET: FIRST TEST – THE ASHES D2 TEA,,24,30,Total TV avg audience,699000,Seven,False,0.233
-AU,voz,1 Free-to-air,Total TV,2025-11-17,THE 1% CLUB,,22,30,Total TV avg audience,715000,Seven,False,0.3
-AU,voz,1 Free-to-air,Total TV,2025-11-17,THE CHASE AUSTRALIA,,29,30,Total TV avg audience,619000,Seven,False,0.067
-AU,voz,1 Free-to-air,Total TV,2025-11-17,THE ROOKIE,,21,30,Total TV avg audience,718000,Seven,False,0.333
-AU,voz,1 Free-to-air,Total TV,2025-11-17,TIPPING POINT AUSTRALIA,,19,30,Total TV avg audience,750000,Nine,False,0.4
-AU,voz,1 Free-to-air,Total TV,2025-11-17,TRAVEL GUIDES -ENCORE,,18,30,Total TV avg audience,768000,Nine,False,0.433
-AU,voz,1 Free-to-air,Total TV,2025-11-17,WORKING CLASS MAN,,28,30,Total TV avg audience,634000,Seven,False,0.1
-AU,voz,1 Free-to-air,Total TV,2025-11-24,60 MINUTES,,8,30,Total TV avg audience,935000,Nine,False,0.767
-AU,voz,1 Free-to-air,Total TV,2025-11-24,7.30,,13,30,Total TV avg audience,775000,ABC,False,0.6
+AU,voz,1 Free-to-air,Total TV,2025-11-17,SEVEN’S CRICKET: FIRST TEST,,1,30,Total TV avg audience,1506000,Seven,False,1.0
+AU,voz,1 Free-to-air,Total TV,2025-11-17,TARONGA: WHO’S WHO IN THE ZOO,,25,30,Total TV avg audience,606000,Nine,False,0.2
+AU,voz,1 Free-to-air,Total TV,2025-11-17,THE 1% CLUB,,18,30,Total TV avg audience,715000,Seven,False,0.433
+AU,voz,1 Free-to-air,Total TV,2025-11-17,THE CHASE AUSTRALIA,,23,30,Total TV avg audience,619000,Seven,False,0.267
+AU,voz,1 Free-to-air,Total TV,2025-11-17,THE ROOKIE,,17,30,Total TV avg audience,718000,Seven,False,0.467
+AU,voz,1 Free-to-air,Total TV,2025-11-17,TIPPING POINT AUSTRALIA,,15,30,Total TV avg audience,750000,Nine,False,0.533
+AU,voz,1 Free-to-air,Total TV,2025-11-17,TRAVEL GUIDES,,14,30,Total TV avg audience,768000,Nine,False,0.567
+AU,voz,1 Free-to-air,Total TV,2025-11-17,WORKING CLASS MAN,,22,30,Total TV avg audience,634000,Seven,False,0.3
+AU,voz,1 Free-to-air,Total TV,2025-11-24,60 MINUTES,,7,30,Total TV avg audience,935000,Nine,False,0.8
+AU,voz,1 Free-to-air,Total TV,2025-11-24,7.30,,12,30,Total TV avg audience,775000,ABC,False,0.633
 AU,voz,1 Free-to-air,Total TV,2025-11-24,9NEWS,,1,30,Total TV avg audience,1370000,Nine,False,1.0
-AU,voz,1 Free-to-air,Total TV,2025-11-24,9NEWS SATURDAY,,7,30,Total TV avg audience,955000,Nine,False,0.8
-AU,voz,1 Free-to-air,Total TV,2025-11-24,9NEWS SUNDAY,,4,30,Total TV avg audience,1149000,Nine,False,0.9
-AU,voz,1 Free-to-air,Total TV,2025-11-24,A CURRENT AFFAIR,,5,30,Total TV avg audience,1068000,Nine,False,0.867
-AU,voz,1 Free-to-air,Total TV,2025-11-24,ABC NEWS,,6,30,Total TV avg audience,967000,ABC,False,0.833
-AU,voz,1 Free-to-air,Total TV,2025-11-24,ABC NEWS-SA,,17,30,Total TV avg audience,733000,ABC,False,0.467
-AU,voz,1 Free-to-air,Total TV,2025-11-24,ANNABEL CRABB’S CIVIC DUTY,,28,30,Total TV avg audience,604000,ABC,False,0.1
-AU,voz,1 Free-to-air,Total TV,2025-11-24,AUSTRALIAN STORY,,30,30,Total TV avg audience,588000,ABC,False,0.033
-AU,voz,1 Free-to-air,Total TV,2025-11-24,BETTER HOMES AND GARDENS,,22,30,Total TV avg audience,632000,Seven,False,0.3
-AU,voz,1 Free-to-air,Total TV,2025-11-24,BIG BROTHER AUSTRALIA,,9,30,Total TV avg audience,867000,10,False,0.733
-AU,voz,1 Free-to-air,Total TV,2025-11-24,BORDER PATROL,,26,30,Total TV avg audience,614000,Seven,False,0.167
-AU,voz,1 Free-to-air,Total TV,2025-11-24,GARDENING AUSTRALIA,,18,30,Total TV avg audience,689000,ABC,False,0.433
-AU,voz,1 Free-to-air,Total TV,2025-11-24,HARD QUIZ,,29,30,Total TV avg audience,604000,ABC,False,0.067
-AU,voz,1 Free-to-air,Total TV,2025-11-24,JAMIE DURIE’S FUTURE HOUSE,,25,30,Total TV avg audience,625000,Nine,False,0.2
-AU,voz,1 Free-to-air,Total TV,2025-11-24,LIVE AID: WHEN ROCK ‘N’ ROLL TOOK ON THE WORLD,,14,30,Total TV avg audience,751000,Nine,False,0.567
-AU,voz,1 Free-to-air,Total TV,2025-11-24,LOVE ISLAND AUSTRALIA,,16,30,Total TV avg audience,740000,Nine,False,0.5
-AU,voz,1 Free-to-air,Total TV,2025-11-24,MEDIA WATCH,,20,30,Total TV avg audience,648000,ABC,False,0.367
-AU,voz,1 Free-to-air,Total TV,2025-11-24,PORTRAIT ARTIST OF THE YEAR,,24,30,Total TV avg audience,627000,ABC,False,0.233
-AU,voz,1 Free-to-air,Total TV,2025-11-24,RETURN TO PARADISE,,19,30,Total TV avg audience,678000,ABC,False,0.4
+AU,voz,1 Free-to-air,Total TV,2025-11-24,9NEWS SATURDAY,,6,30,Total TV avg audience,955000,Nine,False,0.833
+AU,voz,1 Free-to-air,Total TV,2025-11-24,9NEWS SUNDAY,,3,30,Total TV avg audience,1149000,Nine,False,0.933
+AU,voz,1 Free-to-air,Total TV,2025-11-24,A CURRENT AFFAIR,,4,30,Total TV avg audience,1068000,Nine,False,0.9
+AU,voz,1 Free-to-air,Total TV,2025-11-24,ABC NEWS,,5,30,Total TV avg audience,967000,ABC,False,0.867
+AU,voz,1 Free-to-air,Total TV,2025-11-24,ANNABEL CRABB’S CIVIC DUTY,,26,30,Total TV avg audience,604000,ABC,False,0.167
+AU,voz,1 Free-to-air,Total TV,2025-11-24,AUSTRALIAN STORY,,28,30,Total TV avg audience,588000,ABC,False,0.1
+AU,voz,1 Free-to-air,Total TV,2025-11-24,BETTER HOMES AND GARDENS,,20,30,Total TV avg audience,632000,Seven,False,0.367
+AU,voz,1 Free-to-air,Total TV,2025-11-24,BIG BROTHER AUSTRALIA,,8,30,Total TV avg audience,867000,10,False,0.767
+AU,voz,1 Free-to-air,Total TV,2025-11-24,BORDER PATROL,,24,30,Total TV avg audience,614000,Seven,False,0.233
+AU,voz,1 Free-to-air,Total TV,2025-11-24,GARDENING AUSTRALIA,,16,30,Total TV avg audience,689000,ABC,False,0.5
+AU,voz,1 Free-to-air,Total TV,2025-11-24,HARD QUIZ,,27,30,Total TV avg audience,604000,ABC,False,0.133
+AU,voz,1 Free-to-air,Total TV,2025-11-24,JAMIE DURIE’S FUTURE HOUSE,,23,30,Total TV avg audience,625000,Nine,False,0.267
+AU,voz,1 Free-to-air,Total TV,2025-11-24,LIVE AID: WHEN ROCK ‘N’ ROLL TOOK ON THE WORLD,,13,30,Total TV avg audience,751000,Nine,False,0.6
+AU,voz,1 Free-to-air,Total TV,2025-11-24,LOVE ISLAND AUSTRALIA,,15,30,Total TV avg audience,740000,Nine,False,0.533
+AU,voz,1 Free-to-air,Total TV,2025-11-24,MEDIA WATCH,,18,30,Total TV avg audience,648000,ABC,False,0.433
+AU,voz,1 Free-to-air,Total TV,2025-11-24,PORTRAIT ARTIST OF THE YEAR,,22,30,Total TV avg audience,627000,ABC,False,0.3
+AU,voz,1 Free-to-air,Total TV,2025-11-24,RBT,,30,30,Total TV avg audience,574000,Nine,False,0.033
+AU,voz,1 Free-to-air,Total TV,2025-11-24,RETURN TO PARADISE,,17,30,Total TV avg audience,678000,ABC,False,0.467
 AU,voz,1 Free-to-air,Total TV,2025-11-24,SEVEN NEWS,,2,30,Total TV avg audience,1280000,Seven,False,0.967
-AU,voz,1 Free-to-air,Total TV,2025-11-24,SEVEN NEWS –,,3,30,Total TV avg audience,1163000,Seven,False,0.933
-AU,voz,1 Free-to-air,Total TV,2025-11-24,TARONGA: WHO’S WHO IN THE ZOO,,27,30,Total TV avg audience,610000,Nine,False,0.133
-AU,voz,1 Free-to-air,Total TV,2025-11-24,THE 1% CLUB UK,,12,30,Total TV avg audience,795000,Seven,False,0.633
-AU,voz,1 Free-to-air,Total TV,2025-11-24,THE FRONT BAR,,23,30,Total TV avg audience,629000,Seven,False,0.267
-AU,voz,1 Free-to-air,Total TV,2025-11-24,THE ROOKIE,,15,30,Total TV avg audience,743000,Seven,False,0.533
-AU,voz,1 Free-to-air,Total TV,2025-11-24,TIPPING POINT AUSTRALIA,,10,30,Total TV avg audience,825000,Nine,False,0.7
-AU,voz,1 Free-to-air,Total TV,2025-11-24,TRAVEL GUIDES -ENCORE,,11,30,Total TV avg audience,803000,Nine,False,0.667
-AU,voz,1 Free-to-air,Total TV,2025-11-24,WHEN THE WAR IS OVER,,21,30,Total TV avg audience,639000,ABC,False,0.333
-AU,voz,2 BVOD,BVOD,2025-09-29,2025 STATE CUP CHAMPIONSHIP GRAND FINAL,,22,30,BVOD avg audience,95000,Nine,False,0.3
-AU,voz,2 BVOD,BVOD,2025-09-29,9NEWS,,13,30,BVOD avg audience,171000,Nine,False,0.6
-AU,voz,2 BVOD,BVOD,2025-09-29,9NEWS SATURDAY,,18,30,BVOD avg audience,112000,Nine,False,0.433
-AU,voz,2 BVOD,BVOD,2025-09-29,9NEWS SUNDAY,,11,30,BVOD avg audience,196000,Nine,False,0.667
-AU,voz,2 BVOD,BVOD,2025-09-29,A CURRENT AFFAIR,,14,30,BVOD avg audience,150000,Nine,False,0.567
-AU,voz,2 BVOD,BVOD,2025-09-29,BEYOND PARADISE,,19,30,BVOD avg audience,108000,ABC,False,0.4
-AU,voz,2 BVOD,BVOD,2025-09-29,BLEDISLOE CUP 2025 -GAME 2,,17,30,BVOD avg audience,126000,Nine,False,0.467
-AU,voz,2 BVOD,BVOD,2025-09-29,CLARKSON’S FARM,,25,30,BVOD avg audience,74000,Nine,False,0.2
-AU,voz,2 BVOD,BVOD,2025-09-29,FIND MY COUNTRY HOUSE AUSTRALIA,,30,30,BVOD avg audience,60000,Nine,False,0.033
-AU,voz,2 BVOD,BVOD,2025-09-29,GOGGLEBOX,,16,30,BVOD avg audience,127000,10,False,0.5
-AU,voz,2 BVOD,BVOD,2025-09-29,HOME AND AWAY,,5,30,BVOD avg audience,320000,Seven,False,0.867
-AU,voz,2 BVOD,BVOD,2025-09-29,HOME AND AWAY EP.2,,7,30,BVOD avg audience,297000,Seven,False,0.8
-AU,voz,2 BVOD,BVOD,2025-09-29,HOME AND AWAY EP.3,,6,30,BVOD avg audience,306000,Seven,False,0.833
-AU,voz,2 BVOD,BVOD,2025-09-29,INSIDERS,,27,30,BVOD avg audience,64000,ABC,False,0.133
-AU,voz,2 BVOD,BVOD,2025-09-29,MYSTERY ROAD: ORIGIN,,20,30,BVOD avg audience,103000,ABC,False,0.367
-AU,voz,2 BVOD,BVOD,2025-09-29,NRL GRAND FINAL DAY,,3,30,BVOD avg audience,579000,Nine,False,0.933
-AU,voz,2 BVOD,BVOD,2025-09-29,NRL GRAND FINAL DAY -ENTERTAINMENT,,2,30,BVOD avg audience,609000,Nine,False,0.967
-AU,voz,2 BVOD,BVOD,2025-09-29,NRL GRAND FINAL DAY -MATCH,,1,30,BVOD avg audience,1373000,Nine,False,1.0
-AU,voz,2 BVOD,BVOD,2025-09-29,NRL WOMEN’S PREMIERSHIP,,8,30,BVOD avg audience,291000,Nine,False,0.767
-AU,voz,2 BVOD,BVOD,2025-09-29,NRL WOMEN’S PREMIERSHIP -GRAND FINAL,,10,30,BVOD avg audience,237000,Nine,False,0.7
-AU,voz,2 BVOD,BVOD,2025-09-29,OFF THE GRID WITH COLIN AND MANU,,24,30,BVOD avg audience,79000,Seven,False,0.233
-AU,voz,2 BVOD,BVOD,2025-09-29,PROFESSOR T,,29,30,BVOD avg audience,61000,ABC,False,0.067
-AU,voz,2 BVOD,BVOD,2025-09-29,RFDS,,9,30,BVOD avg audience,260000,Seven,False,0.733
-AU,voz,2 BVOD,BVOD,2025-09-29,SEVEN NEWS,,15,30,BVOD avg audience,138000,Seven,False,0.533
-AU,voz,2 BVOD,BVOD,2025-09-29,SEVEN NEWS –,,23,30,BVOD avg audience,85000,Seven,False,0.267
-AU,voz,2 BVOD,BVOD,2025-09-29,THE AMAZING RACE AUSTRALIA: CELEBRITY,,12,30,BVOD avg audience,190000,10,False,0.633
-AU,voz,2 BVOD,BVOD,2025-09-29,THE BLOCK,,4,30,BVOD avg audience,454000,Nine,False,0.9
-AU,voz,2 BVOD,BVOD,2025-09-29,THE CHASE AUSTRALIA,,28,30,BVOD avg audience,64000,Seven,False,0.1
-AU,voz,2 BVOD,BVOD,2025-09-29,THE GRAND TOUR,,26,30,BVOD avg audience,68000,Nine,False,0.167
-AU,voz,2 BVOD,BVOD,2025-09-29,TIPPING POINT AUSTRALIA,,21,30,BVOD avg audience,99000,Nine,False,0.333
-AU,voz,2 BVOD,BVOD,2025-10-06,60 MINUTES,,20,30,BVOD avg audience,113000,Nine,False,0.367
-AU,voz,2 BVOD,BVOD,2025-10-06,9NEWS,,13,30,BVOD avg audience,185000,Nine,False,0.6
-AU,voz,2 BVOD,BVOD,2025-10-06,9NEWS SATURDAY,,22,30,BVOD avg audience,107000,Nine,False,0.3
-AU,voz,2 BVOD,BVOD,2025-10-06,9NEWS SUNDAY,,15,30,BVOD avg audience,161000,Nine,False,0.533
-AU,voz,2 BVOD,BVOD,2025-10-06,A CURRENT AFFAIR,,14,30,BVOD avg audience,172000,Nine,False,0.567
-AU,voz,2 BVOD,BVOD,2025-10-06,AUSTRALIAN STORY,,16,30,BVOD avg audience,147000,ABC,False,0.5
-AU,voz,2 BVOD,BVOD,2025-10-06,BUMP,,28,30,BVOD avg audience,86000,Nine,False,0.1
-AU,voz,2 BVOD,BVOD,2025-10-06,GOGGLEBOX,,18,30,BVOD avg audience,136000,10,False,0.433
-AU,voz,2 BVOD,BVOD,2025-10-06,HAVE YOU BEEN PAYING ATTENTION?,,19,30,BVOD avg audience,129000,10,False,0.4
+AU,voz,1 Free-to-air,Total TV,2025-11-24,TARONGA: WHO’S WHO IN THE ZOO,,25,30,Total TV avg audience,610000,Nine,False,0.2
+AU,voz,1 Free-to-air,Total TV,2025-11-24,THE 1% CLUB UK,,11,30,Total TV avg audience,795000,Seven,False,0.667
+AU,voz,1 Free-to-air,Total TV,2025-11-24,THE CHASE AUSTRALIA,,29,30,Total TV avg audience,578000,Seven,False,0.067
+AU,voz,1 Free-to-air,Total TV,2025-11-24,THE FRONT BAR,,21,30,Total TV avg audience,629000,Seven,False,0.333
+AU,voz,1 Free-to-air,Total TV,2025-11-24,THE ROOKIE,,14,30,Total TV avg audience,743000,Seven,False,0.567
+AU,voz,1 Free-to-air,Total TV,2025-11-24,TIPPING POINT AUSTRALIA,,9,30,Total TV avg audience,825000,Nine,False,0.733
+AU,voz,1 Free-to-air,Total TV,2025-11-24,TRAVEL GUIDES,,10,30,Total TV avg audience,803000,Nine,False,0.7
+AU,voz,1 Free-to-air,Total TV,2025-11-24,WHEN THE WAR IS OVER,,19,30,Total TV avg audience,639000,ABC,False,0.4
+AU,voz,1 Free-to-air,Total TV,2025-12-01,2025: THE YEAR THAT WAS,,17,30,Total TV avg audience,623000,Nine,False,0.467
+AU,voz,1 Free-to-air,Total TV,2025-12-01,7.30,,8,30,Total TV avg audience,824000,ABC,False,0.767
+AU,voz,1 Free-to-air,Total TV,2025-12-01,7NEWS SPOTLIGHT SUMMER,,27,30,Total TV avg audience,555000,Seven,False,0.133
+AU,voz,1 Free-to-air,Total TV,2025-12-01,9NEWS,,2,30,Total TV avg audience,1307000,Nine,False,0.967
+AU,voz,1 Free-to-air,Total TV,2025-12-01,9NEWS SATURDAY,,10,30,Total TV avg audience,801000,Nine,False,0.7
+AU,voz,1 Free-to-air,Total TV,2025-12-01,9NEWS SUNDAY,,5,30,Total TV avg audience,990000,Nine,False,0.867
+AU,voz,1 Free-to-air,Total TV,2025-12-01,A CURRENT AFFAIR,,4,30,Total TV avg audience,1095000,Nine,False,0.9
+AU,voz,1 Free-to-air,Total TV,2025-12-01,ABC NEWS,,6,30,Total TV avg audience,965000,ABC,False,0.833
+AU,voz,1 Free-to-air,Total TV,2025-12-01,ABC NEWS SUNDAY,,12,30,Total TV avg audience,742000,ABC,False,0.633
+AU,voz,1 Free-to-air,Total TV,2025-12-01,AUSTRALIAN STORY,,19,30,Total TV avg audience,600000,ABC,False,0.4
+AU,voz,1 Free-to-air,Total TV,2025-12-01,BIG BROTHER AUSTRALIA,,9,30,Total TV avg audience,811000,10,False,0.733
+AU,voz,1 Free-to-air,Total TV,2025-12-01,BORDER PATROL,,21,30,Total TV avg audience,589000,Seven,False,0.333
+AU,voz,1 Free-to-air,Total TV,2025-12-01,EVENTS THAT CHANGED AUSTRALIA,,16,30,Total TV avg audience,670000,Nine,False,0.5
+AU,voz,1 Free-to-air,Total TV,2025-12-01,GARDENING AUSTRALIA,,29,30,Total TV avg audience,515000,ABC,False,0.067
+AU,voz,1 Free-to-air,Total TV,2025-12-01,HARD QUIZ,,20,30,Total TV avg audience,596000,ABC,False,0.367
+AU,voz,1 Free-to-air,Total TV,2025-12-01,HIGHWAY PATROL,,30,30,Total TV avg audience,512000,Seven,False,0.033
+AU,voz,1 Free-to-air,Total TV,2025-12-01,LOVE ISLAND AUSTRALIA,,13,30,Total TV avg audience,737000,Nine,False,0.6
+AU,voz,1 Free-to-air,Total TV,2025-12-01,PORTRAIT ARTIST OF THE YEAR,,28,30,Total TV avg audience,529000,ABC,False,0.1
+AU,voz,1 Free-to-air,Total TV,2025-12-01,RBT,,22,30,Total TV avg audience,581000,Nine,False,0.3
+AU,voz,1 Free-to-air,Total TV,2025-12-01,RETURN TO PARADISE,,25,30,Total TV avg audience,570000,ABC,False,0.2
+AU,voz,1 Free-to-air,Total TV,2025-12-01,SEVEN NEWS,,3,30,Total TV avg audience,1296000,Seven,False,0.933
+AU,voz,1 Free-to-air,Total TV,2025-12-01,SEVEN’S CRICKET: SECOND TEST,,1,30,Total TV avg audience,1562000,Seven,False,1.0
+AU,voz,1 Free-to-air,Total TV,2025-12-01,TARONGA: WHO’S WHO IN THE ZOO,,18,30,Total TV avg audience,609000,Nine,False,0.433
+AU,voz,1 Free-to-air,Total TV,2025-12-01,THE 1% CLUB,,26,30,Total TV avg audience,560000,Seven,False,0.167
+AU,voz,1 Free-to-air,Total TV,2025-12-01,THE 1% CLUB UK,,15,30,Total TV avg audience,712000,Seven,False,0.533
+AU,voz,1 Free-to-air,Total TV,2025-12-01,THE CASTLE,,23,30,Total TV avg audience,580000,Nine,False,0.267
+AU,voz,1 Free-to-air,Total TV,2025-12-01,THE CHASE AUSTRALIA,,24,30,Total TV avg audience,578000,Seven,False,0.233
+AU,voz,1 Free-to-air,Total TV,2025-12-01,THE ROOKIE,,7,30,Total TV avg audience,842000,Seven,False,0.8
+AU,voz,1 Free-to-air,Total TV,2025-12-01,TIPPING POINT AUSTRALIA,,11,30,Total TV avg audience,763000,Nine,False,0.667
+AU,voz,1 Free-to-air,Total TV,2025-12-01,TRAVEL GUIDES,,14,30,Total TV avg audience,720000,Nine,False,0.567
+AU,voz,2 BVOD,BVOD,2025-09-29,2025 STATE CUP CHAMPIONSHIP GRAND FINAL,,17,30,BVOD avg audience,95000,Nine,False,0.467
+AU,voz,2 BVOD,BVOD,2025-09-29,7.30,,29,30,BVOD avg audience,53000,ABC,False,0.067
+AU,voz,2 BVOD,BVOD,2025-09-29,9NEWS,,8,30,BVOD avg audience,171000,Nine,False,0.767
+AU,voz,2 BVOD,BVOD,2025-09-29,9NEWS SATURDAY,,13,30,BVOD avg audience,112000,Nine,False,0.6
+AU,voz,2 BVOD,BVOD,2025-09-29,9NEWS SUNDAY,,6,30,BVOD avg audience,196000,Nine,False,0.833
+AU,voz,2 BVOD,BVOD,2025-09-29,A CURRENT AFFAIR,,9,30,BVOD avg audience,150000,Nine,False,0.733
+AU,voz,2 BVOD,BVOD,2025-09-29,ABC NEWS,,28,30,BVOD avg audience,54000,ABC,False,0.1
+AU,voz,2 BVOD,BVOD,2025-09-29,BETTER HOMES AND GARDENS,,26,30,BVOD avg audience,55000,Seven,False,0.167
+AU,voz,2 BVOD,BVOD,2025-09-29,BEYOND PARADISE,,14,30,BVOD avg audience,108000,ABC,False,0.567
+AU,voz,2 BVOD,BVOD,2025-09-29,BLEDISLOE CUP 2025,,12,30,BVOD avg audience,126000,Nine,False,0.633
+AU,voz,2 BVOD,BVOD,2025-09-29,CLARKSON’S FARM,,19,30,BVOD avg audience,74000,Nine,False,0.4
+AU,voz,2 BVOD,BVOD,2025-09-29,FIND MY COUNTRY HOUSE AUSTRALIA,,24,30,BVOD avg audience,60000,Nine,False,0.233
+AU,voz,2 BVOD,BVOD,2025-09-29,GARDENING AUSTRALIA,,27,30,BVOD avg audience,55000,ABC,False,0.133
+AU,voz,2 BVOD,BVOD,2025-09-29,GOGGLEBOX,,11,30,BVOD avg audience,127000,10,False,0.667
+AU,voz,2 BVOD,BVOD,2025-09-29,HARD QUIZ,,25,30,BVOD avg audience,60000,ABC,False,0.2
+AU,voz,2 BVOD,BVOD,2025-09-29,HOME AND AWAY,,3,30,BVOD avg audience,320000,Seven,False,0.933
+AU,voz,2 BVOD,BVOD,2025-09-29,INSIDERS,,21,30,BVOD avg audience,64000,ABC,False,0.333
+AU,voz,2 BVOD,BVOD,2025-09-29,MYSTERY ROAD: ORIGIN,,15,30,BVOD avg audience,103000,ABC,False,0.533
+AU,voz,2 BVOD,BVOD,2025-09-29,NRL GRAND FINAL COUNTDOWN,,30,30,BVOD avg audience,52000,Nine,False,0.033
+AU,voz,2 BVOD,BVOD,2025-09-29,NRL GRAND FINAL DAY,,1,30,BVOD avg audience,1373000,Nine,False,1.0
+AU,voz,2 BVOD,BVOD,2025-09-29,NRL WOMEN’S PREMIERSHIP,,4,30,BVOD avg audience,291000,Nine,False,0.9
+AU,voz,2 BVOD,BVOD,2025-09-29,OFF THE GRID WITH COLIN AND MANU,,18,30,BVOD avg audience,79000,Seven,False,0.433
+AU,voz,2 BVOD,BVOD,2025-09-29,PROFESSOR T,,23,30,BVOD avg audience,61000,ABC,False,0.267
+AU,voz,2 BVOD,BVOD,2025-09-29,RFDS,,5,30,BVOD avg audience,260000,Seven,False,0.867
+AU,voz,2 BVOD,BVOD,2025-09-29,SEVEN NEWS,,10,30,BVOD avg audience,138000,Seven,False,0.7
+AU,voz,2 BVOD,BVOD,2025-09-29,THE AMAZING RACE AUSTRALIA: CELEBRITY,,7,30,BVOD avg audience,190000,10,False,0.8
+AU,voz,2 BVOD,BVOD,2025-09-29,THE BLOCK,,2,30,BVOD avg audience,454000,Nine,False,0.967
+AU,voz,2 BVOD,BVOD,2025-09-29,THE CHASE AUSTRALIA,,22,30,BVOD avg audience,64000,Seven,False,0.3
+AU,voz,2 BVOD,BVOD,2025-09-29,THE GRAND TOUR,,20,30,BVOD avg audience,68000,Nine,False,0.367
+AU,voz,2 BVOD,BVOD,2025-09-29,TIPPING POINT AUSTRALIA,,16,30,BVOD avg audience,99000,Nine,False,0.5
+AU,voz,2 BVOD,BVOD,2025-10-06,60 MINUTES,,17,30,BVOD avg audience,113000,Nine,False,0.467
+AU,voz,2 BVOD,BVOD,2025-10-06,9NEWS,,11,30,BVOD avg audience,185000,Nine,False,0.667
+AU,voz,2 BVOD,BVOD,2025-10-06,9NEWS SATURDAY,,19,30,BVOD avg audience,107000,Nine,False,0.4
+AU,voz,2 BVOD,BVOD,2025-10-06,9NEWS SUNDAY,,13,30,BVOD avg audience,161000,Nine,False,0.6
+AU,voz,2 BVOD,BVOD,2025-10-06,A CURRENT AFFAIR,,12,30,BVOD avg audience,172000,Nine,False,0.633
+AU,voz,2 BVOD,BVOD,2025-10-06,AUSTRALIAN STORY,,14,30,BVOD avg audience,147000,ABC,False,0.567
+AU,voz,2 BVOD,BVOD,2025-10-06,BEYOND PARADISE,,30,30,BVOD avg audience,73000,ABC,False,0.033
+AU,voz,2 BVOD,BVOD,2025-10-06,BUMP,,25,30,BVOD avg audience,86000,Nine,False,0.2
+AU,voz,2 BVOD,BVOD,2025-10-06,GOGGLEBOX,,15,30,BVOD avg audience,136000,10,False,0.533
+AU,voz,2 BVOD,BVOD,2025-10-06,HAVE YOU BEEN PAYING ATTENTION?,,16,30,BVOD avg audience,129000,10,False,0.5
 AU,voz,2 BVOD,BVOD,2025-10-06,HOME AND AWAY,,4,30,BVOD avg audience,295000,Seven,False,0.9
-AU,voz,2 BVOD,BVOD,2025-10-06,HOME AND AWAY EP.2,,6,30,BVOD avg audience,285000,Seven,False,0.833
-AU,voz,2 BVOD,BVOD,2025-10-06,HOME AND AWAY EP.3,,5,30,BVOD avg audience,294000,Seven,False,0.867
-AU,voz,2 BVOD,BVOD,2025-10-06,I WAS ACTUALLY THERE,,26,30,BVOD avg audience,97000,ABC,False,0.167
-AU,voz,2 BVOD,BVOD,2025-10-06,KING & CONQUEROR,,11,30,BVOD avg audience,199000,SBS,False,0.667
-AU,voz,2 BVOD,BVOD,2025-10-06,MURDER DOWN UNDER,,21,30,BVOD avg audience,111000,Nine,False,0.333
-AU,voz,2 BVOD,BVOD,2025-10-06,MURDER IN A SMALL TOWN,,25,30,BVOD avg audience,98000,Seven,False,0.2
-AU,voz,2 BVOD,BVOD,2025-10-06,MY KITCHEN RULES –,,2,30,BVOD avg audience,387000,Seven,False,0.967
-AU,voz,2 BVOD,BVOD,2025-10-06,MYSTERY ROAD: ORIGIN,,29,30,BVOD avg audience,85000,ABC,False,0.067
-AU,voz,2 BVOD,BVOD,2025-10-06,RFDS,,7,30,BVOD avg audience,276000,Seven,False,0.8
-AU,voz,2 BVOD,BVOD,2025-10-06,SEVEN NEWS,,17,30,BVOD avg audience,138000,Seven,False,0.467
-AU,voz,2 BVOD,BVOD,2025-10-06,SEVEN NEWS –,,12,30,BVOD avg audience,198000,Seven,False,0.633
-AU,voz,2 BVOD,BVOD,2025-10-06,SUPERCARS CHAMPIONSHIP: BATHURST 1000 D2 TOP 10 SHOOTOUT,,23,30,BVOD avg audience,105000,Seven,False,0.267
-AU,voz,2 BVOD,BVOD,2025-10-06,SUPERCARS CHAMPSIONSHIP: BATHURST 1000 D3 PODIUM,,27,30,BVOD avg audience,97000,Seven,False,0.133
-AU,voz,2 BVOD,BVOD,2025-10-06,SUPERCARS CHAMPSIONSHIP: BATHURST 1000 D3 RACE,,9,30,BVOD avg audience,213000,Seven,False,0.733
-AU,voz,2 BVOD,BVOD,2025-10-06,SYDNEY 2000: THE BEST EVER,,30,30,BVOD avg audience,84000,Nine,False,0.033
-AU,voz,2 BVOD,BVOD,2025-10-06,THE AMAZING RACE AUSTRALIA: CELEBRITY,,10,30,BVOD avg audience,203000,10,False,0.7
+AU,voz,2 BVOD,BVOD,2025-10-06,I WAS ACTUALLY THERE,,23,30,BVOD avg audience,97000,ABC,False,0.267
+AU,voz,2 BVOD,BVOD,2025-10-06,KING & CONQUEROR,,9,30,BVOD avg audience,199000,SBS,False,0.733
+AU,voz,2 BVOD,BVOD,2025-10-06,MURDER DOWN UNDER,,18,30,BVOD avg audience,111000,Nine,False,0.433
+AU,voz,2 BVOD,BVOD,2025-10-06,MURDER IN A SMALL TOWN,,22,30,BVOD avg audience,98000,Seven,False,0.3
+AU,voz,2 BVOD,BVOD,2025-10-06,MY KITCHEN RULES,,2,30,BVOD avg audience,387000,Seven,False,0.967
+AU,voz,2 BVOD,BVOD,2025-10-06,MYSTERY ROAD: ORIGIN,,26,30,BVOD avg audience,85000,ABC,False,0.167
+AU,voz,2 BVOD,BVOD,2025-10-06,OFF THE GRID WITH COLIN AND MANU,,29,30,BVOD avg audience,76000,Seven,False,0.067
+AU,voz,2 BVOD,BVOD,2025-10-06,RFDS,,5,30,BVOD avg audience,276000,Seven,False,0.867
+AU,voz,2 BVOD,BVOD,2025-10-06,SEVEN NEWS,,10,30,BVOD avg audience,198000,Seven,False,0.7
+AU,voz,2 BVOD,BVOD,2025-10-06,SUPERCARS CHAMPIONSHIP: BATHURST 1000 D2 TOP 10 SHOOTOUT,,20,30,BVOD avg audience,105000,Seven,False,0.367
+AU,voz,2 BVOD,BVOD,2025-10-06,SUPERCARS CHAMPSIONSHIP: BATHURST 1000 D3 PODIUM,,24,30,BVOD avg audience,97000,Seven,False,0.233
+AU,voz,2 BVOD,BVOD,2025-10-06,SUPERCARS CHAMPSIONSHIP: BATHURST 1000 D3 RACE,,7,30,BVOD avg audience,213000,Seven,False,0.8
+AU,voz,2 BVOD,BVOD,2025-10-06,SYDNEY 2000: THE BEST EVER,,27,30,BVOD avg audience,84000,Nine,False,0.133
+AU,voz,2 BVOD,BVOD,2025-10-06,THE AMAZING RACE AUSTRALIA: CELEBRITY,,8,30,BVOD avg audience,203000,10,False,0.767
 AU,voz,2 BVOD,BVOD,2025-10-06,THE BLOCK,,1,30,BVOD avg audience,540000,Nine,False,1.0
+AU,voz,2 BVOD,BVOD,2025-10-06,THE RISE AND FALL OF KINGS CROSS,,28,30,BVOD avg audience,81000,Seven,False,0.1
 AU,voz,2 BVOD,BVOD,2025-10-06,THE ROOKIE,,3,30,BVOD avg audience,297000,Seven,False,0.933
-AU,voz,2 BVOD,BVOD,2025-10-06,THE VOICE –,,8,30,BVOD avg audience,255000,Seven,False,0.767
-AU,voz,2 BVOD,BVOD,2025-10-06,TIPPING POINT AUSTRALIA,,24,30,BVOD avg audience,100000,Nine,False,0.233
-AU,voz,2 BVOD,BVOD,2025-10-13,60 MINUTES,,17,30,BVOD avg audience,133000,Nine,False,0.467
-AU,voz,2 BVOD,BVOD,2025-10-13,9NEWS,,10,30,BVOD avg audience,179000,Nine,False,0.7
-AU,voz,2 BVOD,BVOD,2025-10-13,9NEWS SATURDAY,,23,30,BVOD avg audience,105000,Nine,False,0.267
-AU,voz,2 BVOD,BVOD,2025-10-13,9NEWS SUNDAY,,12,30,BVOD avg audience,176000,Nine,False,0.633
-AU,voz,2 BVOD,BVOD,2025-10-13,A CURRENT AFFAIR,,13,30,BVOD avg audience,170000,Nine,False,0.6
-AU,voz,2 BVOD,BVOD,2025-10-13,AUSTRALIAN CRIME STORIES: THE INVESTIGATORS,,24,30,BVOD avg audience,103000,Nine,False,0.233
-AU,voz,2 BVOD,BVOD,2025-10-13,AUSTRALIAN STORY,,18,30,BVOD avg audience,130000,ABC,False,0.433
-AU,voz,2 BVOD,BVOD,2025-10-13,BLUE LIGHTS,,14,30,BVOD avg audience,153000,SBS,False,0.567
-AU,voz,2 BVOD,BVOD,2025-10-13,BUMP,,28,30,BVOD avg audience,83000,Nine,False,0.1
-AU,voz,2 BVOD,BVOD,2025-10-13,FOUR CORNERS,,21,30,BVOD avg audience,118000,ABC,False,0.333
-AU,voz,2 BVOD,BVOD,2025-10-13,GOGGLEBOX,,16,30,BVOD avg audience,134000,10,False,0.5
-AU,voz,2 BVOD,BVOD,2025-10-13,GRAND DESIGNS AUSTRALIA,,11,30,BVOD avg audience,179000,ABC,False,0.667
+AU,voz,2 BVOD,BVOD,2025-10-06,THE VOICE,,6,30,BVOD avg audience,255000,Seven,False,0.833
+AU,voz,2 BVOD,BVOD,2025-10-06,TIPPING POINT AUSTRALIA,,21,30,BVOD avg audience,100000,Nine,False,0.333
+AU,voz,2 BVOD,BVOD,2025-10-13,60 MINUTES,,15,30,BVOD avg audience,133000,Nine,False,0.533
+AU,voz,2 BVOD,BVOD,2025-10-13,9NEWS,,8,30,BVOD avg audience,179000,Nine,False,0.767
+AU,voz,2 BVOD,BVOD,2025-10-13,9NEWS SATURDAY,,20,30,BVOD avg audience,105000,Nine,False,0.367
+AU,voz,2 BVOD,BVOD,2025-10-13,9NEWS SUNDAY,,10,30,BVOD avg audience,176000,Nine,False,0.7
+AU,voz,2 BVOD,BVOD,2025-10-13,A CURRENT AFFAIR,,11,30,BVOD avg audience,170000,Nine,False,0.667
+AU,voz,2 BVOD,BVOD,2025-10-13,AUSTRALIAN CRIME STORIES: THE INVESTIGATORS,,21,30,BVOD avg audience,103000,Nine,False,0.333
+AU,voz,2 BVOD,BVOD,2025-10-13,AUSTRALIAN STORY,,16,30,BVOD avg audience,130000,ABC,False,0.5
+AU,voz,2 BVOD,BVOD,2025-10-13,BLUE LIGHTS,,12,30,BVOD avg audience,153000,SBS,False,0.633
+AU,voz,2 BVOD,BVOD,2025-10-13,BUMP,,25,30,BVOD avg audience,83000,Nine,False,0.2
+AU,voz,2 BVOD,BVOD,2025-10-13,FOUR CORNERS,,18,30,BVOD avg audience,118000,ABC,False,0.433
+AU,voz,2 BVOD,BVOD,2025-10-13,GOGGLEBOX,,14,30,BVOD avg audience,134000,10,False,0.567
+AU,voz,2 BVOD,BVOD,2025-10-13,GRAND DESIGNS AUSTRALIA,,9,30,BVOD avg audience,179000,ABC,False,0.733
 AU,voz,2 BVOD,BVOD,2025-10-13,HOME AND AWAY,,4,30,BVOD avg audience,293000,Seven,False,0.9
-AU,voz,2 BVOD,BVOD,2025-10-13,HOME AND AWAY EP.2,,7,30,BVOD avg audience,269000,Seven,False,0.8
-AU,voz,2 BVOD,BVOD,2025-10-13,HOME AND AWAY EP.3,,5,30,BVOD avg audience,283000,Seven,False,0.867
-AU,voz,2 BVOD,BVOD,2025-10-13,I WAS ACTUALLY THERE,,30,30,BVOD avg audience,79000,ABC,False,0.033
-AU,voz,2 BVOD,BVOD,2025-10-13,KING & CONQUEROR,,20,30,BVOD avg audience,123000,SBS,False,0.367
-AU,voz,2 BVOD,BVOD,2025-10-13,MURDER DOWN UNDER,,27,30,BVOD avg audience,93000,Nine,False,0.133
-AU,voz,2 BVOD,BVOD,2025-10-13,MURDER IN A SMALL TOWN,,25,30,BVOD avg audience,103000,Seven,False,0.2
-AU,voz,2 BVOD,BVOD,2025-10-13,MY KITCHEN RULES –,,2,30,BVOD avg audience,389000,Seven,False,0.967
-AU,voz,2 BVOD,BVOD,2025-10-13,OFF THE GRID WITH COLIN AND MANU,,29,30,BVOD avg audience,82000,Seven,False,0.067
-AU,voz,2 BVOD,BVOD,2025-10-13,PACIFIC CHAMPIONSHIPS – KIWIS V TOA SAMOA,,22,30,BVOD avg audience,112000,Nine,False,0.3
-AU,voz,2 BVOD,BVOD,2025-10-13,RFDS,,6,30,BVOD avg audience,281000,Seven,False,0.833
-AU,voz,2 BVOD,BVOD,2025-10-13,SEVEN NEWS,,15,30,BVOD avg audience,141000,Seven,False,0.533
-AU,voz,2 BVOD,BVOD,2025-10-13,SEVEN NEWS –,,19,30,BVOD avg audience,128000,Seven,False,0.4
-AU,voz,2 BVOD,BVOD,2025-10-13,THE AMAZING RACE AUSTRALIA: CELEBRITY,,9,30,BVOD avg audience,216000,10,False,0.733
+AU,voz,2 BVOD,BVOD,2025-10-13,I WAS ACTUALLY THERE,,27,30,BVOD avg audience,79000,ABC,False,0.133
+AU,voz,2 BVOD,BVOD,2025-10-13,INSIDERS,,29,30,BVOD avg audience,67000,ABC,False,0.067
+AU,voz,2 BVOD,BVOD,2025-10-13,KING & CONQUEROR,,17,30,BVOD avg audience,123000,SBS,False,0.467
+AU,voz,2 BVOD,BVOD,2025-10-13,MURDER DOWN UNDER,,24,30,BVOD avg audience,93000,Nine,False,0.233
+AU,voz,2 BVOD,BVOD,2025-10-13,MURDER IN A SMALL TOWN,,22,30,BVOD avg audience,103000,Seven,False,0.3
+AU,voz,2 BVOD,BVOD,2025-10-13,MY KITCHEN RULES,,2,30,BVOD avg audience,389000,Seven,False,0.967
+AU,voz,2 BVOD,BVOD,2025-10-13,OFF THE GRID WITH COLIN AND MANU,,26,30,BVOD avg audience,82000,Seven,False,0.167
+AU,voz,2 BVOD,BVOD,2025-10-13,PACIFIC CHAMPIONSHIPS,,19,30,BVOD avg audience,112000,Nine,False,0.4
+AU,voz,2 BVOD,BVOD,2025-10-13,RBT,,28,30,BVOD avg audience,78000,Nine,False,0.1
+AU,voz,2 BVOD,BVOD,2025-10-13,RFDS,,5,30,BVOD avg audience,281000,Seven,False,0.867
+AU,voz,2 BVOD,BVOD,2025-10-13,SAM PANG TONIGHT,,30,30,BVOD avg audience,67000,10,False,0.033
+AU,voz,2 BVOD,BVOD,2025-10-13,SEVEN NEWS,,13,30,BVOD avg audience,141000,Seven,False,0.6
+AU,voz,2 BVOD,BVOD,2025-10-13,THE AMAZING RACE AUSTRALIA: CELEBRITY,,7,30,BVOD avg audience,216000,10,False,0.8
 AU,voz,2 BVOD,BVOD,2025-10-13,THE BLOCK,,1,30,BVOD avg audience,538000,Nine,False,1.0
 AU,voz,2 BVOD,BVOD,2025-10-13,THE ROOKIE,,3,30,BVOD avg audience,327000,Seven,False,0.933
-AU,voz,2 BVOD,BVOD,2025-10-13,THE VOICE –,,8,30,BVOD avg audience,231000,Seven,False,0.767
-AU,voz,2 BVOD,BVOD,2025-10-13,TIPPING POINT AUSTRALIA,,26,30,BVOD avg audience,100000,Nine,False,0.167
-AU,voz,2 BVOD,BVOD,2025-10-20,60 MINUTES,,17,30,BVOD avg audience,129000,Nine,False,0.467
-AU,voz,2 BVOD,BVOD,2025-10-20,9NEWS,,13,30,BVOD avg audience,178000,Nine,False,0.6
-AU,voz,2 BVOD,BVOD,2025-10-20,9NEWS SATURDAY,,21,30,BVOD avg audience,106000,Nine,False,0.333
-AU,voz,2 BVOD,BVOD,2025-10-20,9NEWS SUNDAY,,12,30,BVOD avg audience,194000,Nine,False,0.633
-AU,voz,2 BVOD,BVOD,2025-10-20,A CURRENT AFFAIR,,14,30,BVOD avg audience,155000,Nine,False,0.567
-AU,voz,2 BVOD,BVOD,2025-10-20,AUSTRALIAN STORY,,29,30,BVOD avg audience,84000,ABC,False,0.067
-AU,voz,2 BVOD,BVOD,2025-10-20,BLUE LIGHTS,,16,30,BVOD avg audience,130000,SBS,False,0.5
-AU,voz,2 BVOD,BVOD,2025-10-20,BUDGET BATTLERS,,24,30,BVOD avg audience,102000,Nine,False,0.233
-AU,voz,2 BVOD,BVOD,2025-10-20,FOUR CORNERS,,30,30,BVOD avg audience,72000,ABC,False,0.033
-AU,voz,2 BVOD,BVOD,2025-10-20,GOGGLEBOX,,19,30,BVOD avg audience,119000,10,False,0.4
-AU,voz,2 BVOD,BVOD,2025-10-20,GRAND DESIGNS AUSTRALIA,,25,30,BVOD avg audience,97000,ABC,False,0.2
-AU,voz,2 BVOD,BVOD,2025-10-20,HOME AND AWAY,,6,30,BVOD avg audience,301000,Seven,False,0.833
-AU,voz,2 BVOD,BVOD,2025-10-20,HOME AND AWAY EP.2,,9,30,BVOD avg audience,273000,Seven,False,0.733
-AU,voz,2 BVOD,BVOD,2025-10-20,HOME AND AWAY EP.3,,8,30,BVOD avg audience,283000,Seven,False,0.767
-AU,voz,2 BVOD,BVOD,2025-10-20,KING & CONQUEROR,,26,30,BVOD avg audience,96000,SBS,False,0.167
-AU,voz,2 BVOD,BVOD,2025-10-20,MURDER IN A SMALL TOWN,,22,30,BVOD avg audience,106000,Seven,False,0.3
-AU,voz,2 BVOD,BVOD,2025-10-20,MY KITCHEN RULES –,,2,30,BVOD avg audience,390000,Seven,False,0.967
-AU,voz,2 BVOD,BVOD,2025-10-20,OFF THE GRID WITH COLIN AND MANU,,28,30,BVOD avg audience,90000,Seven,False,0.1
-AU,voz,2 BVOD,BVOD,2025-10-20,PACIFIC CHAMPIONSHIPS -TOA SAMOA V TONGA XIII,,27,30,BVOD avg audience,91000,Nine,False,0.133
-AU,voz,2 BVOD,BVOD,2025-10-20,PACIFIC CHAMPIONSHIPS -TOA SAMOA V TONGA XIII -DELAY,,20,30,BVOD avg audience,117000,Nine,False,0.367
-AU,voz,2 BVOD,BVOD,2025-10-20,RFDS,,7,30,BVOD avg audience,295000,Seven,False,0.8
-AU,voz,2 BVOD,BVOD,2025-10-20,SEVEN NEWS,,15,30,BVOD avg audience,144000,Seven,False,0.533
-AU,voz,2 BVOD,BVOD,2025-10-20,SEVEN NEWS –,,18,30,BVOD avg audience,121000,Seven,False,0.433
-AU,voz,2 BVOD,BVOD,2025-10-20,THE AMAZING RACE AUSTRALIA: CELEBRITY GRAND FINALE,,10,30,BVOD avg audience,221000,10,False,0.7
-AU,voz,2 BVOD,BVOD,2025-10-20,THE BLOCK -GRAND FINAL,,1,30,BVOD avg audience,565000,Nine,False,1.0
+AU,voz,2 BVOD,BVOD,2025-10-13,THE VOICE,,6,30,BVOD avg audience,231000,Seven,False,0.833
+AU,voz,2 BVOD,BVOD,2025-10-13,TIPPING POINT AUSTRALIA,,23,30,BVOD avg audience,100000,Nine,False,0.267
+AU,voz,2 BVOD,BVOD,2025-10-20,60 MINUTES,,14,30,BVOD avg audience,129000,Nine,False,0.567
+AU,voz,2 BVOD,BVOD,2025-10-20,9NEWS,,10,30,BVOD avg audience,178000,Nine,False,0.7
+AU,voz,2 BVOD,BVOD,2025-10-20,9NEWS SATURDAY,,17,30,BVOD avg audience,106000,Nine,False,0.467
+AU,voz,2 BVOD,BVOD,2025-10-20,9NEWS SUNDAY,,9,30,BVOD avg audience,194000,Nine,False,0.733
+AU,voz,2 BVOD,BVOD,2025-10-20,A CURRENT AFFAIR,,11,30,BVOD avg audience,155000,Nine,False,0.667
+AU,voz,2 BVOD,BVOD,2025-10-20,AUSTRALIAN STORY,,24,30,BVOD avg audience,84000,ABC,False,0.233
+AU,voz,2 BVOD,BVOD,2025-10-20,BLUE LIGHTS,,13,30,BVOD avg audience,130000,SBS,False,0.6
+AU,voz,2 BVOD,BVOD,2025-10-20,BUDGET BATTLERS,,20,30,BVOD avg audience,102000,Nine,False,0.367
+AU,voz,2 BVOD,BVOD,2025-10-20,BUMP,,29,30,BVOD avg audience,66000,Nine,False,0.067
+AU,voz,2 BVOD,BVOD,2025-10-20,FOUR CORNERS,,25,30,BVOD avg audience,72000,ABC,False,0.2
+AU,voz,2 BVOD,BVOD,2025-10-20,GOGGLEBOX,,15,30,BVOD avg audience,119000,10,False,0.533
+AU,voz,2 BVOD,BVOD,2025-10-20,GRAND DESIGNS AUSTRALIA,,21,30,BVOD avg audience,97000,ABC,False,0.333
+AU,voz,2 BVOD,BVOD,2025-10-20,HARD QUIZ,,30,30,BVOD avg audience,65000,ABC,False,0.033
+AU,voz,2 BVOD,BVOD,2025-10-20,HOME AND AWAY,,5,30,BVOD avg audience,301000,Seven,False,0.867
+AU,voz,2 BVOD,BVOD,2025-10-20,KING & CONQUEROR,,22,30,BVOD avg audience,96000,SBS,False,0.3
+AU,voz,2 BVOD,BVOD,2025-10-20,MURDER IN A SMALL TOWN,,18,30,BVOD avg audience,106000,Seven,False,0.433
+AU,voz,2 BVOD,BVOD,2025-10-20,MY KITCHEN RULES,,2,30,BVOD avg audience,390000,Seven,False,0.967
+AU,voz,2 BVOD,BVOD,2025-10-20,OFF THE GRID WITH COLIN AND MANU,,23,30,BVOD avg audience,90000,Seven,False,0.267
+AU,voz,2 BVOD,BVOD,2025-10-20,PACIFIC CHAMPIONSHIPS,,16,30,BVOD avg audience,117000,Nine,False,0.5
+AU,voz,2 BVOD,BVOD,2025-10-20,PLANET AMERICA-LE,,28,30,BVOD avg audience,70000,ABC,False,0.1
+AU,voz,2 BVOD,BVOD,2025-10-20,RBT,,26,30,BVOD avg audience,71000,Nine,False,0.167
+AU,voz,2 BVOD,BVOD,2025-10-20,RFDS,,6,30,BVOD avg audience,295000,Seven,False,0.833
+AU,voz,2 BVOD,BVOD,2025-10-20,SEVEN NEWS,,12,30,BVOD avg audience,144000,Seven,False,0.633
+AU,voz,2 BVOD,BVOD,2025-10-20,THE AMAZING RACE AUSTRALIA: CELEBRITY GRAND FINALE,,7,30,BVOD avg audience,221000,10,False,0.8
+AU,voz,2 BVOD,BVOD,2025-10-20,THE BLOCK,,1,30,BVOD avg audience,565000,Nine,False,1.0
+AU,voz,2 BVOD,BVOD,2025-10-20,THE CHASE AUSTRALIA,,27,30,BVOD avg audience,71000,Seven,False,0.133
 AU,voz,2 BVOD,BVOD,2025-10-20,THE GOLDEN BACHELOR,,3,30,BVOD avg audience,375000,Nine,False,0.933
-AU,voz,2 BVOD,BVOD,2025-10-20,THE GOLDEN BACHELOR -LAUNCH,,4,30,BVOD avg audience,339000,Nine,False,0.9
-AU,voz,2 BVOD,BVOD,2025-10-20,THE ROOKIE,,5,30,BVOD avg audience,308000,Seven,False,0.867
-AU,voz,2 BVOD,BVOD,2025-10-20,THE VOICE –,,11,30,BVOD avg audience,218000,Seven,False,0.667
-AU,voz,2 BVOD,BVOD,2025-10-20,TIPPING POINT AUSTRALIA,,23,30,BVOD avg audience,105000,Nine,False,0.267
-AU,voz,2 BVOD,BVOD,2025-10-27,60 MINUTES,,15,30,BVOD avg audience,137000,Nine,False,0.533
-AU,voz,2 BVOD,BVOD,2025-10-27,7.30,,23,30,BVOD avg audience,97000,ABC,False,0.267
-AU,voz,2 BVOD,BVOD,2025-10-27,9NEWS,,11,30,BVOD avg audience,179000,Nine,False,0.667
-AU,voz,2 BVOD,BVOD,2025-10-27,9NEWS SATURDAY,,18,30,BVOD avg audience,119000,Nine,False,0.433
-AU,voz,2 BVOD,BVOD,2025-10-27,9NEWS SUNDAY,,12,30,BVOD avg audience,157000,Nine,False,0.633
-AU,voz,2 BVOD,BVOD,2025-10-27,A CURRENT AFFAIR,,14,30,BVOD avg audience,147000,Nine,False,0.567
-AU,voz,2 BVOD,BVOD,2025-10-27,AUSTRALIAN STORY,,17,30,BVOD avg audience,120000,ABC,False,0.467
-AU,voz,2 BVOD,BVOD,2025-10-27,BLUE LIGHTS,,16,30,BVOD avg audience,132000,SBS,False,0.5
-AU,voz,2 BVOD,BVOD,2025-10-27,BUDGET BATTLERS,,27,30,BVOD avg audience,80000,Nine,False,0.133
-AU,voz,2 BVOD,BVOD,2025-10-27,FOUR CORNERS,,24,30,BVOD avg audience,97000,ABC,False,0.233
-AU,voz,2 BVOD,BVOD,2025-10-27,GOGGLEBOX,,20,30,BVOD avg audience,112000,10,False,0.367
+AU,voz,2 BVOD,BVOD,2025-10-20,THE ROOKIE,,4,30,BVOD avg audience,308000,Seven,False,0.9
+AU,voz,2 BVOD,BVOD,2025-10-20,THE VOICE,,8,30,BVOD avg audience,218000,Seven,False,0.767
+AU,voz,2 BVOD,BVOD,2025-10-20,TIPPING POINT AUSTRALIA,,19,30,BVOD avg audience,105000,Nine,False,0.4
+AU,voz,2 BVOD,BVOD,2025-10-27,60 MINUTES,,13,30,BVOD avg audience,137000,Nine,False,0.6
+AU,voz,2 BVOD,BVOD,2025-10-27,7.30,,20,30,BVOD avg audience,97000,ABC,False,0.367
+AU,voz,2 BVOD,BVOD,2025-10-27,9NEWS,,9,30,BVOD avg audience,179000,Nine,False,0.733
+AU,voz,2 BVOD,BVOD,2025-10-27,9NEWS SATURDAY,,16,30,BVOD avg audience,119000,Nine,False,0.5
+AU,voz,2 BVOD,BVOD,2025-10-27,9NEWS SUNDAY,,10,30,BVOD avg audience,157000,Nine,False,0.7
+AU,voz,2 BVOD,BVOD,2025-10-27,A CURRENT AFFAIR,,12,30,BVOD avg audience,147000,Nine,False,0.633
+AU,voz,2 BVOD,BVOD,2025-10-27,AUSTRALIAN STORY,,15,30,BVOD avg audience,120000,ABC,False,0.533
+AU,voz,2 BVOD,BVOD,2025-10-27,BLUE LIGHTS,,14,30,BVOD avg audience,132000,SBS,False,0.567
+AU,voz,2 BVOD,BVOD,2025-10-27,BUDGET BATTLERS,,24,30,BVOD avg audience,80000,Nine,False,0.233
+AU,voz,2 BVOD,BVOD,2025-10-27,FOUR CORNERS,,21,30,BVOD avg audience,97000,ABC,False,0.333
+AU,voz,2 BVOD,BVOD,2025-10-27,GARDENING AUSTRALIA,,29,30,BVOD avg audience,67000,ABC,False,0.067
+AU,voz,2 BVOD,BVOD,2025-10-27,GOGGLEBOX,,17,30,BVOD avg audience,112000,10,False,0.467
+AU,voz,2 BVOD,BVOD,2025-10-27,GRAND DESIGNS AUSTRALIA,,30,30,BVOD avg audience,67000,ABC,False,0.033
+AU,voz,2 BVOD,BVOD,2025-10-27,HARD QUIZ,,28,30,BVOD avg audience,68000,ABC,False,0.1
 AU,voz,2 BVOD,BVOD,2025-10-27,HOME AND AWAY,,3,30,BVOD avg audience,303000,Seven,False,0.933
-AU,voz,2 BVOD,BVOD,2025-10-27,HOME AND AWAY EP.2,,8,30,BVOD avg audience,274000,Seven,False,0.767
-AU,voz,2 BVOD,BVOD,2025-10-27,HOME AND AWAY EP.3,,7,30,BVOD avg audience,284000,Seven,False,0.8
 AU,voz,2 BVOD,BVOD,2025-10-27,LOVE ISLAND AUSTRALIA,,1,30,BVOD avg audience,492000,Nine,False,1.0
-AU,voz,2 BVOD,BVOD,2025-10-27,MURDER IN A SMALL TOWN,,21,30,BVOD avg audience,106000,Seven,False,0.333
-AU,voz,2 BVOD,BVOD,2025-10-27,MY KITCHEN RULES –,,2,30,BVOD avg audience,390000,Seven,False,0.967
-AU,voz,2 BVOD,BVOD,2025-10-27,OFF THE GRID WITH COLIN AND MANU,,25,30,BVOD avg audience,89000,Seven,False,0.2
-AU,voz,2 BVOD,BVOD,2025-10-27,PACIFIC CHAMPIONSHIPS – KIWIS V TONGA XIII,,26,30,BVOD avg audience,83000,Nine,False,0.167
-AU,voz,2 BVOD,BVOD,2025-10-27,PLANET AMERICA-LE,,29,30,BVOD avg audience,72000,ABC,False,0.067
-AU,voz,2 BVOD,BVOD,2025-10-27,PORTRAIT ARTIST OF THE YEAR,,10,30,BVOD avg audience,189000,ABC,False,0.7
-AU,voz,2 BVOD,BVOD,2025-10-27,RBT,,28,30,BVOD avg audience,76000,Nine,False,0.1
+AU,voz,2 BVOD,BVOD,2025-10-27,MURDER IN A SMALL TOWN,,18,30,BVOD avg audience,106000,Seven,False,0.433
+AU,voz,2 BVOD,BVOD,2025-10-27,MY KITCHEN RULES,,2,30,BVOD avg audience,390000,Seven,False,0.967
+AU,voz,2 BVOD,BVOD,2025-10-27,OFF THE GRID WITH COLIN AND MANU,,22,30,BVOD avg audience,89000,Seven,False,0.3
+AU,voz,2 BVOD,BVOD,2025-10-27,PACIFIC CHAMPIONSHIPS,,23,30,BVOD avg audience,83000,Nine,False,0.267
+AU,voz,2 BVOD,BVOD,2025-10-27,PLANET AMERICA-LE,,26,30,BVOD avg audience,72000,ABC,False,0.167
+AU,voz,2 BVOD,BVOD,2025-10-27,PORTRAIT ARTIST OF THE YEAR,,8,30,BVOD avg audience,189000,ABC,False,0.767
+AU,voz,2 BVOD,BVOD,2025-10-27,RBT,,25,30,BVOD avg audience,76000,Nine,False,0.2
 AU,voz,2 BVOD,BVOD,2025-10-27,RFDS,,5,30,BVOD avg audience,298000,Seven,False,0.867
-AU,voz,2 BVOD,BVOD,2025-10-27,SEVEN NEWS,,13,30,BVOD avg audience,149000,Seven,False,0.6
-AU,voz,2 BVOD,BVOD,2025-10-27,SEVEN NEWS –,,19,30,BVOD avg audience,115000,Seven,False,0.4
-AU,voz,2 BVOD,BVOD,2025-10-27,THE CHASE AUSTRALIA,,30,30,BVOD avg audience,72000,Seven,False,0.033
+AU,voz,2 BVOD,BVOD,2025-10-27,SEVEN NEWS,,11,30,BVOD avg audience,149000,Seven,False,0.667
+AU,voz,2 BVOD,BVOD,2025-10-27,THE CHASE AUSTRALIA,,27,30,BVOD avg audience,72000,Seven,False,0.133
 AU,voz,2 BVOD,BVOD,2025-10-27,THE GOLDEN BACHELOR,,6,30,BVOD avg audience,297000,Nine,False,0.833
 AU,voz,2 BVOD,BVOD,2025-10-27,THE ROOKIE,,4,30,BVOD avg audience,301000,Seven,False,0.9
-AU,voz,2 BVOD,BVOD,2025-10-27,THE VOICE – GRAND FINAL,,9,30,BVOD avg audience,206000,Seven,False,0.733
-AU,voz,2 BVOD,BVOD,2025-10-27,TIPPING POINT AUSTRALIA,,22,30,BVOD avg audience,104000,Nine,False,0.3
-AU,voz,2 BVOD,BVOD,2025-11-03,60 MINUTES,,26,30,BVOD avg audience,103000,Nine,False,0.167
-AU,voz,2 BVOD,BVOD,2025-11-03,9NEWS,,13,30,BVOD avg audience,175000,Nine,False,0.6
-AU,voz,2 BVOD,BVOD,2025-11-03,9NEWS SATURDAY,,24,30,BVOD avg audience,109000,Nine,False,0.233
-AU,voz,2 BVOD,BVOD,2025-11-03,9NEWS SUNDAY,,14,30,BVOD avg audience,171000,Nine,False,0.567
-AU,voz,2 BVOD,BVOD,2025-11-03,A CURRENT AFFAIR,,16,30,BVOD avg audience,150000,Nine,False,0.5
-AU,voz,2 BVOD,BVOD,2025-11-03,AUSTRALIAN STORY,,28,30,BVOD avg audience,97000,ABC,False,0.1
-AU,voz,2 BVOD,BVOD,2025-11-03,BIG BROTHER AUSTRALIA – LAUNCH,,10,30,BVOD avg audience,303000,10,False,0.7
-AU,voz,2 BVOD,BVOD,2025-11-03,BLUE LIGHTS,,18,30,BVOD avg audience,142000,SBS,False,0.433
-AU,voz,2 BVOD,BVOD,2025-11-03,BUDGET BATTLERS,,30,30,BVOD avg audience,81000,Nine,False,0.033
-AU,voz,2 BVOD,BVOD,2025-11-03,CRIME NIGHT!,,22,30,BVOD avg audience,118000,ABC,False,0.3
-AU,voz,2 BVOD,BVOD,2025-11-03,HOME AND AWAY,,8,30,BVOD avg audience,307000,Seven,False,0.767
+AU,voz,2 BVOD,BVOD,2025-10-27,THE VOICE,,7,30,BVOD avg audience,206000,Seven,False,0.8
+AU,voz,2 BVOD,BVOD,2025-10-27,TIPPING POINT AUSTRALIA,,19,30,BVOD avg audience,104000,Nine,False,0.4
+AU,voz,2 BVOD,BVOD,2025-11-03,60 MINUTES,,20,30,BVOD avg audience,103000,Nine,False,0.367
+AU,voz,2 BVOD,BVOD,2025-11-03,9NEWS,,10,30,BVOD avg audience,175000,Nine,False,0.7
+AU,voz,2 BVOD,BVOD,2025-11-03,9NEWS SATURDAY,,19,30,BVOD avg audience,109000,Nine,False,0.4
+AU,voz,2 BVOD,BVOD,2025-11-03,9NEWS SUNDAY,,11,30,BVOD avg audience,171000,Nine,False,0.667
+AU,voz,2 BVOD,BVOD,2025-11-03,A CURRENT AFFAIR,,12,30,BVOD avg audience,150000,Nine,False,0.633
+AU,voz,2 BVOD,BVOD,2025-11-03,AUSTRALIAN CRIME STORIES: THE INVESTIGATORS,,29,30,BVOD avg audience,68000,Nine,False,0.067
+AU,voz,2 BVOD,BVOD,2025-11-03,AUSTRALIAN STORY,,22,30,BVOD avg audience,97000,ABC,False,0.3
+AU,voz,2 BVOD,BVOD,2025-11-03,BIG BROTHER AUSTRALIA,,8,30,BVOD avg audience,303000,10,False,0.767
+AU,voz,2 BVOD,BVOD,2025-11-03,BLUE LIGHTS,,14,30,BVOD avg audience,142000,SBS,False,0.567
+AU,voz,2 BVOD,BVOD,2025-11-03,BUDGET BATTLERS,,24,30,BVOD avg audience,81000,Nine,False,0.233
+AU,voz,2 BVOD,BVOD,2025-11-03,CRIME NIGHT!,,17,30,BVOD avg audience,118000,ABC,False,0.467
+AU,voz,2 BVOD,BVOD,2025-11-03,FOUR CORNERS,,27,30,BVOD avg audience,72000,ABC,False,0.133
+AU,voz,2 BVOD,BVOD,2025-11-03,HOME AND AWAY,,6,30,BVOD avg audience,307000,Seven,False,0.833
 AU,voz,2 BVOD,BVOD,2025-11-03,LOVE ISLAND AUSTRALIA,,1,30,BVOD avg audience,506000,Nine,False,1.0
-AU,voz,2 BVOD,BVOD,2025-11-03,MAIGRET,,11,30,BVOD avg audience,223000,ABC,False,0.667
-AU,voz,2 BVOD,BVOD,2025-11-03,MELBOURNE CUP CARNIVAL -MELBOURNE CUP,,25,30,BVOD avg audience,106000,Nine,False,0.2
-AU,voz,2 BVOD,BVOD,2025-11-03,MELBOURNE CUP CARNIVAL -MELBOURNE CUP -LATE,,15,30,BVOD avg audience,163000,Nine,False,0.533
-AU,voz,2 BVOD,BVOD,2025-11-03,MELBOURNE CUP CARNIVAL -MELBOURNE CUP -MOUNTING YARD,,6,30,BVOD avg audience,315000,Nine,False,0.833
-AU,voz,2 BVOD,BVOD,2025-11-03,MELBOURNE CUP CARNIVAL -MELBOURNE CUP -PRESENTATION,,4,30,BVOD avg audience,326000,Nine,False,0.9
-AU,voz,2 BVOD,BVOD,2025-11-03,MELBOURNE CUP CARNIVAL -MELBOURNE CUP -PREVIEW,,12,30,BVOD avg audience,191000,Nine,False,0.633
-AU,voz,2 BVOD,BVOD,2025-11-03,MELBOURNE CUP CARNIVAL -MELBOURNE CUP -RACE,,2,30,BVOD avg audience,464000,Nine,False,0.967
-AU,voz,2 BVOD,BVOD,2025-11-03,MY KITCHEN RULES –,,3,30,BVOD avg audience,389000,Seven,False,0.933
-AU,voz,2 BVOD,BVOD,2025-11-03,OFF THE GRID WITH COLIN AND MANU,,29,30,BVOD avg audience,91000,Seven,False,0.067
-AU,voz,2 BVOD,BVOD,2025-11-03,PACIFIC CHAMPIONSHIPS -MEN’S CUP -FINAL,,19,30,BVOD avg audience,142000,Nine,False,0.4
-AU,voz,2 BVOD,BVOD,2025-11-03,PORTRAIT ARTIST OF THE YEAR,,27,30,BVOD avg audience,103000,ABC,False,0.133
-AU,voz,2 BVOD,BVOD,2025-11-03,RFDS,,9,30,BVOD avg audience,304000,Seven,False,0.733
-AU,voz,2 BVOD,BVOD,2025-11-03,SEVEN NEWS,,17,30,BVOD avg audience,149000,Seven,False,0.467
-AU,voz,2 BVOD,BVOD,2025-11-03,SEVEN NEWS –,,21,30,BVOD avg audience,119000,Seven,False,0.333
-AU,voz,2 BVOD,BVOD,2025-11-03,THE FORSYTES,,23,30,BVOD avg audience,113000,ABC,False,0.267
-AU,voz,2 BVOD,BVOD,2025-11-03,THE GOLDEN BACHELOR,,5,30,BVOD avg audience,318000,Nine,False,0.867
-AU,voz,2 BVOD,BVOD,2025-11-03,THE ROOKIE,,7,30,BVOD avg audience,314000,Seven,False,0.8
-AU,voz,2 BVOD,BVOD,2025-11-03,TIPPING POINT AUSTRALIA,,20,30,BVOD avg audience,124000,Nine,False,0.367
-AU,voz,2 BVOD,BVOD,2025-11-10,60 MINUTES,,19,30,BVOD avg audience,102000,Nine,False,0.4
-AU,voz,2 BVOD,BVOD,2025-11-10,9NEWS,,11,30,BVOD avg audience,172000,Nine,False,0.667
-AU,voz,2 BVOD,BVOD,2025-11-10,9NEWS SATURDAY,,18,30,BVOD avg audience,103000,Nine,False,0.433
-AU,voz,2 BVOD,BVOD,2025-11-10,9NEWS SUNDAY,,13,30,BVOD avg audience,142000,Nine,False,0.6
-AU,voz,2 BVOD,BVOD,2025-11-10,A CURRENT AFFAIR,,12,30,BVOD avg audience,144000,Nine,False,0.633
-AU,voz,2 BVOD,BVOD,2025-11-10,ANNABEL CRABB’S CIVIC DUTY,,17,30,BVOD avg audience,106000,ABC,False,0.467
-AU,voz,2 BVOD,BVOD,2025-11-10,BIG BROTHER AUSTRALIA,,4,30,BVOD avg audience,316000,10,False,0.9
-AU,voz,2 BVOD,BVOD,2025-11-10,BUDGET BATTLERS,,26,30,BVOD avg audience,69000,Nine,False,0.167
-AU,voz,2 BVOD,BVOD,2025-11-10,HOME AND AWAY,,7,30,BVOD avg audience,291000,Seven,False,0.8
-AU,voz,2 BVOD,BVOD,2025-11-10,INSIDERS,,28,30,BVOD avg audience,66000,ABC,False,0.1
+AU,voz,2 BVOD,BVOD,2025-11-03,MAIGRET,,9,30,BVOD avg audience,223000,ABC,False,0.733
+AU,voz,2 BVOD,BVOD,2025-11-03,MELBOURNE CUP CARNIVAL,,2,30,BVOD avg audience,464000,Nine,False,0.967
+AU,voz,2 BVOD,BVOD,2025-11-03,MY KITCHEN RULES,,3,30,BVOD avg audience,389000,Seven,False,0.933
+AU,voz,2 BVOD,BVOD,2025-11-03,OFF THE GRID WITH COLIN AND MANU,,23,30,BVOD avg audience,91000,Seven,False,0.267
+AU,voz,2 BVOD,BVOD,2025-11-03,PACIFIC CHAMPIONSHIPS,,15,30,BVOD avg audience,142000,Nine,False,0.533
+AU,voz,2 BVOD,BVOD,2025-11-03,PLANET AMERICA-LE,,28,30,BVOD avg audience,69000,ABC,False,0.1
+AU,voz,2 BVOD,BVOD,2025-11-03,PORTRAIT ARTIST OF THE YEAR,,21,30,BVOD avg audience,103000,ABC,False,0.333
+AU,voz,2 BVOD,BVOD,2025-11-03,RFDS,,7,30,BVOD avg audience,304000,Seven,False,0.8
+AU,voz,2 BVOD,BVOD,2025-11-03,SEVEN NEWS,,13,30,BVOD avg audience,149000,Seven,False,0.6
+AU,voz,2 BVOD,BVOD,2025-11-03,TARONGA: WHO’S WHO IN THE ZOO,,25,30,BVOD avg audience,74000,Nine,False,0.2
+AU,voz,2 BVOD,BVOD,2025-11-03,THE CHASE AUSTRALIA,,26,30,BVOD avg audience,73000,Seven,False,0.167
+AU,voz,2 BVOD,BVOD,2025-11-03,THE FORSYTES,,18,30,BVOD avg audience,113000,ABC,False,0.433
+AU,voz,2 BVOD,BVOD,2025-11-03,THE GIRL WHO CAUGHT A KILLER,,30,30,BVOD avg audience,67000,Seven,False,0.033
+AU,voz,2 BVOD,BVOD,2025-11-03,THE GOLDEN BACHELOR,,4,30,BVOD avg audience,318000,Nine,False,0.9
+AU,voz,2 BVOD,BVOD,2025-11-03,THE ROOKIE,,5,30,BVOD avg audience,314000,Seven,False,0.867
+AU,voz,2 BVOD,BVOD,2025-11-03,TIPPING POINT AUSTRALIA,,16,30,BVOD avg audience,124000,Nine,False,0.5
+AU,voz,2 BVOD,BVOD,2025-11-10,60 MINUTES,,16,30,BVOD avg audience,102000,Nine,False,0.5
+AU,voz,2 BVOD,BVOD,2025-11-10,9NEWS,,9,30,BVOD avg audience,172000,Nine,False,0.733
+AU,voz,2 BVOD,BVOD,2025-11-10,9NEWS SATURDAY,,15,30,BVOD avg audience,103000,Nine,False,0.533
+AU,voz,2 BVOD,BVOD,2025-11-10,9NEWS SUNDAY,,11,30,BVOD avg audience,142000,Nine,False,0.667
+AU,voz,2 BVOD,BVOD,2025-11-10,A CURRENT AFFAIR,,10,30,BVOD avg audience,144000,Nine,False,0.7
+AU,voz,2 BVOD,BVOD,2025-11-10,ABC NEWS,,30,30,BVOD avg audience,60000,ABC,False,0.033
+AU,voz,2 BVOD,BVOD,2025-11-10,ANNABEL CRABB’S CIVIC DUTY,,14,30,BVOD avg audience,106000,ABC,False,0.567
+AU,voz,2 BVOD,BVOD,2025-11-10,BIG BROTHER AUSTRALIA,,3,30,BVOD avg audience,316000,10,False,0.933
+AU,voz,2 BVOD,BVOD,2025-11-10,BUDGET BATTLERS,,23,30,BVOD avg audience,69000,Nine,False,0.267
+AU,voz,2 BVOD,BVOD,2025-11-10,GARDENING AUSTRALIA,,28,30,BVOD avg audience,62000,ABC,False,0.1
+AU,voz,2 BVOD,BVOD,2025-11-10,HARD QUIZ,,29,30,BVOD avg audience,62000,ABC,False,0.067
+AU,voz,2 BVOD,BVOD,2025-11-10,HOME AND AWAY,,6,30,BVOD avg audience,291000,Seven,False,0.833
+AU,voz,2 BVOD,BVOD,2025-11-10,INSIDERS,,25,30,BVOD avg audience,66000,ABC,False,0.2
 AU,voz,2 BVOD,BVOD,2025-11-10,LOVE ISLAND AUSTRALIA,,1,30,BVOD avg audience,526000,Nine,False,1.0
-AU,voz,2 BVOD,BVOD,2025-11-10,MAIGRET,,16,30,BVOD avg audience,111000,ABC,False,0.5
-AU,voz,2 BVOD,BVOD,2025-11-10,MURDER IN A SMALL TOWN,,21,30,BVOD avg audience,92000,Seven,False,0.333
-AU,voz,2 BVOD,BVOD,2025-11-10,MY KITCHEN RULES –,,2,30,BVOD avg audience,373000,Seven,False,0.967
-AU,voz,2 BVOD,BVOD,2025-11-10,MY KITCHEN RULES – GRAND FINAL,,3,30,BVOD avg audience,357000,Seven,False,0.933
-AU,voz,2 BVOD,BVOD,2025-11-10,PLANET AMERICA-LE,,30,30,BVOD avg audience,63000,ABC,False,0.033
-AU,voz,2 BVOD,BVOD,2025-11-10,PORTRAIT ARTIST OF THE YEAR,,22,30,BVOD avg audience,84000,ABC,False,0.3
-AU,voz,2 BVOD,BVOD,2025-11-10,RBT,,29,30,BVOD avg audience,65000,Nine,False,0.067
-AU,voz,2 BVOD,BVOD,2025-11-10,RETURN TO PARADISE,,10,30,BVOD avg audience,208000,ABC,False,0.7
-AU,voz,2 BVOD,BVOD,2025-11-10,RFDS,,6,30,BVOD avg audience,304000,Seven,False,0.833
-AU,voz,2 BVOD,BVOD,2025-11-10,SEVEN NEWS,,14,30,BVOD avg audience,142000,Seven,False,0.567
-AU,voz,2 BVOD,BVOD,2025-11-10,SEVEN NEWS –,,15,30,BVOD avg audience,119000,Seven,False,0.533
-AU,voz,2 BVOD,BVOD,2025-11-10,TARONGA: WHO’S WHO IN THE ZOO,,23,30,BVOD avg audience,78000,Nine,False,0.267
-AU,voz,2 BVOD,BVOD,2025-11-10,THE 1% CLUB,,25,30,BVOD avg audience,75000,Seven,False,0.2
-AU,voz,2 BVOD,BVOD,2025-11-10,THE CHASE AUSTRALIA,,27,30,BVOD avg audience,69000,Seven,False,0.133
-AU,voz,2 BVOD,BVOD,2025-11-10,THE FORSYTES,,24,30,BVOD avg audience,76000,ABC,False,0.233
-AU,voz,2 BVOD,BVOD,2025-11-10,THE GOLDEN BACHELOR,,5,30,BVOD avg audience,306000,Nine,False,0.867
-AU,voz,2 BVOD,BVOD,2025-11-10,THE GOLDEN BACHELOR -FINALE,,9,30,BVOD avg audience,286000,Nine,False,0.733
-AU,voz,2 BVOD,BVOD,2025-11-10,THE ROOKIE,,8,30,BVOD avg audience,290000,Seven,False,0.767
-AU,voz,2 BVOD,BVOD,2025-11-10,TIPPING POINT AUSTRALIA,,20,30,BVOD avg audience,100000,Nine,False,0.367
-AU,voz,2 BVOD,BVOD,2025-11-17,60 MINUTES,,15,30,BVOD avg audience,127000,Nine,False,0.533
-AU,voz,2 BVOD,BVOD,2025-11-17,9NEWS,,7,30,BVOD avg audience,168000,Nine,False,0.8
-AU,voz,2 BVOD,BVOD,2025-11-17,9NEWS SATURDAY,,23,30,BVOD avg audience,92000,Nine,False,0.267
-AU,voz,2 BVOD,BVOD,2025-11-17,9NEWS SUNDAY,,10,30,BVOD avg audience,140000,Nine,False,0.7
-AU,voz,2 BVOD,BVOD,2025-11-17,A CURRENT AFFAIR,,14,30,BVOD avg audience,129000,Nine,False,0.567
+AU,voz,2 BVOD,BVOD,2025-11-10,MAIGRET,,13,30,BVOD avg audience,111000,ABC,False,0.6
+AU,voz,2 BVOD,BVOD,2025-11-10,MURDER IN A SMALL TOWN,,18,30,BVOD avg audience,92000,Seven,False,0.433
+AU,voz,2 BVOD,BVOD,2025-11-10,MY KITCHEN RULES,,2,30,BVOD avg audience,373000,Seven,False,0.967
+AU,voz,2 BVOD,BVOD,2025-11-10,PLANET AMERICA-LE,,27,30,BVOD avg audience,63000,ABC,False,0.133
+AU,voz,2 BVOD,BVOD,2025-11-10,PORTRAIT ARTIST OF THE YEAR,,19,30,BVOD avg audience,84000,ABC,False,0.4
+AU,voz,2 BVOD,BVOD,2025-11-10,RBT,,26,30,BVOD avg audience,65000,Nine,False,0.167
+AU,voz,2 BVOD,BVOD,2025-11-10,RETURN TO PARADISE,,8,30,BVOD avg audience,208000,ABC,False,0.767
+AU,voz,2 BVOD,BVOD,2025-11-10,RFDS,,5,30,BVOD avg audience,304000,Seven,False,0.867
+AU,voz,2 BVOD,BVOD,2025-11-10,SEVEN NEWS,,12,30,BVOD avg audience,142000,Seven,False,0.633
+AU,voz,2 BVOD,BVOD,2025-11-10,TARONGA: WHO’S WHO IN THE ZOO,,20,30,BVOD avg audience,78000,Nine,False,0.367
+AU,voz,2 BVOD,BVOD,2025-11-10,THE 1% CLUB,,22,30,BVOD avg audience,75000,Seven,False,0.3
+AU,voz,2 BVOD,BVOD,2025-11-10,THE CHASE AUSTRALIA,,24,30,BVOD avg audience,69000,Seven,False,0.233
+AU,voz,2 BVOD,BVOD,2025-11-10,THE FORSYTES,,21,30,BVOD avg audience,76000,ABC,False,0.333
+AU,voz,2 BVOD,BVOD,2025-11-10,THE GOLDEN BACHELOR,,4,30,BVOD avg audience,306000,Nine,False,0.9
+AU,voz,2 BVOD,BVOD,2025-11-10,THE ROOKIE,,7,30,BVOD avg audience,290000,Seven,False,0.8
+AU,voz,2 BVOD,BVOD,2025-11-10,TIPPING POINT AUSTRALIA,,17,30,BVOD avg audience,100000,Nine,False,0.467
+AU,voz,2 BVOD,BVOD,2025-11-17,60 MINUTES,,10,30,BVOD avg audience,127000,Nine,False,0.7
+AU,voz,2 BVOD,BVOD,2025-11-17,9NEWS,,6,30,BVOD avg audience,168000,Nine,False,0.833
+AU,voz,2 BVOD,BVOD,2025-11-17,9NEWS SATURDAY,,16,30,BVOD avg audience,92000,Nine,False,0.5
+AU,voz,2 BVOD,BVOD,2025-11-17,9NEWS SUNDAY,,8,30,BVOD avg audience,140000,Nine,False,0.767
+AU,voz,2 BVOD,BVOD,2025-11-17,A CURRENT AFFAIR,,9,30,BVOD avg audience,129000,Nine,False,0.733
 AU,voz,2 BVOD,BVOD,2025-11-17,BIG BROTHER AUSTRALIA,,3,30,BVOD avg audience,297000,10,False,0.933
-AU,voz,2 BVOD,BVOD,2025-11-17,BUDGET BATTLERS,,28,30,BVOD avg audience,79000,Nine,False,0.1
+AU,voz,2 BVOD,BVOD,2025-11-17,BORDER PATROL,,30,30,BVOD avg audience,63000,Seven,False,0.033
+AU,voz,2 BVOD,BVOD,2025-11-17,BUDGET BATTLERS,,20,30,BVOD avg audience,79000,Nine,False,0.367
 AU,voz,2 BVOD,BVOD,2025-11-17,HOME AND AWAY,,2,30,BVOD avg audience,355000,Seven,False,0.967
-AU,voz,2 BVOD,BVOD,2025-11-17,INSIDERS,,29,30,BVOD avg audience,77000,ABC,False,0.067
-AU,voz,2 BVOD,BVOD,2025-11-17,LIVE AID: WHEN ROCK ‘N’ ROLL TOOK ON THE WORLD,,18,30,BVOD avg audience,103000,Nine,False,0.433
+AU,voz,2 BVOD,BVOD,2025-11-17,INSIDERS,,21,30,BVOD avg audience,77000,ABC,False,0.333
+AU,voz,2 BVOD,BVOD,2025-11-17,LIVE AID: WHEN ROCK ‘N’ ROLL TOOK ON THE WORLD,,12,30,BVOD avg audience,103000,Nine,False,0.633
 AU,voz,2 BVOD,BVOD,2025-11-17,LOVE ISLAND AUSTRALIA,,1,30,BVOD avg audience,630000,Nine,False,1.0
-AU,voz,2 BVOD,BVOD,2025-11-17,MAIGRET,,26,30,BVOD avg audience,82000,ABC,False,0.167
-AU,voz,2 BVOD,BVOD,2025-11-17,RBT,,27,30,BVOD avg audience,82000,Nine,False,0.133
-AU,voz,2 BVOD,BVOD,2025-11-17,RETURN TO PARADISE,,17,30,BVOD avg audience,123000,ABC,False,0.467
-AU,voz,2 BVOD,BVOD,2025-11-17,SEVEN NEWS,,11,30,BVOD avg audience,139000,Seven,False,0.667
-AU,voz,2 BVOD,BVOD,2025-11-17,SEVEN NEWS –,,9,30,BVOD avg audience,145000,Seven,False,0.733
-AU,voz,2 BVOD,BVOD,2025-11-17,SEVEN’S CRICKET: FIRST TEST – THE ASHES D1,,6,30,BVOD avg audience,181000,Seven,False,0.833
-AU,voz,2 BVOD,BVOD,2025-11-17,SEVEN’S CRICKET: FIRST TEST – THE ASHES D1 LUNCH,,12,30,BVOD avg audience,139000,Seven,False,0.633
-AU,voz,2 BVOD,BVOD,2025-11-17,SEVEN’S CRICKET: FIRST TEST – THE ASHES D1 S3 MULTI,,24,30,BVOD avg audience,89000,Seven,False,0.233
-AU,voz,2 BVOD,BVOD,2025-11-17,SEVEN’S CRICKET: FIRST TEST – THE ASHES D1 TEA,,19,30,BVOD avg audience,102000,Seven,False,0.4
-AU,voz,2 BVOD,BVOD,2025-11-17,SEVEN’S CRICKET: FIRST TEST – THE ASHES D2,,5,30,BVOD avg audience,229000,Seven,False,0.867
-AU,voz,2 BVOD,BVOD,2025-11-17,SEVEN’S CRICKET: FIRST TEST – THE ASHES D2 LUNCH,,8,30,BVOD avg audience,148000,Seven,False,0.767
-AU,voz,2 BVOD,BVOD,2025-11-17,SEVEN’S CRICKET: FIRST TEST – THE ASHES D2 S3 MULTI,,13,30,BVOD avg audience,138000,Seven,False,0.6
-AU,voz,2 BVOD,BVOD,2025-11-17,SEVEN’S CRICKET: FIRST TEST – THE ASHES D2 TEA,,16,30,BVOD avg audience,126000,Seven,False,0.5
-AU,voz,2 BVOD,BVOD,2025-11-17,TARONGA: WHO’S WHO IN THE ZOO,,30,30,BVOD avg audience,75000,Nine,False,0.033
+AU,voz,2 BVOD,BVOD,2025-11-17,MAIGRET,,18,30,BVOD avg audience,82000,ABC,False,0.433
+AU,voz,2 BVOD,BVOD,2025-11-17,PLANET AMERICA-LE,,27,30,BVOD avg audience,67000,ABC,False,0.133
+AU,voz,2 BVOD,BVOD,2025-11-17,PORTRAIT ARTIST OF THE YEAR,,24,30,BVOD avg audience,69000,ABC,False,0.233
+AU,voz,2 BVOD,BVOD,2025-11-17,RBT,,19,30,BVOD avg audience,82000,Nine,False,0.4
+AU,voz,2 BVOD,BVOD,2025-11-17,RETURN TO PARADISE,,11,30,BVOD avg audience,123000,ABC,False,0.667
+AU,voz,2 BVOD,BVOD,2025-11-17,SEVEN NEWS,,7,30,BVOD avg audience,145000,Seven,False,0.8
+AU,voz,2 BVOD,BVOD,2025-11-17,SEVEN’S CRICKET: FIRST TEST,,5,30,BVOD avg audience,229000,Seven,False,0.867
+AU,voz,2 BVOD,BVOD,2025-11-17,TARONGA: WHO’S WHO IN THE ZOO,,22,30,BVOD avg audience,75000,Nine,False,0.3
+AU,voz,2 BVOD,BVOD,2025-11-17,THE 1% CLUB,,23,30,BVOD avg audience,70000,Seven,False,0.267
+AU,voz,2 BVOD,BVOD,2025-11-17,THE CHASE AUSTRALIA,,25,30,BVOD avg audience,69000,Seven,False,0.2
+AU,voz,2 BVOD,BVOD,2025-11-17,THE FORSYTES,,29,30,BVOD avg audience,66000,ABC,False,0.067
+AU,voz,2 BVOD,BVOD,2025-11-17,THE FRONT BAR,,28,30,BVOD avg audience,67000,Seven,False,0.1
 AU,voz,2 BVOD,BVOD,2025-11-17,THE ROOKIE,,4,30,BVOD avg audience,281000,Seven,False,0.9
-AU,voz,2 BVOD,BVOD,2025-11-17,TIPPING POINT AUSTRALIA,,20,30,BVOD avg audience,99000,Nine,False,0.367
-AU,voz,2 BVOD,BVOD,2025-11-17,TRAVEL GUIDES -ENCORE,,21,30,BVOD avg audience,97000,Nine,False,0.333
-AU,voz,2 BVOD,BVOD,2025-11-17,WICKED: ONE WONDERFUL NIGHT,,25,30,BVOD avg audience,85000,Seven,False,0.2
-AU,voz,2 BVOD,BVOD,2025-11-17,WORKING CLASS MAN,,22,30,BVOD avg audience,96000,Seven,False,0.3
+AU,voz,2 BVOD,BVOD,2025-11-17,TIPPING POINT AUSTRALIA,,13,30,BVOD avg audience,99000,Nine,False,0.6
+AU,voz,2 BVOD,BVOD,2025-11-17,TRAVEL GUIDES,,14,30,BVOD avg audience,97000,Nine,False,0.567
+AU,voz,2 BVOD,BVOD,2025-11-17,WHEN THE WAR IS OVER,,26,30,BVOD avg audience,69000,ABC,False,0.167
+AU,voz,2 BVOD,BVOD,2025-11-17,WICKED: ONE WONDERFUL NIGHT,,17,30,BVOD avg audience,85000,Seven,False,0.467
+AU,voz,2 BVOD,BVOD,2025-11-17,WORKING CLASS MAN,,15,30,BVOD avg audience,96000,Seven,False,0.533
 AU,voz,2 BVOD,BVOD,2025-11-24,60 MINUTES,,7,30,BVOD avg audience,127000,Nine,False,0.8
 AU,voz,2 BVOD,BVOD,2025-11-24,9NEWS,,4,30,BVOD avg audience,175000,Nine,False,0.9
-AU,voz,2 BVOD,BVOD,2025-11-24,9NEWS SATURDAY,,11,30,BVOD avg audience,99000,Nine,False,0.667
+AU,voz,2 BVOD,BVOD,2025-11-24,9NEWS SATURDAY,,10,30,BVOD avg audience,99000,Nine,False,0.7
 AU,voz,2 BVOD,BVOD,2025-11-24,9NEWS SUNDAY,,5,30,BVOD avg audience,134000,Nine,False,0.867
 AU,voz,2 BVOD,BVOD,2025-11-24,A CURRENT AFFAIR,,6,30,BVOD avg audience,131000,Nine,False,0.833
-AU,voz,2 BVOD,BVOD,2025-11-24,ABC NEWS,,27,30,BVOD avg audience,60000,ABC,False,0.133
+AU,voz,2 BVOD,BVOD,2025-11-24,ABC NEWS,,26,30,BVOD avg audience,60000,ABC,False,0.167
 AU,voz,2 BVOD,BVOD,2025-11-24,BIG BROTHER AUSTRALIA,,2,30,BVOD avg audience,289000,10,False,0.967
-AU,voz,2 BVOD,BVOD,2025-11-24,BORDER PATROL,,21,30,BVOD avg audience,68000,Seven,False,0.333
-AU,voz,2 BVOD,BVOD,2025-11-24,BUDGET BATTLERS,,16,30,BVOD avg audience,79000,Nine,False,0.5
-AU,voz,2 BVOD,BVOD,2025-11-24,FIND MY BEACH HOUSE AUSTRALIA,,22,30,BVOD avg audience,68000,Nine,False,0.3
-AU,voz,2 BVOD,BVOD,2025-11-24,GARDENING AUSTRALIA,,28,30,BVOD avg audience,60000,ABC,False,0.1
-AU,voz,2 BVOD,BVOD,2025-11-24,HARD QUIZ,,25,30,BVOD avg audience,62000,ABC,False,0.2
-AU,voz,2 BVOD,BVOD,2025-11-24,INSIDERS,,24,30,BVOD avg audience,63000,ABC,False,0.233
-AU,voz,2 BVOD,BVOD,2025-11-24,JAMIE DURIE’S FUTURE HOUSE,,14,30,BVOD avg audience,81000,Nine,False,0.567
-AU,voz,2 BVOD,BVOD,2025-11-24,LIVE AID: WHEN ROCK ‘N’ ROLL TOOK ON THE WORLD,,17,30,BVOD avg audience,79000,Nine,False,0.467
+AU,voz,2 BVOD,BVOD,2025-11-24,BORDER PATROL,,20,30,BVOD avg audience,68000,Seven,False,0.367
+AU,voz,2 BVOD,BVOD,2025-11-24,BUDGET BATTLERS,,15,30,BVOD avg audience,79000,Nine,False,0.533
+AU,voz,2 BVOD,BVOD,2025-11-24,FIND MY BEACH HOUSE AUSTRALIA,,21,30,BVOD avg audience,68000,Nine,False,0.333
+AU,voz,2 BVOD,BVOD,2025-11-24,GARDENING AUSTRALIA,,27,30,BVOD avg audience,60000,ABC,False,0.133
+AU,voz,2 BVOD,BVOD,2025-11-24,HARD QUIZ,,24,30,BVOD avg audience,62000,ABC,False,0.233
+AU,voz,2 BVOD,BVOD,2025-11-24,INSIDERS,,23,30,BVOD avg audience,63000,ABC,False,0.267
+AU,voz,2 BVOD,BVOD,2025-11-24,JAMIE DURIE’S FUTURE HOUSE,,13,30,BVOD avg audience,81000,Nine,False,0.6
+AU,voz,2 BVOD,BVOD,2025-11-24,LIVE AID: WHEN ROCK ‘N’ ROLL TOOK ON THE WORLD,,16,30,BVOD avg audience,79000,Nine,False,0.5
 AU,voz,2 BVOD,BVOD,2025-11-24,LOVE ISLAND AUSTRALIA,,1,30,BVOD avg audience,604000,Nine,False,1.0
-AU,voz,2 BVOD,BVOD,2025-11-24,MURDER IN A SMALL TOWN,,26,30,BVOD avg audience,62000,Seven,False,0.167
-AU,voz,2 BVOD,BVOD,2025-11-24,PLANET AMERICA-LE,,23,30,BVOD avg audience,67000,ABC,False,0.267
-AU,voz,2 BVOD,BVOD,2025-11-24,RBT,,18,30,BVOD avg audience,75000,Nine,False,0.433
-AU,voz,2 BVOD,BVOD,2025-11-24,RETURN TO PARADISE,,13,30,BVOD avg audience,83000,ABC,False,0.6
-AU,voz,2 BVOD,BVOD,2025-11-24,SAM PANG TONIGHT,,29,30,BVOD avg audience,60000,10,False,0.067
+AU,voz,2 BVOD,BVOD,2025-11-24,MAIGRET,,30,30,BVOD avg audience,59000,ABC,False,0.033
+AU,voz,2 BVOD,BVOD,2025-11-24,MURDER IN A SMALL TOWN,,25,30,BVOD avg audience,62000,Seven,False,0.2
+AU,voz,2 BVOD,BVOD,2025-11-24,PLANET AMERICA-LE,,22,30,BVOD avg audience,67000,ABC,False,0.3
+AU,voz,2 BVOD,BVOD,2025-11-24,RBT,,17,30,BVOD avg audience,75000,Nine,False,0.467
+AU,voz,2 BVOD,BVOD,2025-11-24,RETURN TO PARADISE,,12,30,BVOD avg audience,83000,ABC,False,0.633
+AU,voz,2 BVOD,BVOD,2025-11-24,SAM PANG TONIGHT,,28,30,BVOD avg audience,60000,10,False,0.1
 AU,voz,2 BVOD,BVOD,2025-11-24,SEVEN NEWS,,8,30,BVOD avg audience,123000,Seven,False,0.767
-AU,voz,2 BVOD,BVOD,2025-11-24,SEVEN NEWS –,,9,30,BVOD avg audience,108000,Seven,False,0.733
-AU,voz,2 BVOD,BVOD,2025-11-24,TARONGA: WHO’S WHO IN THE ZOO,,15,30,BVOD avg audience,80000,Nine,False,0.533
-AU,voz,2 BVOD,BVOD,2025-11-24,THE CHASE AUSTRALIA,,30,30,BVOD avg audience,60000,Seven,False,0.033
-AU,voz,2 BVOD,BVOD,2025-11-24,THE FRONT BAR,,19,30,BVOD avg audience,75000,Seven,False,0.4
+AU,voz,2 BVOD,BVOD,2025-11-24,TARONGA: WHO’S WHO IN THE ZOO,,14,30,BVOD avg audience,80000,Nine,False,0.567
+AU,voz,2 BVOD,BVOD,2025-11-24,THE CHASE AUSTRALIA,,29,30,BVOD avg audience,60000,Seven,False,0.067
+AU,voz,2 BVOD,BVOD,2025-11-24,THE FRONT BAR,,18,30,BVOD avg audience,75000,Seven,False,0.433
 AU,voz,2 BVOD,BVOD,2025-11-24,THE ROOKIE,,3,30,BVOD avg audience,256000,Seven,False,0.933
-AU,voz,2 BVOD,BVOD,2025-11-24,TIPPING POINT AUSTRALIA,,10,30,BVOD avg audience,102000,Nine,False,0.7
-AU,voz,2 BVOD,BVOD,2025-11-24,TRAVEL GUIDES -ENCORE,,12,30,BVOD avg audience,88000,Nine,False,0.633
-AU,voz,2 BVOD,BVOD,2025-11-24,WHEN THE WAR IS OVER,,20,30,BVOD avg audience,69000,ABC,False,0.367
+AU,voz,2 BVOD,BVOD,2025-11-24,TIPPING POINT AUSTRALIA,,9,30,BVOD avg audience,102000,Nine,False,0.733
+AU,voz,2 BVOD,BVOD,2025-11-24,TRAVEL GUIDES,,11,30,BVOD avg audience,88000,Nine,False,0.667
+AU,voz,2 BVOD,BVOD,2025-11-24,WHEN THE WAR IS OVER,,19,30,BVOD avg audience,69000,ABC,False,0.4
+AU,voz,2 BVOD,BVOD,2025-12-01,2025: THE YEAR THAT WAS,,13,30,BVOD avg audience,87000,Nine,False,0.6
+AU,voz,2 BVOD,BVOD,2025-12-01,7.30,,27,30,BVOD avg audience,61000,ABC,False,0.133
+AU,voz,2 BVOD,BVOD,2025-12-01,7NEWS SPOTLIGHT SUMMER,,17,30,BVOD avg audience,71000,Seven,False,0.467
+AU,voz,2 BVOD,BVOD,2025-12-01,9NEWS,,5,30,BVOD avg audience,171000,Nine,False,0.867
+AU,voz,2 BVOD,BVOD,2025-12-01,9NEWS SATURDAY,,12,30,BVOD avg audience,88000,Nine,False,0.633
+AU,voz,2 BVOD,BVOD,2025-12-01,9NEWS SUNDAY,,8,30,BVOD avg audience,115000,Nine,False,0.767
+AU,voz,2 BVOD,BVOD,2025-12-01,A CURRENT AFFAIR,,7,30,BVOD avg audience,134000,Nine,False,0.8
+AU,voz,2 BVOD,BVOD,2025-12-01,ABC NEWS,,25,30,BVOD avg audience,62000,ABC,False,0.2
+AU,voz,2 BVOD,BVOD,2025-12-01,BIG BROTHER AUSTRALIA,,2,30,BVOD avg audience,263000,10,False,0.967
+AU,voz,2 BVOD,BVOD,2025-12-01,BORDER PATROL,,18,30,BVOD avg audience,71000,Seven,False,0.433
+AU,voz,2 BVOD,BVOD,2025-12-01,EVENTS THAT CHANGED AUSTRALIA,,9,30,BVOD avg audience,97000,Nine,False,0.733
+AU,voz,2 BVOD,BVOD,2025-12-01,HARD QUIZ,,26,30,BVOD avg audience,62000,ABC,False,0.167
+AU,voz,2 BVOD,BVOD,2025-12-01,HOLIDAYS IN THE,,21,30,BVOD avg audience,65000,Nine,False,0.333
+AU,voz,2 BVOD,BVOD,2025-12-01,INSIDERS,,20,30,BVOD avg audience,66000,ABC,False,0.367
+AU,voz,2 BVOD,BVOD,2025-12-01,JAMIE DURIE’S FUTURE HOUSE,,19,30,BVOD avg audience,67000,Nine,False,0.4
+AU,voz,2 BVOD,BVOD,2025-12-01,LOVE ISLAND AUSTRALIA,,1,30,BVOD avg audience,621000,Nine,False,1.0
+AU,voz,2 BVOD,BVOD,2025-12-01,MURDER IN A SMALL TOWN,,15,30,BVOD avg audience,73000,Seven,False,0.533
+AU,voz,2 BVOD,BVOD,2025-12-01,RBT,,14,30,BVOD avg audience,76000,Nine,False,0.567
+AU,voz,2 BVOD,BVOD,2025-12-01,RETURN TO PARADISE,,22,30,BVOD avg audience,63000,ABC,False,0.3
+AU,voz,2 BVOD,BVOD,2025-12-01,REVEALED: DEATH CAP MURDERS,,23,30,BVOD avg audience,63000,Nine,False,0.267
+AU,voz,2 BVOD,BVOD,2025-12-01,SEVEN NEWS,,6,30,BVOD avg audience,153000,Seven,False,0.833
+AU,voz,2 BVOD,BVOD,2025-12-01,SEVEN’S CRICKET: SECOND TEST,,4,30,BVOD avg audience,240000,Seven,False,0.9
+AU,voz,2 BVOD,BVOD,2025-12-01,SEVEN’S CRICKET: THE SPIN,,28,30,BVOD avg audience,59000,Seven,False,0.1
+AU,voz,2 BVOD,BVOD,2025-12-01,SUNRISE,,29,30,BVOD avg audience,56000,Seven,False,0.067
+AU,voz,2 BVOD,BVOD,2025-12-01,TARONGA: WHO’S WHO IN THE ZOO,,16,30,BVOD avg audience,73000,Nine,False,0.5
+AU,voz,2 BVOD,BVOD,2025-12-01,THE CHASE AUSTRALIA,,24,30,BVOD avg audience,63000,Seven,False,0.233
+AU,voz,2 BVOD,BVOD,2025-12-01,THE ROOKIE,,3,30,BVOD avg audience,257000,Seven,False,0.933
+AU,voz,2 BVOD,BVOD,2025-12-01,TIPPING POINT AUSTRALIA,,10,30,BVOD avg audience,92000,Nine,False,0.7
+AU,voz,2 BVOD,BVOD,2025-12-01,TRAVEL GUIDES,,11,30,BVOD avg audience,91000,Nine,False,0.667
+AU,voz,2 BVOD,BVOD,2025-12-01,UNFILTERED: CRICKET,,30,30,BVOD avg audience,56000,Seven,False,0.033
