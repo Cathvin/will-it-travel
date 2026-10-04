@@ -1,0 +1,424 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Will It Travel?</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a broadcast "rundown" — narrow reading column, findings as numbered segments, data drawn as rating bars against a 100 baseline */
+:root{
+  --bg:#F3F4F7; --surface:#FFFFFF; --ink:#14161C; --muted:#585E6C; --line:#D9DCE3;
+  --accent:#C8102E; --fta:#2F5DA8; --bvod:#2F8E80; --paid:#B9771F; --local:#A3A9B5; --chip:#ECEEF2;
+  --display:"Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
+  --body:"IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#0F1116; --surface:#171A21; --ink:#ECEEF2; --muted:#9BA1AF; --line:#2A2F3A;
+  --accent:#FF5466; --fta:#7BA3E8; --bvod:#5CC4B4; --paid:#E6A954; --local:#4C5361; --chip:#222631; color-scheme:dark }}
+:root[data-theme="dark"]{
+  --bg:#0F1116; --surface:#171A21; --ink:#ECEEF2; --muted:#9BA1AF; --line:#2A2F3A;
+  --accent:#FF5466; --fta:#7BA3E8; --bvod:#5CC4B4; --paid:#E6A954; --local:#4C5361; --chip:#222631; color-scheme:dark }
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.6;margin:0}
+.wrap{max-width:980px;margin:0 auto;padding-inline:20px;padding-block:28px 64px}
+a{color:inherit;text-decoration-color:var(--accent);text-underline-offset:3px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+h1,h2,h3{font-family:var(--display);text-wrap:balance;margin:0;line-height:1.1}
+p{margin:0}
+.prose{max-width:65ch}
+.eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.mono{font-family:var(--mono)}
+.num{font-variant-numeric:tabular-nums}
+
+/* top bar */
+.topbar{display:flex;flex-wrap:wrap;gap:8px 16px;justify-content:space-between;align-items:center;padding-bottom:18px;border-bottom:1px solid var(--line)}
+.live{display:inline-flex;align-items:center;gap:8px}
+.live i{width:9px;height:9px;border-radius:50%;background:var(--accent);display:inline-block}
+
+/* hero */
+.hero{display:grid;gap:22px;padding-block:44px 36px}
+.hero h1{font-size:clamp(46px,9vw,96px);font-weight:800;letter-spacing:-.02em}
+.hero h1 span{color:var(--accent)}
+.hero .lede{font-size:clamp(18px,2.4vw,22px);max-width:40ch;line-height:1.45}
+.btns{display:flex;flex-wrap:wrap;gap:10px}
+.btn{display:inline-flex;align-items:center;gap:8px;padding:10px 16px;border-radius:6px;border:1px solid var(--ink);font-weight:600;font-size:15px;text-decoration:none}
+.btn.primary{background:var(--ink);color:var(--bg)}
+.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.stat{padding:14px 12px 14px 0;display:grid;gap:2px}
+.stat + .stat{padding-left:14px;border-left:1px solid var(--line)}
+.stat b{font-family:var(--display);font-size:30px;font-weight:700}
+.stat span{font-size:13px;color:var(--muted);line-height:1.35}
+@media (max-width:640px){.stats{grid-template-columns:repeat(2,minmax(0,1fr))}.stat:nth-child(3){padding-left:0;border-left:0}.stat:nth-child(n+3){border-top:1px solid var(--line)}}
+
+section{padding-block:40px;border-top:1px solid var(--line);display:grid;gap:20px}
+section > h2{font-size:clamp(28px,4.4vw,40px);font-weight:700}
+
+/* platform groups */
+.groups{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+@media (max-width:720px){.groups{grid-template-columns:1fr}}
+.group{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:16px;display:grid;gap:6px;border-top:4px solid var(--c)}
+.group h3{font-size:19px}
+.group p{font-size:14px;color:var(--muted)}
+
+/* findings */
+.finding{display:grid;grid-template-columns:72px minmax(0,1fr);gap:8px 20px;padding-block:22px;border-top:1px dashed var(--line)}
+.finding:first-of-type{border-top:0}
+.finding .no{font-family:var(--mono);font-size:13px;color:var(--accent);padding-top:6px}
+.finding h3{font-size:clamp(22px,3vw,28px);font-weight:700;margin-bottom:8px}
+.finding .body{display:grid;gap:16px;min-width:0}
+@media (max-width:600px){.finding{grid-template-columns:1fr}}
+
+.chart{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:16px 18px;display:grid;gap:12px;min-width:0}
+.chart-title{font-weight:600;font-size:14px}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:13px;color:var(--muted)}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+
+/* stacked mix bars */
+.mix{display:grid;gap:10px}
+.mix-row{display:grid;grid-template-columns:150px minmax(0,1fr);gap:12px;align-items:center;font-size:14px}
+.mix-bar{display:flex;height:26px;border-radius:4px;overflow:hidden;background:var(--chip)}
+.mix-bar span{height:100%;display:flex;align-items:center;justify-content:center;font-family:var(--mono);font-size:12px;color:#fff;white-space:nowrap;overflow:hidden}
+@media (max-width:560px){.mix-row{grid-template-columns:1fr;gap:4px}}
+
+/* travel score bars */
+.bars{display:grid;gap:7px;position:relative}
+.bar-row{display:grid;grid-template-columns:170px minmax(0,1fr) 44px;gap:10px;align-items:center;font-size:14px}
+.track{position:relative;height:18px}
+.track .fill{position:absolute;left:0;top:0;bottom:0;border-radius:0 3px 3px 0;background:var(--c)}
+.track .base{position:absolute;top:-4px;bottom:-4px;width:0;border-left:2px dashed var(--accent)}
+.bar-row .v{font-family:var(--mono);font-size:13px;text-align:right}
+.group-label{font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-top:8px}
+.axisnote{font-size:12.5px;color:var(--muted)}
+.axisnote b{color:var(--accent);font-weight:600}
+@media (max-width:560px){.bar-row{grid-template-columns:110px minmax(0,1fr) 40px;font-size:13px}}
+
+/* big compare */
+.compare{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.cmp{border:1px solid var(--line);border-radius:8px;padding:16px;background:var(--surface);display:grid;gap:4px}
+.cmp b{font-family:var(--display);font-size:46px;font-weight:800;line-height:1}
+.cmp span{font-size:14px;color:var(--muted)}
+.cmp.hl b{color:var(--accent)}
+
+/* table */
+.tabs{display:flex;flex-wrap:wrap;gap:8px}
+.tab{font:inherit;font-size:14px;padding:6px 12px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
+.tab[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.table-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:8px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;min-width:720px;font-size:14px}
+th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-family:var(--mono);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500}
+tr:last-child td{border-bottom:0}
+td.r,th.r{text-align:right}
+.title-cell b{display:block}
+.title-cell small{color:var(--muted)}
+.chip{display:inline-block;font-size:12px;padding:2px 8px;border-radius:999px;background:var(--chip);white-space:nowrap}
+.chip.a{background:var(--accent);color:#fff}
+.dot{display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--c);margin-right:6px}
+.score{display:flex;align-items:center;gap:8px;justify-content:flex-end}
+.score i{display:block;height:6px;border-radius:3px;background:var(--ink);opacity:.75}
+
+/* briefs */
+.briefs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+@media (max-width:820px){.briefs{grid-template-columns:1fr}}
+.brief{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:16px;display:grid;gap:10px;align-content:start;border-left:4px solid var(--c)}
+.brief h3{font-size:18px}
+.brief p{font-size:14.5px}
+.brief .lead{font-size:13px;color:var(--muted)}
+
+/* method */
+.steps{list-style:none;margin:0;padding:0;display:grid;gap:14px;counter-reset:s}
+.steps li{display:grid;grid-template-columns:36px minmax(0,1fr);gap:12px;counter-increment:s}
+.steps li::before{content:counter(s);font-family:var(--mono);font-size:13px;width:28px;height:28px;border-radius:50%;border:1px solid var(--line);display:grid;place-items:center}
+.formula{font-family:var(--mono);font-size:14px;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:14px 16px;overflow-x:auto;white-space:nowrap}
+.cols{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+@media (max-width:720px){.cols{grid-template-columns:1fr}}
+ul.clean{margin:0;padding-left:18px;display:grid;gap:8px}
+
+/* about */
+.about{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);gap:24px;align-items:start}
+@media (max-width:720px){.about{grid-template-columns:1fr}}
+.facts{display:grid;gap:10px;font-size:14.5px}
+.facts div{display:grid;grid-template-columns:110px minmax(0,1fr);gap:10px;padding-bottom:10px;border-bottom:1px solid var(--line)}
+.facts dt,.facts .k{color:var(--muted);font-family:var(--mono);font-size:12px;text-transform:uppercase;letter-spacing:.06em;padding-top:2px}
+footer{border-top:1px solid var(--line);padding-top:20px;font-size:13px;color:var(--muted);display:grid;gap:6px}
+@media (prefers-reduced-motion:no-preference){.track .fill{transition:width .6s ease}}
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <div class="topbar">
+    <span class="eyebrow live"><i></i>Portfolio project · Audience insights</span>
+    <span class="eyebrow">Catherine Vincent · Sydney</span>
+  </div>
+
+  <header class="hero">
+    <p class="eyebrow">US → Australia · Oct 2025 – Sep 2026</p>
+    <h1>Will It <span>Travel?</span></h1>
+    <p class="lede">Which US shows will succeed in Australia, and on which kind of platform? A data tool that tells a TV sales team which NBCUniversal titles to sell to which Australian channel or streaming service.</p>
+    <div class="btns">
+      <a class="btn primary" href="https://github.com/Cathvin/will-it-travel" target="_blank" rel="noopener">View the code on GitHub ↗</a>
+      <a class="btn" href="#sell-next">Jump to the pitch list</a>
+    </div>
+    <div class="stats num">
+      <div class="stat"><b>822</b><span>titles matched across US and Australian charts</span></div>
+      <div class="stat"><b>5,371</b><span>weekly chart entries analysed</span></div>
+      <div class="stat"><b>361</b><span>days of OzTAM VOZ Top 30 data</span></div>
+      <div class="stat"><b>16</b><span>NBCUniversal titles shortlisted to sell next</span></div>
+    </div>
+  </header>
+
+  <section aria-labelledby="q">
+    <p class="eyebrow">The question</p>
+    <h2 id="q">A US hit doesn't automatically work in Australia</h2>
+    <p class="prose">Distributors license US content to Australian buyers. To pitch well, a sales team needs to know which genres and formats actually find an Australian audience, and which of three very different buyer groups each title suits.</p>
+    <div class="groups">
+      <div class="group" style="--c:var(--fta)"><span class="eyebrow">Group 1</span><h3>Free-to-air TV</h3><p>Seven, Nine, Ten, ABC, SBS</p></div>
+      <div class="group" style="--c:var(--bvod)"><span class="eyebrow">Group 2</span><h3>Free streaming apps (BVOD)</h3><p>7plus, 9Now, 10 Play, ABC iview, SBS On Demand</p></div>
+      <div class="group" style="--c:var(--paid)"><span class="eyebrow">Group 3</span><h3>Paid streamers</h3><p>Stan, Foxtel/BINGE, Netflix, Prime Video</p></div>
+    </div>
+  </section>
+
+  <section aria-labelledby="findings">
+    <p class="eyebrow">Key findings</p>
+    <h2 id="findings">Four things a sales team should know</h2>
+
+    <article class="finding">
+      <div class="no">Finding 01</div>
+      <div class="body">
+        <h3>Free TV buys US crime procedurals, and almost nothing else</h3>
+        <p class="prose">US content wins just 2.6% of free-to-air Top 30 slots and 5.4% on the free streaming apps. Half the chart is Australian news, sport and live events. The US shows that do break through are scripted crime series such as <em>The Rookie</em> and <em>9-1-1</em>.</p>
+        <div class="chart">
+          <div class="chart-title">Share of Australian chart slots by content origin</div>
+          <div class="legend">
+            <span><i style="background:var(--accent)"></i>US</span>
+            <span><i style="background:var(--local)"></i>Australian news, sport &amp; live</span>
+            <span><i style="background:var(--fta);opacity:.55"></i>Other Australian</span>
+            <span><i style="background:var(--muted)"></i>UK &amp; other</span>
+          </div>
+          <div class="mix" id="mix"></div>
+        </div>
+      </div>
+    </article>
+
+    <article class="finding">
+      <div class="no">Finding 02</div>
+      <div class="body">
+        <h3>Series travel to free TV; films travel to paid streaming</h3>
+        <p class="prose">The travel score compares a format's share of Australian chart space with its share in the US. 100 means it performs the same in both markets. US scripted series score 343 on free-to-air, while US films score 9. On paid streaming the picture flips: documentary (138) and animated film (115) over-perform, and reality (50) lags.</p>
+        <div class="chart">
+          <div class="chart-title">Travel score by format and platform group</div>
+          <p class="axisnote">Bars use ranks, not raw audiences. <b>Dashed line = 100</b> (same performance as in the US). Only formats with 3+ Australian titles are shown.</p>
+          <div class="bars" id="travel"></div>
+        </div>
+      </div>
+    </article>
+
+    <article class="finding">
+      <div class="no">Finding 03</div>
+      <div class="body">
+        <h3>On paid streaming, being a US hit isn't enough</h3>
+        <p class="prose">Netflix originals launch globally, so they almost always travel. Licensed US hits need a local deal, a local home and local promotion, and most never chart in Australia. Documentary is the exception.</p>
+        <div class="compare num">
+          <div class="cmp"><b>91%</b><span>of Netflix originals that hit in the US also chart in Australia</span></div>
+          <div class="cmp hl"><b>28%</b><span>of licensed US hits do the same</span></div>
+        </div>
+        <div class="chart">
+          <div class="chart-title">Share of licensed US Netflix hits that also chart in Australia, by genre</div>
+          <div class="bars" id="pickup"></div>
+        </div>
+      </div>
+    </article>
+
+    <article class="finding">
+      <div class="no">Finding 04</div>
+      <div class="body">
+        <h3>Most NBCU hits are already licensed. The bigger win is renewals</h3>
+        <p class="prose">31 of the 35 NBCUniversal titles that charted in the US but not in Australia already have an Australian streaming home. The true white space is small. The larger opportunity is a renewal watch-list: 30 NBCU titles licensed here that never chart. Four of them fit free-to-air better than their current home.</p>
+        <div class="table-wrap">
+          <table>
+            <thead><tr><th>Title</th><th>Now streaming on</th><th>Recommendation</th></tr></thead>
+            <tbody id="renewals"></tbody>
+          </table>
+        </div>
+      </div>
+    </article>
+  </section>
+
+  <section id="sell-next" aria-labelledby="sn">
+    <p class="eyebrow">The output</p>
+    <h2 id="sn">What to sell next</h2>
+    <p class="prose">NBCUniversal titles with US momentum and no Australian streaming home found, ranked by US strength × platform fit, with Tier A listed first. Tier A titles charted in a US Top 10. Tier B titles have strong US audience signals on TMDB but weaker evidence. Peacock originals are excluded because Stan's NBCUniversal output deal already covers them.</p>
+    <div class="tabs" role="group" aria-label="Filter by tier">
+      <button class="tab" id="tab-all" aria-pressed="true" data-f="all">All 16</button>
+      <button class="tab" id="tab-a" aria-pressed="false" data-f="A">Tier A · US chart hits</button>
+      <button class="tab" id="tab-b" aria-pressed="false" data-f="B">Tier B · strong US signal</button>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>#</th><th>Title</th><th>Tier</th><th>Studio</th><th>Pitch to</th><th class="r">Opportunity</th></tr></thead>
+        <tbody id="sell"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section aria-labelledby="ai">
+    <p class="eyebrow">AI in the workflow</p>
+    <h2 id="ai">Pitch briefs written by Claude, grounded in the data</h2>
+    <p class="prose">For each platform group, the Claude API drafts a one-page pitch brief from a data pack of the project's own numbers, with an instruction not to invent figures. Every brief ends with its caveats and a "check before sending" note.</p>
+    <div class="briefs">
+      <div class="brief" style="--c:var(--fta)">
+        <span class="eyebrow">Free-to-air</span>
+        <h3>Lead with crime series, not films</h3>
+        <p>US content is a small slice of free TV, and what charts is crime and procedural drama. Pitch <em>The Endgame</em> with a crime renewal such as <em>Law &amp; Order</em>, and start with Seven, which already carries both <em>Law &amp; Order</em> and <em>The Hunting Party</em> on 7plus.</p>
+      </div>
+      <div class="brief" style="--c:var(--bvod)">
+        <span class="eyebrow">Free streaming apps</span>
+        <h3>Crime does 3× better here than in the US</h3>
+        <p>US shows take about 5% of chart space on 7plus, 9Now and the other apps, but US crime and thriller series score 296. Package scripted crime series and pitch for discovery, not volume.</p>
+      </div>
+      <div class="brief" style="--c:var(--paid)">
+        <span class="eyebrow">Paid streamers</span>
+        <h3>Family animation and true-crime documentary</h3>
+        <p>Both lanes over-perform in Australia, and the strongest unplaced titles sit in them: <em>The Super Mario Galaxy Movie</em> and <em>Homicide Squad New Orleans</em>, followed by DreamWorks and Illumination animation.</p>
+      </div>
+    </div>
+  </section>
+
+  <section aria-labelledby="method">
+    <p class="eyebrow">How it works</p>
+    <h2 id="method">Method</h2>
+    <div class="cols">
+      <ol class="steps">
+        <li><span><b>Collect</b> Nielsen Streaming Top 10, Netflix Top 10 (US and Australia) and 361 days of OzTAM VOZ Top 30 into one tidy table.</span></li>
+        <li><span><b>Use rankings, not audiences.</b> Nielsen measures minutes watched and OzTAM measures average viewers, so each chart position becomes a rank percentile within its own chart.</span></li>
+        <li><span><b>Enrich</b> every title through the TMDB API with genre, format, origin and production company, and flag NBCUniversal-owned studios.</span></li>
+        <li><span><b>Match</b> US and Australian titles, link local remakes to US formats, and review uncertain matches by hand.</span></li>
+        <li><span><b>Score</b> each genre and format by platform group, then rank NBCU candidates and check Australian availability through JustWatch.</span></li>
+      </ol>
+      <div style="display:grid;gap:12px;align-content:start;min-width:0">
+        <span class="eyebrow">Travel score</span>
+        <div class="formula">(share of AU chart points) ÷ (share of US chart points) × 100</div>
+        <p style="font-size:14.5px;color:var(--muted)">Chart points are the sum of rank percentiles. Segments with fewer than three Australian titles are not scored.</p>
+        <span class="eyebrow" style="margin-top:8px">Built with</span>
+        <p style="font-size:14.5px">Python (pandas), Excel (PivotTable-ready workbook), PowerPoint (python-pptx), Claude API, TMDB API, Claude Code</p>
+      </div>
+    </div>
+    <div>
+      <p class="eyebrow" style="margin-bottom:10px">Limitations</p>
+      <ul class="clean prose" style="font-size:15px">
+        <li>Free TV scores rest on about 10 US titles in a year. Treat them as direction, not precision.</li>
+        <li>Stan, BINGE and Prime Video publish no charts, so Netflix Top 10 Australia stands in for paid streaming.</li>
+        <li>The Nielsen sample covers 13 of 52 weeks. Netflix US (52 weeks) is the main like-for-like US signal.</li>
+        <li>Top 10 and Top 30 charts only show hits. Rights and availability should be confirmed against contracts.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section aria-labelledby="me">
+    <p class="eyebrow">Who built this</p>
+    <div class="about">
+      <div style="display:grid;gap:14px">
+        <h2 id="me">Catherine Vincent</h2>
+        <p class="prose">Data analyst and professional actor. I've spent three years turning data into decisions for C-suite leaders at Visagio, Infineon, Amazon and Nasdaq, and 85 shows on stage across India's theatre circuit, featured in The Times of India. I built this project because I wanted to know why some US shows win over Australian audiences and others don't. It started with The Office (the US one, obviously).</p>
+      </div>
+      <div class="facts">
+        <div><span class="k">Studying</span><span>Master of Computer Science (Data Science &amp; AI), University of Sydney · HD WAM 86.5</span></div>
+        <div><span class="k">Based in</span><span>Sydney</span></div>
+        <div><span class="k">Code</span><span><a href="https://github.com/Cathvin/will-it-travel" target="_blank" rel="noopener">github.com/Cathvin/will-it-travel</a></span></div>
+        <div><span class="k">Email</span><span class="mono" style="font-size:13px;word-break:break-all">catherine.vincent.official.work@gmail.com</span></div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>Independent portfolio project. Not affiliated with, endorsed by or produced for NBCUniversal.</p>
+    <p>Data sources: OzTAM VOZ, Nielsen, Netflix Top 10, TMDB, JustWatch via TMDB. This product uses the TMDB API but is not endorsed or certified by TMDB.</p>
+  </footer>
+</div>
+
+<script>
+(function(){
+  // Finding 1: chart mix
+  var mix=[
+    {g:"Free-to-air",us:2.6,news:49.3,au:40.3,oth:7.8},
+    {g:"Free streaming apps",us:5.4,news:47.7,au:37.9,oth:8.9},
+    {g:"Paid (Netflix AU)",us:71.0,news:1.0,au:3.7,oth:24.4}
+  ];
+  var m=document.getElementById('mix');
+  mix.forEach(function(r){
+    var segs=[[r.us,'var(--accent)','US'],[r.news,'var(--local)','News'],[r.au,'color-mix(in srgb, var(--fta) 55%, var(--surface))','AU'],[r.oth,'var(--muted)','Other']];
+    var html='<div class="mix-row"><span>'+r.g+' <span class="mono" style="color:var(--accent);font-size:12px">US '+r.us+'%</span></span><div class="mix-bar" role="img" aria-label="'+r.g+': US '+r.us+'%, Australian news sport and live '+r.news+'%, other Australian '+r.au+'%, UK and other '+r.oth+'%">';
+    segs.forEach(function(s){ html+='<span style="width:'+s[0]+'%;background:'+s[1]+'">'+(s[0]>=9?s[0]+'%':'')+'</span>'; });
+    m.insertAdjacentHTML('beforeend',html+'</div></div>');
+  });
+
+  function bars(el,groups,max,base,suffix){
+    var out='';
+    groups.forEach(function(g){
+      if(g.label) out+='<div class="group-label" style="color:'+g.c+'">'+g.label+'</div>';
+      g.rows.forEach(function(r){
+        var w=Math.min(r[1],max)/max*100;
+        out+='<div class="bar-row"><span>'+r[0]+'</span><div class="track" style="--c:'+g.c+'"><div class="fill" style="width:'+w+'%"></div>'+(base!=null?'<div class="base" style="left:'+(base/max*100)+'%"></div>':'')+'</div><span class="v num">'+r[1]+(suffix||'')+'</span></div>';
+      });
+    });
+    el.innerHTML=out;
+  }
+  bars(document.getElementById('travel'),[
+    {label:'Free-to-air',c:'var(--fta)',rows:[['Scripted series',343],['Film',9]]},
+    {label:'Free streaming apps',c:'var(--bvod)',rows:[['Scripted series',330],['Film',15]]},
+    {label:'Paid streaming (Netflix AU)',c:'var(--paid)',rows:[['Documentary',138],['Animated film',115],['Film',112],['Scripted series',94],['Limited series',86],['Reality',50],['Animated series',42]]}
+  ],350,100);
+  bars(document.getElementById('pickup'),[
+    {c:'var(--paid)',rows:[['Documentary',70.8],['Family & Animation',32.1],['Comedy',30.4],['Horror',29.4],['Crime & Thriller',21.6],['Drama',17.6],['Sci-Fi & Fantasy',16.0],['Action & Adventure',6.2]]}
+  ],100,null,'%');
+
+  var ren=[
+    ['Law & Order','1990 · crime series','7plus, Prime Video, BINGE','Re-pitch to free-to-air at renewal'],
+    ['The Hunting Party','2025 · crime series','7plus','Re-pitch to free-to-air at renewal'],
+    ['All Her Fault','2025 · crime limited series','BINGE','Re-pitch to free-to-air at renewal'],
+    ['La Brea','2021 · sci-fi series','Netflix','Re-pitch to free-to-air at renewal'],
+    ['Minions, Despicable Me 3, The Bad Guys','animated films','BINGE','Right platform, not charting: needs marketing support']
+  ];
+  document.getElementById('renewals').innerHTML=ren.map(function(r){return '<tr><td class="title-cell"><b>'+r[0]+'</b><small>'+r[1]+'</small></td><td>'+r[2]+'</td><td>'+r[3]+'</td></tr>';}).join('');
+
+  var F='var(--fta)',P='var(--paid)';
+  var sell=[
+    [1,'The Super Mario Galaxy Movie',2026,'Animated film','A','Illumination',P,'Paid streamers',27.8,'1 week in Nielsen US Top 10, peak #8'],
+    [2,'Homicide Squad New Orleans',2025,'Documentary series','A','Wolf Entertainment',P,'Paid streamers',25.9,'1 week in Netflix US Top 10, peak #9'],
+    [3,'Straight Outta Compton',2015,'Film','A','Universal Pictures',P,'Paid streamers',19.1,'1 week in Netflix US Top 10, peak #7'],
+    [4,'Welcome Home Roscoe Jenkins',2008,'Film','A','Universal Pictures',P,'Paid streamers',14.3,'1 week in Netflix US Top 10, peak #10'],
+    [5,'Migration',2023,'Animated film','B','Universal Pictures',P,'Paid streamers',65.6,'TMDB popularity 26, 2,330 votes'],
+    [6,'Fast X',2023,'Film','B','Universal Pictures',P,'Paid streamers',59.1,'TMDB popularity 37, 6,528 votes'],
+    [7,'Ruby Gillman, Teenage Kraken',2023,'Animated film','B','DreamWorks Animation',P,'Paid streamers',59.0,'TMDB popularity 15, 1,143 votes'],
+    [8,'Renfield',2023,'Film · horror','B','Universal Pictures',P,'Paid streamers',52.5,'TMDB popularity 12, 2,263 votes'],
+    [9,'Trolls Band Together',2023,'Animated film','B','DreamWorks Animation',P,'Paid streamers',52.4,'TMDB popularity 15, 1,036 votes'],
+    [10,'Night Swim',2024,'Film · horror','B','Universal Pictures',P,'Paid streamers',45.0,'TMDB popularity 12, 905 votes'],
+    [11,'Oppenheimer',2023,'Film · drama','B','Universal Pictures',P,'Paid streamers',43.7,'TMDB popularity 52, 12,603 votes'],
+    [12,'The Endgame',2022,'Crime series','B','Universal Television',F,'Free-to-air',30.0,'TMDB popularity 9, 129 votes'],
+    [13,'Redeeming Love',2022,'Film','B','Universal Pictures',P,'Paid streamers',29.1,'TMDB popularity 12, 777 votes'],
+    [14,'Drive-Away Dolls',2024,'Film · crime','B','Focus Features',P,'Paid streamers',21.5,'TMDB popularity 11, 626 votes'],
+    [15,'Strays',2023,'Film','B','Universal Pictures',P,'Paid streamers',17.5,'TMDB popularity 10, 1,051 votes'],
+    [16,'The Rising',2022,'Crime series','B','Sky Studios',F,'Free-to-air',15.0,'TMDB popularity 5, 54 votes']
+  ];
+  var tb=document.getElementById('sell');
+  function render(f){
+    tb.innerHTML=sell.filter(function(r){return f==='all'||r[4]===f;}).map(function(r){
+      return '<tr><td class="num mono">'+r[0]+'</td><td class="title-cell"><b>'+r[1]+'</b><small>'+r[2]+' · '+r[3]+' · '+r[9]+'</small></td><td><span class="chip'+(r[4]==='A'?' a':'')+'">Tier '+r[4]+'</span></td><td>'+r[5]+'</td><td><span class="dot" style="--c:'+r[6]+'"></span>'+r[7]+'</td><td class="r"><span class="score num"><i style="width:'+Math.round(r[8]/66*60)+'px"></i>'+r[8].toFixed(1)+'</span></td></tr>';
+    }).join('');
+  }
+  render('all');
+  var tabs=document.querySelectorAll('.tab');
+  tabs.forEach(function(t){t.addEventListener('click',function(){
+    tabs.forEach(function(x){x.setAttribute('aria-pressed','false');});
+    t.setAttribute('aria-pressed','true'); render(t.getAttribute('data-f'));
+  });});
+})();
+</script>
+</body>
+</html>
