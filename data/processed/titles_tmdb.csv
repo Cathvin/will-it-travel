@@ -5,6 +5,143 @@ title,markets,sources,category,tmdb_id,media_type,tmdb_name,match_score,year,gen
 2 Broke Girls,AU,netflix,programming,39340.0,tv,2 Broke Girls,100.0,2011,Comedy,Comedy,Scripted series,US,en,CBS,Michael Patrick King Productions,,,False,False
 2025 STATE CUP CHAMPIONSHIP GRAND FINAL,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 2025: THE YEAR THAT WAS,AU,voz,programming,307664.0,tv,2025爱奇艺尖叫之夜,80.0,2025,Reality,Reality,Reality / unscripted,CN,zh,,iQIYI,,,False,False
+2026 AFL BROWNLOW MEDAL,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 AUSTRALIAN OPEN D1,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+2026 AUSTRALIAN OPEN D10,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+2026 AUSTRALIAN OPEN D11,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+2026 AUSTRALIAN OPEN D12,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+2026 AUSTRALIAN OPEN D13,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+2026 AUSTRALIAN OPEN D14,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+2026 AUSTRALIAN OPEN D15,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+2026 AUSTRALIAN OPEN D2,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+2026 AUSTRALIAN OPEN D3,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+2026 AUSTRALIAN OPEN D4,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+2026 AUSTRALIAN OPEN D5,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+2026 AUSTRALIAN OPEN D6,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+2026 AUSTRALIAN OPEN D7,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+2026 AUSTRALIAN OPEN D8,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+2026 AUSTRALIAN OPEN D9,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+2026 FIFA WORLD CUP 3RD PLACE: FRA V ENG LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP 3RD PLACE: FRA V ENG POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP 3RD PLACE: FRA V ENG PRE-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP FINAL: ESP V ARG LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP FINAL: ESP V ARG POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP FINAL: ESP V ARG PRE-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP QF: ARG V SUI LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP QF: ARG V SUI POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP QF: ARG V SUI PRE-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP QF: ESP V BEL LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP QF: ESP V BEL POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP QF: FRA V MAR LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP QF: FRA V MAR POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP QF: NOR V ENG LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP QF: NOR V ENG POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP QF: NOR V ENG PRE-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP SF: ENG V ARG LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP SF: ENG V ARG POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP SF: FRA V ESP LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP SF: FRA V ESP POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: ARG V ALG LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: ARG V ALG POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: ARG V ALG PRE-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: ARG V CPV LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: ARG V CPV POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: ARG V CPV PRE-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: ARG V EGY LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: AUS V EGY LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: AUS V EGY POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: AUS V TUR LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: AUS V TUR POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: AUS V TUR PRE-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: AUT V JOR LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: BEL V SEN LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: BEL V SEN POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: BRA V HAI LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: BRA V JPN LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: BRA V MAR LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: BRA V MAR POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: BRA V MAR PRE-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: BRA V NOR LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: BRA V NOR POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: CAN V BIH LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: CAN V QAT LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: CIV V ECU LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: COL V COD LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: COL V GHA LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: COL V GHA PRE-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: COL V POR LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: COL V POR PRE-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: ECU V GER LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: ENG V CRO LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: ENG V CRO POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: ENG V GHA LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: ENG V GHA POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: FRA V IRQ WEATHER DELAY,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: FRA V SEN LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: FRA V SWE LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: FRA V SWE POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: GER V PAR LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: GER V PAR POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: GHA V PAN LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: HAI V SCO LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: HAI V SCO PRE-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: IRN V NZL LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: IRQ V NOR LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: JOR V ARG LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: JOR V ARG PRE-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: JPN V SWE LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: KOR V CZE LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: KSA V URU LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: MEX V ECU LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: MEX V ENG LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: MEX V ENG POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: MEX V ENG PRE-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: MEX V KOR LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: MEX V RSA LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: NED V JPN LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: NED V MAR LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: NED V MAR POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: NOR V SEN LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: NZL V BEL LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: NZL V EGY LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: PAN V CRO LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: PAN V ENG LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: PAR V AUS LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: PAR V AUS POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: PAR V AUS PRE-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: PAR V FRA LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: PAR V FRA POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: POR V CRO LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: POR V CRO POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: POR V ESP LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: POR V ESP POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: SCO V BRA LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: SCO V MAR LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: SCO V MAR POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: SCO V MAR PRE-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: SUI V ALG LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: SUI V COL LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: SUI V COL POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: SWE V TUN LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: TUN V JPN LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: TUR V PAR LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: URU V CPV LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: URU V ESP LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: URU V ESP POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: USA V AUS LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: USA V AUS POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: USA V BEL LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: USA V BEL POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: USA V BIH LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: USA V BIH POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: USA V PAR LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: USA V PAR POST-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: USA V PAR PRE-MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 FIFA WORLD CUP: UZB V COL LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 UNITED CUP D10,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 UNITED CUP D2,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 UNITED CUP D5,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+2026 UNITED CUP D8,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 21 Jump Street,AU,netflix,programming,64688.0,movie,21 Jump Street,100.0,2012,Action|Comedy|Crime,Action,Film,US,en,,Columbia Pictures|Relativity Media|Original Film|Metro-Goldwyn-Mayer|Stephen J. Cannell Productions|SJC Studios,,,False,False
 22 Jump Street,AU,netflix,programming,187017.0,movie,22 Jump Street,100.0,2014,Crime|Comedy|Action,Crime,Film,US,en,,Columbia Pictures|Original Film|MRC|Metro-Goldwyn-Mayer|Cannell Studios|JHF Productions|33andOut Productions,,,False,False
 27 Dresses,AU,netflix,programming,6557.0,movie,27 Dresses,100.0,2008,Comedy|Romance,Comedy,Film,US,en,,Fox 2000 Pictures|Spyglass Entertainment|Dune Entertainment III,,,False,False
@@ -12,12 +149,19 @@ title,markets,sources,category,tmdb_id,media_type,tmdb_name,match_score,year,gen
 5lbs of Pressure,US,netflix,programming,1079346.0,movie,5lbs of Pressure,100.0,2024,Thriller|Crime|Romance|TV Movie,Thriller,Film,US,en,,Tetrad Productions|Make Things Work|Dark Dreams Entertainment|Paint Night Productions|Studio507|SHFT|Intrinsic Value Films,,,False,False
 60 MINUTES,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 7.30,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+70 YEARS OF TELEVISION,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
 72 HOURS,AU|US,netflix,programming,949838.0,movie,72 HOURS,100.0,2026,Comedy|Crime,Comedy,Film,US,en,,Sony Pictures|Davis Entertainment|Counterbalance Entertainment|HartBeat Productions|Will Packer Productions|The Story Company,,,False,False
+7NEWS SPOTLIGHT,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 7NEWS SPOTLIGHT SUMMER,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 9 to 5,US,netflix,programming,1280053.0,movie,9 to 5,100.0,,Comedy|Drama,Comedy,Film,US,en,,Echo Films|20th Century Studios,,,False,False
+9-1-1,AU,voz,programming,75219.0,tv,9-1-1,100.0,2018,Drama|Crime|Action & Adventure,Drama,Scripted series,US,en,ABC|FOX,Ryan Murphy Television|Ream Works|Brad Falchuk Teley-vision|20th Century Fox Television|20th Television,,,False,False
 9NEWS,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+9NEWS AFTERNOON,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+9NEWS LATE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+9NEWS MORNING,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 9NEWS SATURDAY,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 9NEWS SUNDAY,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+9NEWS: FIRST AT FIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 A CURRENT AFFAIR,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 A Child of My Own,US,netflix,programming,1616131.0,movie,A Child of My Own,100.0,2026,Documentary,Documentary,Film,MX,es,,Micromundo Producciones|Gato Grande Productions,,,False,False
 A Cowboy Christmas Romance,US,netflix,programming,1195473.0,movie,A Cowboy Christmas Romance,100.0,2023,TV Movie|Comedy|Romance,TV Movie,Film,US,en,,The Ninth House|Lifetime,,,False,False
@@ -32,13 +176,32 @@ A Minecraft Movie,AU,netflix,programming,950387.0,movie,A Minecraft Movie,100.0,
 A Quiet Place: Day One,AU|US,netflix,programming,762441.0,movie,A Quiet Place: Day One,100.0,2024,Horror|Science Fiction|Thriller,Horror,Film,US,en,,Paramount Pictures|Platinum Dunes|Sunday Night Productions,,,False,False
 A Royal Winter,AU,netflix,programming,435107.0,movie,A Royal Winter,100.0,2017,TV Movie|Romance,TV Movie,Film,US,en,,Brad Krevoy Television|Motion Picture Corporation of America,,,False,False
 A Toxic Love Story,AU|US,netflix,programming,1723460.0,movie,A Toxic Love Story,100.0,2026,Documentary,Documentary,Film,GB,en,,Curious Films,,,False,False
+ABC NATIONAL FORUM,AU,voz,programming,316638.0,tv,ABC National Forum,100.0,2026,Talk,Talk,Talk / variety,AU,en,ABC TV,,,,False,False
+ABC NATIONAL NEWS,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 ABC NEWS,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 ABC NEWS SUNDAY,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 AFI Life Achievement Award: A Tribute to Eddie Murphy,US,netflix,programming,23608.0,tv,The American Film Institute Salute to ...,38.0,1973,Reality,Reality,Reality / unscripted,US,en,TNT|Netflix,AFI,,,False,False
+AFL: LEGENDS GAME FOR PROSTRATE CANCER,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+AFL: THE BIG FREEZE @ THE G,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+AL JAZEERA ENGLISH NEWS MORNING,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+ALL CREATURES GREAT AND SMALL,AU,voz,programming,108255.0,tv,All Creatures Great & Small,100.0,2020,Drama|Comedy,Drama,Scripted series,GB,en,5,Playground Entertainment,,,False,False
+ALONE AUSTRALIA,AU,voz,programming,223418.0,tv,Alone Australia,100.0,2023,Reality,Reality,Reality / unscripted,AU,en,SBS,ITV,,,False,False
+ALWAYS WAS TONIGHT,AU,voz,programming,1622970.0,movie,Always Was Tonight,100.0,2026,,Unknown,Film,AU,en,,Australian Broadcasting Corporation,,,False,False
 AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders,AU|US,netflix,programming,252257.0,tv,AMERICA'S SWEETHEARTS: Dallas Cowboys Cheerleaders,100.0,2024,Documentary,Documentary,Documentary,US,en,Netflix,One Potato Productions|Boardwalk Pictures|Campfire Studios,,,False,False
+ANIMALS ABOARD WITH DR. HARRY,AU,voz,programming,230782.0,tv,Animals Aboard with Dr. Harry,100.0,2023,Documentary|Family|Reality,Documentary,Reality / unscripted,AU,en,Seven Network,Beyond Action,,,False,False
 ANNABEL CRABB’S CIVIC DUTY,AU,voz,programming,304888.0,tv,Annabel Crabb's Civic Duty,100.0,2025,Documentary,Documentary,Documentary,AU,en,ABC TV,Australian Broadcasting Corporation,,,False,False
+ANTIQUES ROADSHOW,AU,voz,programming,2042.0,tv,Antiques Roadshow,100.0,1979,Documentary|Family,Documentary,Documentary,GB,en,BBC One,BBC Studios Productions|BBC Studios Factual Entertainment Productions,,,False,False
+ANZAC DAY NRL LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+AO26,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+ART DETECTIVES,AU,voz,programming,272947.0,tv,Art Detectives,100.0,2025,Crime|Drama,Crime,Scripted series,US,en,Acorn TV,Black Dog Television|Acorn Media Enterprises|Dynamic Television,,,False,False
+AUST FIA FORMULA ONE WORLD CHAMPIONSHIP 2026,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 AUSTRALIAN CRIME STORIES: THE INVESTIGATORS,AU,voz,programming,270936.0,tv,Australian Crime Stories: The Investigators,100.0,2023,Crime|Documentary,Crime,Documentary,AU,en,Nine Network,,,,False,False
+AUSTRALIAN IDOL,AU,voz,programming,4204.0,tv,Australian Idol,100.0,2003,Reality,Reality,Reality / unscripted,AU,en,10|Seven Network,,,,False,False
+AUSTRALIAN OF THE YEAR 2026,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
 AUSTRALIAN STORY,AU,voz,programming,12317.0,tv,Australian Story,100.0,1996,Documentary|News,Documentary,Documentary,AU,en,ABC TV,,,,False,False
+AUSTRALIAN SURVIVOR,AU,voz,programming,10957.0,tv,Australian Survivor,100.0,2016,Reality,Reality,Reality / unscripted,AU,en,10,EndemolShine Australia,,,False,False
+AUSTRALIAN SURVIVOR GRAND FINALE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+AUSTRALIA’S GREATEST CONMAN?,AU,voz,programming,314997.0,tv,Australia's Greatest Conman?,100.0,2026,Documentary|Crime,Documentary,Documentary,AU,en,SBS On Demand,,,,False,False
 Aaron Chen: Funny Garden,AU,netflix,no TMDB result,,,,0.0,,,,,,,,,,,,
 About My Father,US,netflix,programming,829051.0,movie,About My Father,100.0,2023,Comedy,Comedy,Film,US,en,,Lionsgate|Depth of Field|Media Capital Technologies,,,False,False
 Absentia,AU|US,netflix,programming,72755.0,tv,Absentia,100.0,2017,Crime|Drama|Mystery,Crime,Scripted series,US,en,Prime Video|AXN,Masha Productions|Media Brat Productions|Bizu Productions,,,False,False
@@ -68,16 +231,31 @@ At Home With The Furys,AU,netflix,programming,230939.0,tv,At Home with the Furys
 Avatar: The Last Airbender,AU|US,netflix,programming,82452.0,tv,Avatar: The Last Airbender,100.0,2024,Action & Adventure|Sci-Fi & Fantasy|Drama|Family,Action & Adventure,Scripted series,US,en,Netflix,Nickelodeon Productions|Rideback|Albert Kim Pictures,,,False,False
 Awake,AU,netflix,programming,13483.0,movie,Awake,100.0,2007,Thriller|Crime|Mystery,Thriller,Film,US,en,,The Weinstein Company|Open City Films|GreeneStreet Films,,,False,False
 BACK ROADS,AU,voz,programming,65405.0,tv,Back Roads,100.0,2015,Documentary,Documentary,Documentary,AU,en,ABC TV,Australian Broadcasting Corporation,,,False,False
+BAD COMPANY,AU,voz,programming,317670.0,tv,Bad Company,100.0,2026,Comedy,Comedy,Scripted series,AU,en,ABC TV,,,,False,False
+BANJO AND RO’S GRAND ISLAND HOTEL,AU,voz,programming,310044.0,tv,Banjo and Ro’s Grand Island Hotel,100.0,2026,Documentary,Documentary,Documentary,GB,en,BBC Scotland,Hello Halo,,,False,False
 BEEF,AU|US,netflix,programming,154385.0,tv,BEEF,100.0,2023,Comedy|Drama,Comedy,Scripted series,US,en,Netflix,A24|Bugsy Bell Productions|Universal Remote|Domo Arigato Productions|Buji Productions|Celadon Pictures,,,False,False
+BERGERAC,AU,voz,programming,1596.0,tv,Bergerac,100.0,1981,Drama,Drama,Scripted series,GB,en,BBC One,BBC TV,,,False,False
 BETTER HOMES AND GARDENS,AU,voz,programming,4189.0,tv,Better Homes and Gardens,100.0,1996,,Unknown,Scripted series,AU,en,Seven Network,Channe 7 Australia,,,False,False
+BETTER HOMES AND GARDENS SUMMER,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
 BEYOND PARADISE,AU,voz,programming,205072.0,tv,Beyond Paradise,100.0,2023,Drama|Crime,Drama,Scripted series,GB,en,BBC One,Red Planet Pictures,,,False,False
+BEYOND PARADISE: CHRISTMAS SPECIAL (2024),AU,voz,programming,205072.0,tv,Beyond Paradise,80.0,2023,Drama|Crime,Drama,Scripted series,GB,en,BBC One,Red Planet Pictures,,,False,False
+BEYOND THE DREAM: ICE BREAKERS,AU,voz,programming,260867.0,tv,Beyond The Dream,80.0,2024,Reality|Documentary,Reality,Reality / unscripted,AU,en,,,,,False,False
 BIG BROTHER AUSTRALIA,AU,voz,programming,990.0,tv,Big Brother,80.0,2001,Reality,Reality,Reality / unscripted,AU,en,10|Nine Network|Seven Network,EndemolShine Australia|Southern Star Entertainment,,,False,False
+BIG BROTHER AUSTRALIA GRAND FINALE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 BLEDISLOE CUP 2025,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 BLUE LIGHTS,AU,voz,programming,218344.0,tv,Blue Lights,100.0,2023,Crime|Drama,Crime,Scripted series,GB,en,BBC One,Gallagher Films|Two Cities Television,,,False,False
+BLUE MURDER MOTEL,AU,voz,programming,310925.0,tv,Blue Murder Motel,100.0,2026,Crime|Drama|Mystery,Crime,Scripted series,NZ,en,TVNZ 1,Great Southern Television,,,False,False
+BONDI BEACH SHOOTING,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+BONDI BEACH TERROR ATTACK,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
 BORDER PATROL,AU,voz,programming,19910.0,tv,Border Patrol,100.0,2002,Documentary|Reality,Documentary,Reality / unscripted,NZ,en,TVNZ 1|TVNZ+,Greenstone TV,,,False,False
+BORDER SECURITY,AU,voz,programming,2727.0,tv,Border Security: Australia's Front Line,63.0,2004,Documentary|Crime|Drama|Reality,Documentary,Reality / unscripted,AU,en,Seven Network,,,,False,False
+BORDER SECURITY: INTERNATIONAL,AU,voz,programming,2727.0,tv,Border Security: Australia's Front Line,63.0,2004,Documentary|Crime|Drama|Reality,Documentary,Reality / unscripted,AU,en,Seven Network,,,,False,False
 BTS THE COMEBACK LIVE | ARIRANG,AU|US,netflix,no TMDB result,,,,0.0,,,,,,,,,,,,
+BUDGET 2026: A 7.30 SPECIAL,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+BUDGET 2026: THE TREASURER’S SPEECH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 BUDGET BATTLERS,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 BUMP,AU,voz,programming,115639.0,tv,Bump,100.0,2021,Drama|Comedy,Drama,Scripted series,AU,en,Stan,Roadshow Rough Diamond,,,False,False
+BUT ALSO JOHN CLARKE,AU,voz,programming,1500516.0,movie,Not Only Fred Dagg But Also John Clarke,68.0,2025,Documentary,Documentary,Film,AU,en,,Retaining Wall Productions,,,False,False
 Baby Shark Hospital Play,AU,netflix,programming,290219.0,tv,Baby Shark Hospital Play,100.0,2022,,Unknown,Scripted series,US,en,,,,,False,False
 Bad Boys: Ride or Die,AU,netflix,programming,573435.0,movie,Bad Boys: Ride or Die,100.0,2024,Action|Comedy|Crime,Action,Film,US,en,,Westbrook|Columbia Pictures|Don Simpson/Jerry Bruckheimer Films|2.0 Entertainment,,,False,False
 Bad Thoughts,AU|US,netflix,programming,251608.0,tv,Bad Thoughts,100.0,2025,Comedy,Comedy,Scripted series,US,en,Netflix,YMH Studios,,,False,False
@@ -110,7 +288,17 @@ Bridgerton,AU|US,netflix|nielsen,programming,91239.0,tv,Bridgerton,100.0,2020,Dr
 Bridget Jones: Mad About the Boy,AU,netflix,programming,1272149.0,movie,Bridget Jones: Mad About the Boy,100.0,2025,Romance|Comedy|Drama,Romance,Film,FR|US|GB,en,,StudioCanal|Miramax|Working Title,,,False,False
 Bruce Bruce: I Ain’t Playin’,US,netflix,programming,20140.0,tv,Bruce Wayne,64.0,,,Unknown,Scripted series,,en,,,,,False,False
 Bugonia,US,netflix,programming,701387.0,movie,Bugonia,100.0,2025,Science Fiction|Thriller|Comedy,Science Fiction,Film,US,en,,Element Pictures|Square Peg|Fremantle|Pith Quest Films|Fruit Tree|CJ ENM,,,False,False
+CALL THE MIDWIFE,AU,voz,programming,39793.0,tv,Call the Midwife,100.0,2012,Drama,Drama,Scripted series,GB,en,BBC One,BBC|Neal Street Productions,,,False,False
+CALL THE MIDWIFE: CHRISTMAS SPECIAL (2024),AU,voz,programming,39793.0,tv,Call the Midwife,80.0,2012,Drama,Drama,Scripted series,GB,en,BBC One,BBC|Neal Street Productions,,,False,False
+CALL THE MIDWIFE: CHRISTMAS SPECIAL (2024) TX 2,AU,voz,programming,39793.0,tv,Call the Midwife,80.0,2012,Drama,Drama,Scripted series,GB,en,BBC One,BBC|Neal Street Productions,,,False,False
+CAN YOU KEEP A SECRET?,AU,voz,programming,537739.0,movie,Can You Keep a Secret?,100.0,2019,Romance|Comedy,Romance,Film,US,en,,BCDF Pictures|Big Indie Pictures|Embankment Films|120dB Films,,,False,False
+CAROLS BY CANDLELIGHT,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+CHRISTMAS WITH DELTA,AU,voz,programming,1601328.0,movie,Christmas with Delta 2025,89.0,,Music,Music,Film,AU,en,,,,,False,False
 CLARKSON’S FARM,AU,voz,programming,117648.0,tv,Clarkson's Farm,100.0,2021,Reality|Comedy,Reality,Reality / unscripted,GB,en,Prime Video,Expectation TV|Con Dao Productions,,,False,False
+COOL RUNNINGS,AU,voz,programming,864.0,movie,Cool Runnings,100.0,1993,Comedy|Adventure|Drama,Comedy,Film,US,en,,Walt Disney Pictures|Dawn Steel Productions,,,False,False
+COOPER & FRY,AU,voz,programming,296520.0,tv,Cooper & Fry,100.0,2025,Crime|Drama|Mystery,Crime,Scripted series,GB,en,5,Clapperboard Studios|Studio TF1,,,False,False
+COOPER & FRY TX 2,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+COUNT OF MONTE CRISTO,AU,voz,programming,240456.0,tv,The Count of Monte Cristo,92.0,2025,Action & Adventure|Drama,Action & Adventure,Scripted limited series,IT,it,Rai 1,Palomar|DEMD Productions|Rai Fiction|France Télévisions,,,False,False
 CRIME NIGHT!,AU,voz,programming,304887.0,tv,Crime Night!,100.0,2025,Talk|Crime|Comedy,Talk,Talk / variety,AU,en,ABC TV,Dreamchaser Entertainment,,,False,False
 Camp CrunchLabs,AU|US,netflix,programming,328629.0,tv,Camp CrunchLabs,100.0,2026,Reality,Reality,Reality / unscripted,US,en,Netflix,,,,False,False
 Caramelo,AU|US,netflix,programming,1277988.0,movie,Caramelo,100.0,2025,Comedy|Drama,Comedy,Film,BR,pt,,Migdal Filmes,,,False,False
@@ -136,6 +324,16 @@ Creed III,US,netflix,programming,677179.0,movie,Creed III,100.0,2023,Drama|Actio
 Crew Girl,AU|US,netflix|nielsen,programming,300507.0,tv,Crew Girl,100.0,2026,Drama,Drama,Scripted series,CA,en,Netflix,Great Pacific Media|Thunderbird Entertainment,,,False,False
 Criminal Minds,US,nielsen,programming,4057.0,tv,Criminal Minds,100.0,2005,Crime|Drama|Mystery,Crime,Scripted series,US,en,CBS|Paramount+,Touchstone Television|The Mark Gordon Company|Paramount Television|CBS Studios|Erica Messer Productions|ABC Studios|ABC Signature|Entertainment One Television|Lionsgate Television|20th Television,,,False,False
 DC League of Super-Pets,AU,netflix,programming,539681.0,movie,DC League of Super-Pets,100.0,2022,Family|Comedy|Adventure|Animation|Science Fiction|Action,Family,Animated film,US,en,,Warner Animation Group|Seven Bucks Productions|Animal Logic|DC,,,False,False
+DEAL OR NO DEAL,AU,voz,programming,2176.0,tv,Deal or No Deal,100.0,2003,Reality,Reality,Reality / unscripted,AU,en,10|Seven Network,,,,False,False
+DEATH IN PARADISE,AU,voz,programming,41956.0,tv,Death in Paradise,100.0,2011,Comedy|Crime|Drama|Mystery,Comedy,Scripted series,GB,en,BBC One,Red Planet Pictures|Atlantique Productions|Kudos|BBC,,,False,False
+DEATH IN PARADISE: CHRISTMAS SPECIAL (2024),AU,voz,programming,41956.0,tv,Death in Paradise,80.0,2011,Comedy|Crime|Drama|Mystery,Comedy,Scripted series,GB,en,BBC One,Red Planet Pictures|Atlantique Productions|Kudos|BBC,,,False,False
+DEATH VALLEY,AU,voz,programming,254897.0,tv,Death Valley,100.0,2025,Mystery|Drama|Comedy,Mystery,Scripted series,GB,en,BBC One,BBC Studios Comedy|BBC,,,False,False
+DEEP END: THE SCOTT MILLER STORY,AU,voz,programming,326633.0,tv,Deep End: The Scott Miller Story,100.0,2026,Documentary,Documentary,Documentary,AU,en,ABC TV,,,,False,False
+DIABOLICAL: THE EPSTEIN FILES,AU,voz,programming,1640697.0,movie,Diabolical: The Epstein Files,100.0,2026,Documentary|Crime,Documentary,Film,AU,en,,Australian Broadcasting Corporation|ABC TV,,,False,False
+DOC,AU,voz,programming,255055.0,tv,Doc,100.0,2025,Drama,Drama,Scripted series,US,en,FOX,Sony Pictures Television|FOX Entertainment Studios|Channel Road Productions|3 Arts Entertainment|Avenue K Productions,,,False,False
+DOG PARK,AU,voz,programming,307823.0,tv,Dog Park,100.0,2026,Drama|Comedy,Drama,Scripted series,AU,en,ABC TV,Matchbox Pictures,Matchbox Pictures,,True,False
+DR KARL’S HOW THINGS WORK,AU,voz,programming,281338.0,tv,Dr Karl's How Things Work,100.0,2025,Documentary|Family,Documentary,Documentary,AU,en,ABC TV,Australian Broadcasting Corporation,,,False,False
+DR KARL’S HOW THINGS WORK TX 2,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
 Danny Go!,AU|US,netflix,programming,258124.0,tv,Danny Go!,100.0,2019,Kids,Kids,Scripted series,US,en,Netflix,,,,False,False
 Dark Winds,AU|US,netflix,programming,128904.0,tv,Dark Winds,100.0,2022,Drama|Crime|Mystery,Drama,Scripted series,US,en,AMC,AMC Studios|Rolling Cactus|Eleventh Northwest|Startling Television|Tina Elmo Productions|Fevre River Packet Company|Wildwood Enterprises|Wirthwhile TV,,,False,False
 Dave Chappelle: The Unstoppable...,AU|US,netflix,programming,70830.0,tv,Dave Chappelle,80.0,2017,Comedy,Comedy,Scripted limited series,US,en,Netflix,,,,False,False
@@ -184,9 +382,15 @@ Euphoria,US,nielsen,programming,85552.0,tv,Euphoria,100.0,2019,Drama,Drama,Scrip
 Everybody's Fine,AU,netflix,programming,26171.0,movie,Everybody's Fine,100.0,2009,Drama,Drama,Film,US,en,,Miramax|Hollywood Gang Productions|Radar Pictures,,,False,False
 Evil Influencer: The Jodi Hildebrandt Story,AU|US,netflix,programming,1591516.0,movie,Evil Influencer: The Jodi Hildebrandt Story,100.0,2025,Documentary,Documentary,Film,US,en,,Fremantle,,,False,False
 Extinction,AU,netflix,programming,429415.0,movie,Extinction,100.0,2018,Action|Drama|Science Fiction|Thriller,Action,Film,US,en,,Good Universe|Mandeville Films,,,False,False
+FARMER WANTS A WIFE,AU,voz,programming,28887.0,tv,Farmer Wants a Wife,100.0,2004,Reality,Reality,Reality / unscripted,NL,nl,NPO 1|NPO Start|KRO-NCRV,KRO-NCRV|Katholieke Radio Omroep (KRO)|Blue Circle Corporation,,,False,False
 FIND MY BEACH HOUSE AUSTRALIA,AU,voz,programming,238923.0,tv,Beach House Hunters,68.0,2023,,Unknown,Reality / unscripted,AU,en,Nine Network,,,,False,False
 FIND MY COUNTRY HOUSE AUSTRALIA,AU,voz,programming,280768.0,tv,Find My Country House,80.0,2024,,Unknown,Reality / unscripted,US,en,,,,,False,False
+FIRST DATES AUSTRALIA,AU,voz,programming,66001.0,tv,First Dates Australia,100.0,2016,Reality,Reality,Reality / unscripted,AU,en,10|Seven Network,Warner Bros. International Television Production Australia,,,False,False
+FOOTBALL: AFC WOMEN’S ASIAN CUP,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+FOREIGN CORRESPONDENT,AU,voz,programming,6292.0,tv,Foreign Correspondent,100.0,1992,Documentary|News,Documentary,Documentary,AU,en,ABC TV,,,,False,False
 FOUR CORNERS,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+FRAUDS,AU,voz,programming,285368.0,tv,Frauds,100.0,2025,Drama|Crime,Drama,Scripted limited series,GB,en,ITV1,ITV|Monumental Television,,,False,False
+FRIDAY NIGHT NRL LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 Facing El Chapo,AU|US,netflix,programming,1621552.0,movie,Facing El Chapo,100.0,2026,Crime|Action|Thriller,Crime,Film,MX,es,,Draco Films,,,False,False
 Failure to Launch,AU,netflix,programming,6877.0,movie,Failure to Launch,100.0,2006,Romance|Comedy,Romance,Film,US,en,,Failure to Launch Productions|Paramount Pictures|Scott Rudin Productions,,,False,False
 Faith in the Flames: The Nichole Jolly Story,US,netflix,programming,1507445.0,movie,Faith in the Flames: The Nichole Jolly Story,100.0,2025,TV Movie|Drama,TV Movie,Film,US,en,,Lighthouse Pictures|Wishing Floor Films|FilmAfrika|GroupM Motion Entertainment|Lifetime,,,False,False
@@ -214,10 +418,34 @@ Friends,AU,netflix,programming,1668.0,tv,Friends,100.0,1994,Comedy,Comedy,Script
 Fun with Dick & Jane,AU,netflix,programming,7552.0,movie,Fun with Dick and Jane,100.0,2005,Comedy|Crime,Comedy,Film,US,en,,JC 23 Entertainment|Imagine Entertainment|Columbia Pictures|Bart/Palevsky Productions,,,False,False
 Funny AF with Kevin Hart,US,netflix,programming,311991.0,tv,Funny AF with Kevin Hart,100.0,2026,Comedy|Reality,Comedy,Reality / unscripted,US,en,Netflix,Alfred Street Industries|HartBeat Productions,,,False,False
 GARDENING AUSTRALIA,AU,voz,programming,2835.0,tv,Gardening Australia,100.0,2005,Documentary,Documentary,Documentary,AU,en,ABC TV,,,,False,False
+GLASGOW 2026 COMMONWEALTH GAMES: DAY 2 EVENING,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+GLASGOW 2026 COMMONWEALTH GAMES: DAY 2 NIGHT,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+GLASGOW 2026 COMMONWEALTH GAMES: DAY 3 EVENING,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+GLASGOW 2026 COMMONWEALTH GAMES: DAY 3 NIGHT,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+GLASGOW 2026 COMMONWEALTH GAMES: DAY 4 EVENING,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+GLASGOW 2026 COMMONWEALTH GAMES: DAY 4 NIGHT,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+GLASGOW 2026 COMMONWEALTH GAMES: DAY 5 EVENING,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+GLASGOW 2026 COMMONWEALTH GAMES: DAY 5 NIGHT,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+GLASGOW 2026 COMMONWEALTH GAMES: DAY 6 EVENING,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+GLASGOW 2026 COMMONWEALTH GAMES: DAY 6 NIGHT,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+GLASGOW 2026 COMMONWEALTH GAMES: DAY 7 NIGHT,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+GLASGOW 2026 COMMONWEALTH GAMES: DAY 8 EVENING,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+GLASGOW 2026 COMMONWEALTH GAMES: DAY 9 EVENING,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+GLASGOW 2026 COMMONWEALTH GAMES: DAY 9 LATE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+GLASGOW 2026 COMMONWEALTH GAMES: DAY 9 NIGHT,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+GLENN & MICK’S CELEBRITY INTERVENTION,AU,voz,programming,320313.0,tv,Glenn & Mick's Celebrity Intervention,100.0,2026,Reality,Reality,Reality / unscripted,AU,en,Seven Network,Molloy Boy Productions,,,False,False
 GOAT,US,nielsen,programming,250316.0,tv,The GOAT,67.0,2024,Reality,Reality,Reality / unscripted,US,en,Prime Video|Amazon Freevee,Propagate Content|Piece of Work Productions|TheYearOfElan Productions|Amazon MGM Studios,,,False,False
 GOGGLEBOX,AU,voz,programming,55808.0,tv,Gogglebox,100.0,2013,Family|Reality,Family,Reality / unscripted,GB,en,Channel 4,Studio Lambert,,,False,False
+GOOD FRIDAY NRL LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+GOOLAGONG,AU,voz,programming,309287.0,tv,Goolagong,100.0,2026,Drama,Drama,Scripted limited series,AU,en,ABC TV,Werner Film Productions,,,False,False
+GRAND DESIGNS,AU,voz,programming,1831.0,tv,Grand Designs,100.0,1999,Documentary,Documentary,Documentary,GB,en,Channel 4,Talkback,,,False,False
 GRAND DESIGNS AUSTRALIA,AU,voz,programming,38245.0,tv,Grand Designs Australia,100.0,2010,Documentary,Documentary,Documentary,AU,en,ABC TV|LifeStyle,,,,False,False
 GRAND DESIGNS NEW ZEALAND,AU,voz,programming,64615.0,tv,Grand Designs New Zealand,100.0,2015,Reality,Reality,Reality / unscripted,NZ,en,Three|TVNZ 1,,,,False,False
+GRAND DESIGNS TRANSFORMATIONS,AU,voz,programming,242204.0,tv,Grand Designs Transformations,100.0,2024,Reality,Reality,Reality / unscripted,AU,en,ABC TV,Fremantle Australia,,,False,False
+GRANTCHESTER,AU,voz,programming,61457.0,tv,Grantchester,100.0,2014,Crime|Drama|Mystery,Crime,Scripted series,GB,en,ITV1,Kudos|Lovely Day,,,False,False
+GREAT GETAWAYS,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+GROUND UP,AU,voz,programming,324451.0,tv,Ground Up,100.0,2026,Comedy,Comedy,Scripted series,AU,en,ABC TV|ABC iview,Gristmill,,,False,False
+GRUEN,AU,voz,programming,75135.0,tv,Gruen,100.0,2015,Talk|Comedy,Talk,Talk / variety,AU,en,ABC TV,Cordell Jigsaw Zapruder,,,False,False
 Gabby's Dollhouse,AU|US,netflix,programming,111474.0,tv,Gabby's Dollhouse,100.0,2021,Kids|Comedy|Animation|Sci-Fi & Fantasy,Kids,Animated series,US,en,Netflix,DreamWorks Animation Television,DreamWorks Animation Television,,True,False
 Gabby's Dollhouse: The Movie,AU|US,netflix,programming,1280282.0,movie,Gabby's Dollhouse: The Movie,100.0,2025,Adventure|Animation|Comedy|Family|Fantasy,Adventure,Animated film,US,en,,DreamWorks Animation,DreamWorks Animation,,True,False
 Game Night,US,netflix,programming,445571.0,movie,Game Night,100.0,2018,Mystery|Comedy|Crime,Mystery,Film,US,en,,New Line Cinema|Aggregate Films|Davis Entertainment|Access Entertainment|Dune Entertainment,,,False,False
@@ -237,9 +465,12 @@ Green Book,US,netflix,programming,490132.0,movie,Green Book,100.0,2018,Drama|Com
 Grey's Anatomy,US,nielsen,programming,1416.0,tv,Grey's Anatomy,100.0,2005,Drama,Drama,Scripted series,US,en,ABC,The Mark Gordon Company|shondaland|ABC Studios|Touchstone Television|Entertainment One Television|Lionsgate Television|ABC Signature|Trip the Light Productions|20th Television,,,False,False
 Gunsmoke,US,nielsen,programming,3713.0,tv,Gunsmoke,100.0,1955,Western|Action & Adventure|Drama,Western,Scripted series,US,en,CBS,Filmaster Productions|Arness Production Company|CBS,,,False,False
 HARD QUIZ,AU,voz,programming,75487.0,tv,Hard Quiz,100.0,2016,Comedy,Comedy,Scripted series,AU,en,ABC TV,Thinkative Television,,,False,False
+HARD QUIZ BATTLE OF THE NETWORKS,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
 HAVE YOU BEEN PAYING ATTENTION?,AU,voz,programming,67378.0,tv,Have You Been Paying Attention?,100.0,2013,Comedy|Talk,Comedy,Talk / variety,AU,en,10,Working Dog,,,False,False
 HIGHWAY PATROL,AU,voz,programming,66984.0,tv,Highway Patrol,100.0,2009,Reality,Reality,Reality / unscripted,AU,en,,"Melbourne, Victoria, Australien|Seven Network",,,False,False
 HIS & HERS,AU|US,netflix,programming,259731.0,tv,HIS & HERS,100.0,2026,Drama|Crime|Mystery,Drama,Scripted limited series,US,en,Netflix,Fifth Season|Freckle Films|Viva Maude|Small Wishes|Campout Productions|Headhunter Films,,,False,False
+HITLER: A LIFE IN PICTURES,AU,voz,programming,218550.0,tv,Hitler: A Life in Pictures,100.0,2022,Documentary,Documentary,Documentary,GB,en,,Woodcut Media,,,False,False
+HM THE KING’S CHRISTMAS MESSAGE 2025,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
 HOLIDAYS IN THE,AU,voz,programming,1402614.0,movie,Holidays in the Sun,88.0,1997,,Unknown,Film,GB,en,,,,,False,False
 HOME AND AWAY,AU,voz,programming,2354.0,tv,Home and Away,100.0,1988,Drama|Soap,Drama,Scripted series,AU,en,Seven Network,Seven Studios|Seven Network Operations|Red Heart Entertainment|Kepper Media,,,False,False
 Halloween Ends,US,netflix,programming,616820.0,movie,Halloween Ends,100.0,2022,Horror|Thriller,Horror,Film,US,en,,Universal Pictures|Blumhouse Productions|Miramax|Rough House Pictures|Trancas International Films,Universal Pictures,,True,False
@@ -270,6 +501,7 @@ How to Train Your Dragon,AU|US,netflix,programming,1087192.0,movie,How to Train 
 Hulk Hogan: Real American,AU|US,netflix,programming,318880.0,tv,Hulk Hogan: Real American,100.0,2026,Documentary,Documentary,Documentary,US,en,Netflix,Words + Pictures|World Wrestling Entertainment,,,False,False
 Hunting Housewives,US,netflix,programming,1239303.0,movie,Hunting Housewives,100.0,2024,Drama|TV Movie,Drama,Film,US,en,,Lifetime|Brain Power Studio|Nicely Entertainment,,,False,False
 "Husband, Father, Killer: The Alyssa Pladl Story",US,netflix,programming,1373873.0,movie,Husband Father Killer: The Alyssa Pladl Story,100.0,2024,Drama|Crime|TV Movie,Drama,Film,US,en,,Rohm Feifer Entertainment|Lifetime|Johnson Production Group,,,False,False
+I AM CHEVY CHASE AND YOU’RE NOT,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
 I Know What You Did Last Summer,US,netflix,programming,1083433.0,movie,I Know What You Did Last Summer,100.0,2025,Horror|Thriller|Mystery,Horror,Film,US,en,,Columbia Pictures|Original Film|Screen Gems|TSG Entertainment,,,False,False
 I Survived a Serial Killer,US,netflix,programming,131458.0,tv,I Survived a Serial Killer,100.0,2021,Crime|Documentary,Crime,Documentary,US,en,A&E,,,,False,False
 I WAS ACTUALLY THERE,AU,voz,programming,258908.0,tv,I Was Actually There,100.0,2024,Documentary,Documentary,Documentary,AU,en,ABC TV,Australian Broadcasting Corporation|Docker Media Production (AU),,,False,False
@@ -277,6 +509,7 @@ I Will Find You,AU|US,netflix|nielsen,programming,278178.0,tv,I Will Find You,10
 I'm Not Afraid,US,netflix,programming,290232.0,tv,I'm Not Afraid,100.0,2026,Drama,Drama,Scripted limited series,MX,es,Netflix,Alebrije Producciones|Primer Pictures Official,,,False,False
 IF,AU,netflix,programming,639720.0,movie,IF,100.0,2024,Comedy|Fantasy|Family,Comedy,Film,US,en,,Paramount Pictures|Sunday Night Productions|Maximum Effort,,,False,False
 INSIDERS,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+INSIDERS: BUDGET NIGHT SPECIAL,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 IT: Welcome to Derry,US,nielsen,programming,200875.0,tv,IT: Welcome to Derry,100.0,2025,Drama|Mystery,Drama,Scripted series,US,en,HBO,Warner Bros. Television|Double Dream|Rideback|Vertigo Entertainment|HBO|FiveTen Productions|K Plus Ultra,,,False,False
 Identity Thief,AU,netflix,programming,109431.0,movie,Identity Thief,100.0,2013,Comedy|Crime,Comedy,Film,US,en,,Stuber Pictures|Aggregate Films|DumbDumb|Universal Pictures|Bluegrass Films,Universal Pictures,,True,False
 Idiocracy,US,netflix,programming,7512.0,movie,Idiocracy,100.0,2006,Comedy|Science Fiction|Adventure|Thriller,Comedy,Film,US,en,,20th Century Fox|Ternion Pictures,,,False,False
@@ -292,7 +525,10 @@ Instadocs: The Decoy Plane,AU|US,netflix,programming,334250.0,tv,Instadocs,80.0,
 Is It Cake? Halloween,AU|US,netflix,programming,300594.0,tv,Is It Cake? Halloween,100.0,2025,Reality,Reality,Reality / unscripted,US,en,Netflix,Alfred Street Industries,,,False,False
 Is It Cake? Holiday,US,netflix,programming,275144.0,tv,Is It Cake? Holiday,100.0,2024,Reality,Reality,Reality / unscripted,US,en,Netflix,Alfred Street Industries,,,False,False
 Is It Cake? Valentines,AU|US,netflix,no TMDB result,,,,0.0,,,,,,,,,,,,
+I’M A CELEBRITY…GET ME OUT OF HERE!,AU,voz,programming,61913.0,tv,I'm a Celebrity: Get Me Out of Here!,100.0,2015,Reality,Reality,Reality / unscripted,AU,en,10|Seven Network,ITV Studios Australia,,,False,False
+I’M A CELEBRITY…GET ME OUT OF HERE! GRAND FINALE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 JAMIE DURIE’S FUTURE HOUSE,AU,voz,programming,307412.0,tv,Jamie Durie's Future House,100.0,2025,,Unknown,Reality / unscripted,AU,en,Nine Network,Nine Network Australia,,,False,False
+JOHN FARNHAM,AU,voz,programming,943327.0,movie,John Farnham: 33⅓,89.0,2000,,Unknown,Film,US,en,,,,,False,False
 Jack Reacher: Never Go Back,AU,netflix,programming,343611.0,movie,Jack Reacher: Never Go Back,100.0,2016,Action|Thriller|Crime,Action,Film,US,en,,Skydance Media|Huahua Media|Shanghai Film Group|TC Productions|Paramount Pictures,,,False,False
 Jake Paul vs. Anthony Joshua,AU|US,netflix,news/sport/live,,,,,,,,,,,,,,,,
 Jay Kelly,AU|US,netflix,programming,1069905.0,movie,Jay Kelly,100.0,2025,Drama|Comedy,Drama,Film,GB|US,en,,Pascal Pictures|Heyday Films|NB/GG Pictures,,,False,False
@@ -314,6 +550,7 @@ Just Go With It,US,netflix,programming,50546.0,movie,Just Go with It,100.0,2011,
 Just Like Heaven,AU,netflix,programming,9007.0,movie,Just Like Heaven,100.0,2005,Comedy|Romance|Fantasy,Comedy,Film,US,en,,DreamWorks Pictures|Parkes+MacDonald Production,,,False,False
 KARTAVYA,AU,netflix,programming,1628367.0,movie,Kartavya,100.0,2026,Crime|Drama|Thriller,Crime,Film,IN,hi,,Red Chillies Entertainment,,,False,False
 KING & CONQUEROR,AU,voz,programming,240558.0,tv,King & Conqueror,100.0,2025,Drama|Action & Adventure|War & Politics,Drama,Scripted limited series,GB,en,BBC One,BBC|Rabbit Track Pictures|Shepherd Content|The Development Partnership|CBS Studios|RVK Studios,,,False,False
+KITCHEN CABINET,AU,voz,programming,58062.0,tv,Kitchen Cabinet,100.0,2012,Talk,Talk,Talk / variety,AU,en,ABC TV|ABC2,Australian Broadcasting Corporation,,,False,False
 KPop Demon Hunters,AU|US,netflix|nielsen,programming,803796.0,movie,KPop Demon Hunters,100.0,2025,Fantasy|Music|Comedy|Animation,Fantasy,Animated film,US,en,,Sony Pictures Animation,,,False,False
 Kangaroo Island,AU,netflix,programming,1307029.0,movie,Kangaroo Island,100.0,2025,Drama|Comedy,Drama,Film,AU,en,,Pouch Potato Productions Pty Ltd|Piro,,,False,False
 Karate Kid: Legends,US,netflix,programming,1011477.0,movie,Karate Kid: Legends,100.0,2025,Action|Adventure|Drama,Action,Film,US,en,,Columbia Pictures|Sunswept Entertainment|TSG Entertainment,,,False,False
@@ -327,7 +564,10 @@ Knock at the Cabin,US,netflix,programming,631842.0,movie,Knock at the Cabin,100.
 Knocked Up,AU,netflix,programming,4964.0,movie,Knocked Up,100.0,2007,Comedy|Romance|Drama,Comedy,Film,US,en,,Apatow Productions|Universal Pictures,Universal Pictures,,True,False
 Kung Fu Panda 3,AU,netflix,programming,140300.0,movie,Kung Fu Panda 3,100.0,2016,Animation|Action|Adventure|Comedy|Family,Animation,Animated film,US,en,,DreamWorks Animation|Oriental DreamWorks|Zhong Ming You Ying Film|China Film Group Corporation,DreamWorks Animation,,True,False
 Kylie,AU,netflix,programming,320472.0,tv,Kylie,100.0,2026,Documentary,Documentary,Documentary,US,en,Netflix,Ventureland,,,False,False
+LEGO MASTERS BRICKTACULAR,AU,voz,programming,94064.0,tv,LEGO Masters,65.0,2020,Family|Reality,Family,Reality / unscripted,US,en,FOX,Endemol Shine North America|Plan B Entertainment|Tuesday's Child|The LEGO Group,,,False,False
 LIVE AID: WHEN ROCK ‘N’ ROLL TOOK ON THE WORLD,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+LOGIES RED CARPET,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+LONG LOST FAMILY: SHIPPED TO AUSTRALIA,AU,voz,programming,39265.0,tv,Long Lost Family,80.0,2011,Documentary|Family,Documentary,Documentary,GB,en,ITV1,Wall to Wall|Shed Media,,,False,False
 LOVE ISLAND AUSTRALIA,AU,voz,programming,79792.0,tv,Love Island Australia,100.0,2018,Reality,Reality,Reality / unscripted,AU,en,Nine Network|9Go!|9now,ITV Studios Australia,,,False,False
 La Brea,US,netflix|nielsen,programming,128839.0,tv,La Brea,100.0,2021,Sci-Fi & Fantasy|Drama|Action & Adventure,Sci-Fi & Fantasy,Scripted series,US,en,NBC,Keshet Studios|Universal Television|Matchbox Pictures,Universal Television,NBC,True,False
 Ladies First,AU|US,netflix,programming,1368881.0,movie,Ladies First,100.0,2026,Comedy|Fantasy,Comedy,Film,US,en,,3dot Productions|Netflix,,,False,False
@@ -361,14 +601,24 @@ Love Actually,AU,netflix,programming,508.0,movie,Love Actually,100.0,2003,Comedy
 Love Is Blind,US,netflix|nielsen,programming,99353.0,tv,Love Is Blind,100.0,2020,Reality,Reality,Reality / unscripted,US,en,Netflix,Kinetic Content,,,False,False
 Love Island USA,US,nielsen,programming,90521.0,tv,Love Island USA,100.0,2019,Reality,Reality,Reality / unscripted,US,en,CBS|Peacock,ITV Global Entertainment|ITV America,,Peacock,False,True
 Love on the Spectrum,AU|US,netflix,programming,200731.0,tv,Love on the Spectrum,100.0,2022,Documentary|Reality,Documentary,Reality / unscripted,US,en,Netflix,Northern Pictures,,,False,False
+M*A*S*H,AU,voz,programming,918.0,tv,M*A*S*H,100.0,1972,War & Politics|Drama|Comedy,War & Politics,Scripted series,US,en,CBS,20th Century Fox Television,,,False,False
 M3GAN 2.0,AU|US,netflix,programming,1071585.0,movie,M3GAN 2.0,100.0,2025,Action|Science Fiction|Thriller,Action,Film,US,en,,Blumhouse Productions|Atomic Monster|Divide / Conquer,,,False,False
+MADONNA & GRAHAM,AU,voz,programming,1713222.0,movie,Madonna + Graham,91.0,2026,Documentary,Documentary,Film,GB,en,,So Television|BBC Studios Music Productions,,,False,False
 MAIGRET,AU,voz,programming,26992.0,tv,Maigret,100.0,1960,Crime|Drama|Mystery,Crime,Scripted series,GB,en,BBC One,BBC,,,False,False
 MARINES,AU|US,netflix,programming,303173.0,tv,MARINES,100.0,2025,Documentary,Documentary,Documentary,US,en,Netflix,Lucky8 TV|Amblin Television,,,False,False
+MARRIED AT FIRST SIGHT,AU,voz,programming,62705.0,tv,Married at First Sight,100.0,2015,Reality,Reality,Reality / unscripted,AU,en,Nine Network,EndemolShine Australia,,,False,False
+MASTERCHEF AUSTRALIA,AU,voz,programming,16395.0,tv,MasterChef Australia,100.0,2009,Reality,Reality,Reality / unscripted,AU,en,10,EndemolShine Australia,,,False,False
 MEDIA WATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+MEDIA WATCH-LE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 MELBOURNE CUP CARNIVAL,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+MIDSOMER MURDERS,AU,voz,programming,764.0,tv,Midsomer Murders,100.0,1997,Crime|Drama|Mystery,Crime,Scripted series,GB,en,ITV1,Bentley Productions|ITV|BBC,,,False,False
+MILLIONAIRE HOT SEAT,AU,voz,programming,30751.0,tv,Millionaire Hot Seat,100.0,2009,,Unknown,Scripted series,AU,en,Nine Network,,,,False,False
 MURDER DOWN UNDER,AU,voz,programming,281131.0,tv,Murder Down Under,100.0,2024,Documentary,Documentary,Documentary,AU,en,Nine Network,Perpetual Entertainment|Nine Network Australia,,,False,False
 MURDER IN A SMALL TOWN,AU,voz,programming,241549.0,tv,Murder in a Small Town,100.0,2024,Drama|Crime,Drama,Scripted series,CA|US,en,FOX|Global TV,Sepia Films|Soapbox Productions|MoJo Global Arts|FOX Entertainment|Future Shack Entertainment,,,False,False
+MUSTER DOGS,AU,voz,programming,156127.0,tv,Muster Dogs,100.0,2022,Documentary,Documentary,Documentary,AU,en,ABC TV,Ambience Entertainment,,,False,False
+MUSTER DOGS: WHERE ARE THEY NOW,AU,voz,programming,278572.0,tv,Muster Dogs: Where Are They Now,100.0,2024,Documentary,Documentary,Documentary,AU,en,ABC TV,Ambience Entertainment,,,False,False
 MY KITCHEN RULES,AU,voz,programming,30745.0,tv,My Kitchen Rules,100.0,2010,Reality,Reality,Reality / unscripted,AU,en,Seven Network,Beyond Productions|ITV Studios Australia,,,False,False
+MY RENO RULES,AU,voz,programming,320355.0,tv,My Reno Rules,100.0,2026,,Unknown,Scripted series,US,en,,,,,False,False
 MYSTERY ROAD: ORIGIN,AU,voz,programming,205242.0,tv,Mystery Road: Origin,100.0,2022,Drama|Crime,Drama,Scripted series,AU,en,ABC TV,Bunya Productions,,,False,False
 Maa Behen,AU,netflix,programming,1628448.0,movie,Maa Behen,100.0,2026,Comedy|Thriller|Drama,Comedy,Film,IN,hi,,Abundantia Entertainment,,,False,False
 Madagascar,AU|US,netflix,programming,953.0,movie,Madagascar,100.0,2005,Adventure|Animation|Comedy|Family,Adventure,Animated film,US,en,,Pacific Data Images|DreamWorks Animation,DreamWorks Animation,,True,False
@@ -421,9 +671,29 @@ My Life With the Walter Boys,AU|US,netflix,programming,199001.0,tv,My Life with 
 My Life with the Walter Boys,US,nielsen,programming,199001.0,tv,My Life with the Walter Boys,100.0,2023,Drama,Drama,Scripted series,US,en,Netflix,iGeneration Studios|Nomadic Pictures|Sony Pictures Television - International Production,,,False,False
 My Secret Santa,AU|US,netflix,programming,1441563.0,movie,My Secret Santa,100.0,2025,Comedy|Romance,Comedy,Film,US,en,,Howard Braunstein Films,,,False,False
 Mystify: Michael Hutchence,AU,netflix,programming,586534.0,movie,Mystify: Michael Hutchence,100.0,2019,Documentary|Music,Documentary,Film,AU|US,en,,BBC Music|Dogwoof|Australian Broadcasting Corporation|Screen Australia,,,False,False
+NAKED CITY: HITMEN,AU,voz,programming,336193.0,tv,Naked City: Hitmen,100.0,2026,Crime|Documentary,Crime,Documentary,AU,en,Nine Network,,,,False,False
+NATIONAL LAMPOON’S CHRISTMAS VACATION,AU,voz,programming,5825.0,movie,National Lampoon's Christmas Vacation,100.0,1989,Comedy,Comedy,Film,US,en,,Hughes Entertainment|Warner Bros. Pictures,,,False,False
 NCIS,US,nielsen,programming,4614.0,tv,NCIS,100.0,2003,Crime|Drama|Action & Adventure,Crime,Scripted series,US,en,CBS,Paramount Television|Belisarius Productions|CBS Studios,,,False,False
+NEIGHBOURS,AU,voz,programming,2674.0,tv,Neighbours,100.0,1985,Soap|Drama|Family|Comedy,Soap,Scripted series,AU,en,10|Seven Network|Eleven|10 Comedy,Fremantle Australia|Reg Grundy Productions,,,False,False
+NEW YEAR’S EVE 2025-LE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+NEW YEAR’S EVE 2025: CALLING COUNTRY FIREWORKS,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+NEW YEAR’S EVE 2025: COUNTDOWN TO MIDNIGHT-LE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+NEW YEAR’S EVE 2025: LIVE CONCERT FROM THE OPERA HOUSE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+NEW YEAR’S EVE 2025: MIDNIGHT FIREWORKS-EM,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+NEW YEAR’S EVE 2025: WELCOME TO NYE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+NEW ZEALAND SPY,AU,voz,programming,320348.0,tv,New Zealand Spy,100.0,2026,Comedy|Drama,Comedy,Scripted series,NZ,en,TVNZ 2|TVNZ+,Kevin & Co,,,False,False
+NFL,AU,voz,programming,137023.0,tv,NFL Icons,50.0,2021,Documentary,Documentary,Documentary,US,en,Epix|MGM+,,,,False,False
+NINE DAYS IN AFGHANISTAN,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
 NRL GRAND FINAL COUNTDOWN,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 NRL GRAND FINAL DAY,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+NRL LIVE FINAL SERIES EF1,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+NRL LIVE FINAL SERIES EF2,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+NRL LIVE FINAL SERIES PF1,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+NRL LIVE FINAL SERIES QF1,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+NRL LIVE FINAL SERIES QF2,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+NRL LIVE FINAL SERIES SF1,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+NRL LIVE FINAL SERIES SF2,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+NRL ORIGIN STORY,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 NRL WOMEN’S PREMIERSHIP,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 Neagley,US,nielsen,programming,273207.0,tv,Neagley,100.0,2026,Drama|Mystery|Crime,Drama,Scripted series,US,en,Prime Video,Amazon MGM Studios|Paramount Television Studios,,,False,False
 Nemesis,AU|US,netflix|nielsen,programming,285807.0,tv,Nemesis,100.0,2026,Action & Adventure|Drama|Crime,Action & Adventure,Scripted series,US,en,Netflix,End of Episode,,,False,False
@@ -442,6 +712,9 @@ Nuremberg,US,netflix,programming,1214931.0,movie,Nuremberg,100.0,2025,History|Dr
 OFF THE GRID WITH COLIN AND MANU,AU,voz,programming,295074.0,tv,Off the Grid with Colin and Manu,100.0,2025,Reality,Reality,Reality / unscripted,NZ,en,TVNZ,,,,False,False
 ONE PIECE,AU|US,netflix,programming,37854.0,tv,One Piece,100.0,1999,Action & Adventure|Comedy|Animation,Action & Adventure,Animated series,JP,ja,Fuji TV|Tokai Television Broadcasting,Toei Animation|Fuji Television Network|Avex Trax|Shueisha|ADK,,,False,False
 ONE SHOT with Ed Sheeran,AU,netflix,no TMDB result,,,,0.0,,,,,,,,,,,,
+OOOPS I BOUGHT A PUB!,AU,voz,programming,321547.0,tv,Ooops! I Bought A Pub,100.0,2026,Reality|Documentary,Reality,Reality / unscripted,AU,en,7plus,,,,False,False
+OSCARS RED CARPET LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+OUTBACK MURDER HIGHWAY,AU,voz,programming,320673.0,tv,Outback Murder Highway,100.0,2026,Crime|Documentary,Crime,Documentary,AU,en,9now,Nine Network Australia,,,False,False
 Oasis,AU|US,netflix,programming,296285.0,tv,Oasis,100.0,2026,Crime|Mystery|Drama,Crime,Scripted series,ES,es,Netflix,Bambú Producciones,,,False,False
 Office Romance,AU|US,netflix,programming,1358005.0,movie,Office Romance,100.0,2026,Romance|Comedy,Romance,Film,US,en,,Ryder Picture Company|Nuyorican Productions|For the Table|Hey Buddy|Netflix,,,False,False
 Old Guy,AU,netflix,programming,1077782.0,movie,Old Guy,100.0,2024,Action|Comedy|Crime,Action,Film,US|GB,en,,23ten|Source Management + Production|Aperture Media Partners|Pfaff & Pfaff Productions|LB Entertainment|Wee Buns Films|Northern Ireland Screen|Highland Film Group|Yellow Moon|Dark Castle Entertainment,,,False,False
@@ -455,9 +728,12 @@ Outer Banks,AU|US,netflix,programming,100757.0,tv,Outer Banks,100.0,2020,Action 
 Outlast: The Jungle,AU|US,netflix,programming,322803.0,tv,Outlast: The Jungle,100.0,2026,Reality,Reality,Reality / unscripted,US,en,Netflix,,,,False,False
 Overboard (2018),US,netflix,programming,454619.0,movie,Overboard,100.0,2018,Romance|Comedy,Romance,Film,US,en,,Metro-Goldwyn-Mayer|Pantelion Films|3Pas Studios,,,False,False
 PACIFIC CHAMPIONSHIPS,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+PARAMEDICS,AU,voz,programming,102348.0,tv,Paramedics,100.0,2018,Documentary,Documentary,Reality / unscripted,AU,en,Nine Network,WTFN Entertainment,,,False,False
+PATIENCE,AU,voz,programming,279603.0,tv,Patience,100.0,2025,Drama|Crime,Drama,Scripted series,GB,en,Channel 4,Eagle Eye Drama|Happy Duck Films,,,False,False
 PAW Patrol: The Mighty Movie,US,netflix,programming,893723.0,movie,PAW Patrol: The Mighty Movie,100.0,2023,Adventure|Animation|Comedy|Family|Science Fiction,Adventure,Animated film,US|CA,en,,Nickelodeon Movies|Spin Master|Paramount Pictures,,,False,False
 PLANET AMERICA-LE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 PORTRAIT ARTIST OF THE YEAR,AU,voz,programming,304482.0,tv,Portrait Artist of the Year,100.0,2025,Reality,Reality,Reality / unscripted,AU,en,ABC TV,EndemolShine Australia,,,False,False
+PORTRAIT ARTIST OF THE YEAR-LE,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
 PROFESSOR T,AU,voz,programming,126660.0,tv,Professor T,100.0,2021,Crime|Mystery|Drama,Crime,Scripted series,GB,en,ITV1|BritBox,ITV|Eagle Eye Drama,,,False,False
 Pale Rider,AU,netflix,programming,8879.0,movie,Pale Rider,100.0,1985,Western|Drama,Western,Film,US,en,,Warner Bros. Pictures|Malpaso Productions,,,False,False
 Passengers,US,netflix,programming,274870.0,movie,Passengers,100.0,2016,Drama|Romance|Science Fiction,Drama,Film,US,en,,Columbia Pictures|Village Roadshow Pictures|Original Film|Company Films|Start Motion Pictures|LStar Capital|Wanda Pictures,,,False,False
@@ -479,10 +755,14 @@ Primitive War,AU,netflix,programming,1257009.0,movie,Primitive War,100.0,2025,Ac
 Priscilla,US,netflix,programming,1020006.0,movie,Priscilla,100.0,2023,Drama|Romance,Drama,Film,US,en,,The Apartment Pictures|American Zoetrope,,,False,False
 Prometheus,AU,netflix,programming,70981.0,movie,Prometheus,100.0,2012,Science Fiction|Mystery|Horror,Science Fiction,Film,US,en,,Dune Entertainment|20th Century Fox|Brandywine Productions|Scott Free Productions,,,False,False
 Puss in Boots: The Last Wish,US,netflix|nielsen,programming,315162.0,movie,Puss in Boots: The Last Wish,100.0,2022,Animation|Adventure|Fantasy|Comedy|Family,Animation,Animated film,US,en,,DreamWorks Animation,DreamWorks Animation,,True,False
+RACE AROUND THE WORLD,AU,voz,programming,9527.0,tv,Race Around the World,100.0,1997,Reality|Documentary,Reality,Reality / unscripted,AU,en,,,,,False,False
 RBT,AU,voz,programming,39208.0,tv,RBT.AU,80.0,2010,Documentary,Documentary,Documentary,AU,en,Nine Network,,,,False,False
+RESTORATION AUSTRALIA,AU,voz,programming,63968.0,tv,Restoration Australia,100.0,2015,Documentary|Reality|Action & Adventure,Documentary,Reality / unscripted,AU,en,ABC TV,Australian Broadcasting Corporation|Fremantle Australia,,,False,False
 RETURN TO PARADISE,AU,voz,programming,244978.0,tv,Return to Paradise,100.0,2024,Crime|Mystery|Drama,Crime,Scripted series,AU,en,ABC TV,BBC Studios ANZ|Red Planet Pictures,,,False,False
 REVEALED: DEATH CAP MURDERS,AU,voz,programming,300683.0,tv,Revealed: Death Cap Murders,100.0,2025,Documentary|Crime,Documentary,Documentary,AU,en,Stan,Dreamchaser Entertainment|Fifth Season|Den of Martians,,,False,False
 RFDS,AU,voz,programming,130677.0,tv,RFDS: Royal Flying Doctor Service,100.0,2021,Drama,Drama,Scripted series,AU,en,Seven Network,Endemol Shine Banks Australia,,,False,False
+ROLF HARRIS: PRIMETIME PREDATOR,AU,voz,programming,324089.0,tv,Rolf Harris: Primetime Predator,100.0,2026,Documentary,Documentary,Documentary,AU,en,ABC TV,Northern Pictures,,,False,False
+RUGBY LEAGUE ALL STARS,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 Radio,AU,netflix,programming,13920.0,movie,Radio,100.0,2003,Drama,Drama,Film,US,en,,Tollin/Robbins Productions|Revolution Studios,,,False,False
 Rafa,AU,netflix,programming,279884.0,tv,Rafa,100.0,2026,Documentary,Documentary,Documentary,US,en,Netflix,Skydance Sports,,,False,False
 Ransom Canyon,AU|US,netflix,programming,240993.0,tv,Ransom Canyon,100.0,2025,Drama|Western,Drama,Scripted series,US,en,Netflix,Fezziwig Studios|Netflix|April Blair's Company,,,False,False
@@ -508,19 +788,61 @@ Rumble,AU,netflix,programming,598331.0,movie,Rumble,100.0,2021,Animation|Family|
 Run Away,AU|US,netflix|nielsen,programming,244244.0,tv,Run Away,100.0,2026,Drama|Mystery,Drama,Scripted limited series,GB|US,en,Netflix,Quay Street Productions|Final Twist Productions,,,False,False
 Running Point,AU|US,netflix,programming,244623.0,tv,Running Point,100.0,2025,Comedy,Comedy,Scripted series,US,en,Netflix,Kaling International|Warner Bros. Television|3 Arts Entertainment|23/34 Productions,,,False,False
 Ruth & Boaz,AU|US,netflix,programming,1371189.0,movie,Ruth & Boaz,100.0,2025,Romance|Drama|Music,Romance,Film,US,en,,Tyler Perry Studios,,,False,False
+SALVATION ARMY’S CAROLS IN THE DOMAIN,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 SAM PANG TONIGHT,AU,voz,programming,286597.0,tv,Sam Pang Tonight,100.0,2025,Comedy,Comedy,Talk / variety,AU,en,10,Network Ten,,,False,False
+SAS: AUS V ENG,AU,voz,programming,623285.0,movie,Sas,80.0,2019,,Unknown,Film,FR|CH,fr,,,,,False,False
+SATURDAY NIGHT NRL LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 SEAL Team,US,nielsen,programming,71789.0,tv,SEAL Team,100.0,2017,Action & Adventure|Drama|War & Politics,Action & Adventure,Scripted series,US,en,CBS|Paramount+,CBS Studios|Chulack Productions|Timberman/Beverly Productions|John Glenn Entertainment|East 25 C,,,False,False
 SEVEN NEWS,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN NEWS AT 4,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN NEWS AT 5,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN NEWS AT 7,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN NEWS SPECIAL,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN NEWS SPECIAL-LATE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S AFL: ANZAC DAY FOOTBALL,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S AFL: FRIDAY NIGHT FOOTBALL,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S AFL: FRIDAY NIGHT FOOTBALL FINALS,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S AFL: GRAND FINAL: BRUNCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S AFL: GRAND FINAL: COUNTDOWN,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S AFL: GRAND FINAL: FREMANTLE V BRISBANE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S AFL: GRAND FINAL: ON THE GROUND,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S AFL: GRAND FINAL: POST MATCH,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S AFL: GRAND FINAL: PRE GAME ENTERTAINMENT,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S AFL: GRAND FINAL: PRESENTATIONS,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S AFL: MONDAY AFTERNOON FOOTBALL,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S AFL: SATURDAY AFTERNOON FOOTBALL FINALS,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S AFL: SATURDAY NIGHT FOOTBALL FINALS,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S AFL: STATE OF ORIGIN: WA V VICTORIA,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S AFL: SUNDAY NIGHT FOOTBALL,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S AFL: THURSDAY NIGHT FOOTBALL,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S AFL: THURSDAY NIGHT FOOTBALL FINALS,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S CRICKET: BBL,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S CRICKET: FIFTH TEST,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 SEVEN’S CRICKET: FIRST TEST,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S CRICKET: FOURTH TEST,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 SEVEN’S CRICKET: SECOND TEST,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S CRICKET: SYDNEY SIXERS V ADELAIDE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 SEVEN’S CRICKET: THE SPIN,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SEVEN’S CRICKET: THIRD TEST,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SHARK!,AU,voz,programming,400.0,tv,Shark,100.0,2006,Drama|Mystery|Crime,Drama,Scripted series,US,en,CBS,Imagine Television Studios|20th Century Fox Television,,,False,False
+SHAUN MICALLEF’S GOING FOR BROKE,AU,voz,programming,323054.0,tv,Shaun Micallef's Going For Broke,100.0,2026,Documentary,Documentary,Documentary,AU,en,ABC TV,Cordell Jigsaw Zapruder,,,False,False
+SHETLAND,AU,voz,programming,46923.0,tv,Shetland,100.0,2013,Crime|Drama|Mystery,Crime,Scripted series,GB,en,BBC One|BBC Four,ITV Studios|BBC Scotland,,,False,False
 SPICKS AND SPECKS,AU,voz,programming,1642.0,tv,Spicks and Specks,100.0,2005,Comedy,Comedy,Scripted series,AU,en,ABC TV,Australian Broadcasting Corporation,,,False,False
+STATE OF ORIGIN RUGBY LEAGUE NSW V QLD 1ST,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+STATE OF ORIGIN RUGBY LEAGUE NSW V QLD 2ND,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+STATE OF ORIGIN RUGBY LEAGUE QLD V NSW 3RD,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 STEEL BALL RUN JoJo’s Bizarre Adventure,US,netflix,programming,45790.0,tv,JoJo's Bizarre Adventure,77.0,2012,Animation|Action & Adventure|Sci-Fi & Fantasy,Animation,Animated series,JP,ja,Netflix|Tokyo MX|BS11,David Production|Shueisha|Warner Bros. Japan,,,False,False
+STEVE IRWIN: A WILD LIFE,AU,voz,programming,1759852.0,movie,Steve Irwin: A Wild Life,100.0,2026,,Unknown,Film,AU,en,,,,,False,False
+SUNDAY AFTERNOON NRL KICKOFF,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SUNDAY AFTERNOON NRL LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 SUNRISE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+SUPER BOWL LX: PATRIOTS AT SEAHAWKS,AU,voz,programming,1737989.0,movie,Bad Bunny's Super Bowl LX Halftime Show,51.0,2026,Music,Music,Film,US|PR,en,,Diversified Production Services|Jesse Collins Entertainment|Roc Nation|Rimas,,,False,False
+SUPER BOWL LX: PATRIOTS AT SEAHAWKS POST GAME,AU,voz,programming,1737989.0,movie,Bad Bunny's Super Bowl LX Halftime Show,51.0,2026,Music,Music,Film,US|PR,en,,Diversified Production Services|Jesse Collins Entertainment|Roc Nation|Rimas,,,False,False
 SUPERCARS CHAMPIONSHIP: BATHURST 1000 D2 TOP 10 SHOOTOUT,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 SUPERCARS CHAMPSIONSHIP: BATHURST 1000 D3 PODIUM,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 SUPERCARS CHAMPSIONSHIP: BATHURST 1000 D3 RACE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 SYDNEY 2000: THE BEST EVER,AU,voz,programming,302878.0,tv,Sydney 2000: The Best Ever,100.0,2025,Documentary,Documentary,Documentary,AU,en,Nine Network,,,,False,False
+SYDNEY HOBART YACHT RACE 2025,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
 Safe Haven,US,netflix,programming,112949.0,movie,Safe Haven,100.0,2013,Romance|Thriller,Romance,Film,US,en,,Relativity Media|Temple Hill Entertainment,,,False,False
 Salish & Jordan Matter,AU|US,netflix,programming,318906.0,tv,Salish & Jordan Matter,100.0,2026,Reality|Kids,Reality,Reality / unscripted,US,en,Netflix,,,,False,False
 Seal Team,AU,netflix,programming,71789.0,tv,SEAL Team,100.0,2017,Action & Adventure|Drama|War & Politics,Action & Adventure,Scripted series,US,en,CBS|Paramount+,CBS Studios|Chulack Productions|Timberman/Beverly Productions|John Glenn Entertainment|East 25 C,,,False,False
@@ -583,23 +905,58 @@ Swapped,AU|US,netflix,programming,1007757.0,movie,Swapped,100.0,2026,Adventure|A
 Sweet Home Alabama,AU|US,netflix,programming,11529.0,movie,Sweet Home Alabama,100.0,2002,Comedy|Romance,Comedy,Film,US,en,,Touchstone Pictures|Original Film|D&D Films|Pigeon Creek Films,,,False,False
 Sweet Magnolias,AU|US,netflix|nielsen,programming,102904.0,tv,Sweet Magnolias,100.0,2020,Drama,Drama,Scripted series,US,en,Netflix,Daniel L. Paulson Productions,,,False,False
 TARONGA: WHO’S WHO IN THE ZOO,AU,voz,programming,103791.0,tv,Taronga: Who's Who in the Zoo,100.0,2020,Documentary|Kids,Documentary,Documentary,AU,en,Nine Network,,,,False,False
+TASKMASTER AUSTRALIA,AU,voz,programming,219341.0,tv,Taskmaster Australia,100.0,2023,Comedy|Reality,Comedy,Reality / unscripted,AU,en,10,Avalon Television|Kevin & Co,,,False,False
+TERROR IN BONDI: 7NEWS SPECIAL COVERAGE-AFTERNOON,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 THE 1% CLUB,AU,voz,programming,225523.0,tv,The 1% Club,100.0,2023,Reality|Comedy,Reality,Reality / unscripted,AU,en,Seven Network,,,,False,False
 THE 1% CLUB UK,AU,voz,programming,225523.0,tv,The 1% Club,80.0,2023,Reality|Comedy,Reality,Reality / unscripted,AU,en,Seven Network,,,,False,False
+THE 1% CLUB UK: ROLLOVER,AU,voz,programming,225523.0,tv,The 1% Club,80.0,2023,Reality|Comedy,Reality,Reality / unscripted,AU,en,Seven Network,,,,False,False
+THE 66TH TV WEEK LOGIE AWARDS,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+THE 66TH TV WEEK LOGIE AWARDS 2026,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+THE AIRPORT CHAPLAIN,AU,voz,programming,326879.0,tv,The Airport Chaplain,100.0,2026,Drama,Drama,Scripted series,AU,en,SBS,Wooden Horse,,,False,False
 THE AMAZING RACE AUSTRALIA: CELEBRITY,AU,voz,programming,30957.0,tv,The Amazing Race,80.0,2001,Reality,Reality,Reality / unscripted,US,en,CBS,Worldrace Productions|Neue Vitaskop Film|ABC Studios|Jerry Bruckheimer Television|CBS Productions|CBS Studios|ABC Signature|Touchstone Television|20th Television,,,False,False
 THE AMAZING RACE AUSTRALIA: CELEBRITY GRAND FINALE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 THE BLOCK,AU,voz,programming,12271.0,tv,The Block,100.0,2003,Reality,Reality,Reality / unscripted,AU,en,Nine Network,Watercress Productions|Cavalier Productions|Nine Network Australia,,,False,False
+THE CAGE,AU,voz,programming,230003.0,tv,The Cage,100.0,2024,Action & Adventure|Drama,Action & Adventure,Scripted series,FR,fr,Netflix,Autodidakte,,,False,False
 THE CASTLE,AU,voz,programming,308570.0,tv,The Castle,100.0,2026,Crime|Drama,Crime,Scripted series,ES,es,Movistar Plus,Caballo Films|Mafalda Entertainment,,,False,False
 THE CHASE AUSTRALIA,AU,voz,programming,239540.0,tv,The Chase Australia,100.0,,Reality,Reality,Reality / unscripted,AU,en,Seven Network,Seven Network|ITV Studios Australia,,,False,False
+THE CHEAP SEATS,AU,voz,programming,129601.0,tv,The Cheap Seats,100.0,2021,Comedy|News,Comedy,Scripted series,AU,en,10,Working Dog,,,False,False
+THE F WARD,AU,voz,programming,325549.0,tv,The F Ward,100.0,2026,Drama,Drama,Scripted series,AU,en,Stan,Roadshow Rough Diamond,,,False,False
+THE FLOOR,AU,voz,programming,231730.0,tv,The Floor,100.0,2024,Reality,Reality,Reality / unscripted,US,en,FOX,,,,False,False
 THE FORSYTES,AU,voz,programming,286255.0,tv,The Forsytes,100.0,2025,Drama,Drama,Scripted series,GB,en,5,Masterpiece|Mammoth Screen,,,False,False
 THE FRONT BAR,AU,voz,programming,88585.0,tv,The Front Bar,100.0,,Comedy|Talk,Comedy,Talk / variety,,en,Seven Network,,,,False,False
+THE GIRL FROM PLAINVILLE,AU,voz,programming,107114.0,tv,The Girl from Plainville,100.0,2022,Drama|Crime,Drama,Scripted limited series,US,en,Hulu,UCP|Littleton Road Productions|Echo Lake Entertainment|Lewellen Pictures|Happy Friday Productions,UCP,,True,False
 THE GIRL WHO CAUGHT A KILLER,AU,voz,programming,292286.0,tv,The Girl Who Caught a Killer,100.0,2025,Crime|Documentary|Mystery,Crime,Documentary,GB,en,Sky Documentaries,Sky Original Productions|Plimsoll Productions,,,False,False
 THE GOLDEN BACHELOR,AU,voz,programming,226624.0,tv,The Golden Bachelor,100.0,2023,Reality,Reality,Reality / unscripted,US,en,ABC,Warner Horizon Unscripted Television|NZK Productions,,,False,False
 THE GRAND TOUR,AU,voz,programming,67557.0,tv,The Grand Tour,100.0,2016,Reality|Comedy|Talk,Reality,Reality / unscripted,GB,en,Prime Video,W. Chump and Sons|Expectation TV|Grand Tour Productions|Flat Four Films,,,False,False
+THE GREAT ART FRAUD,AU,voz,programming,299303.0,tv,The Great Art Fraud,100.0,2025,Documentary,Documentary,Documentary,GB,en,BBC Two,BBC Studios,,,False,False
+THE HARDACRES,AU,voz,programming,231751.0,tv,The Hardacres,100.0,2024,Drama,Drama,Scripted series,GB,en,5,Playground Entertainment|Newgrange Pictures|Fís Éireann/Screen Ireland,,,False,False
+THE HUNDRED WITH ANDY LEE,AU,voz,programming,130887.0,tv,The Hundred with Andy Lee,100.0,2021,,Unknown,Talk / variety,AU,en,Nine Network,,,,False,False
+THE HUNTING WIVES,AU,voz,programming,244447.0,tv,The Hunting Wives,100.0,2025,Drama|Mystery,Drama,Scripted series,US,en,Netflix,3 Arts Entertainment|Lionsgate Television|Pleasingly Pulp,,,False,False
+THE JETTY,AU,voz,programming,233324.0,tv,The Jetty,100.0,2024,Drama|Crime,Drama,Scripted series,GB,en,BBC One,Firebird Pictures|BBC,,,False,False
+THE MICHAEL JACKSON STORY,AU,voz,programming,23756.0,movie,The Michael Jackson Story,100.0,2009,Documentary,Documentary,Film,US,en,,Kam & Ronson,,,False,False
+THE OSCARS,AU,voz,programming,27023.0,tv,The Oscars,100.0,1953,,Unknown,Scripted series,US,en,ABC|NBC|Hulu,Academy of Motion Picture Arts and Sciences (AMPAS),,NBC,False,True
+THE PIANO,AU,voz,programming,290409.0,tv,The Piano,100.0,2025,Documentary,Documentary,Documentary,AU,en,ABC TV,Eureka Productions,,,False,False
+THE RECKONING: INSIDE THE EPSTEIN FILES,AU,voz,programming,197193.0,tv,The Reckoning,80.0,2023,Crime|Drama,Crime,Scripted limited series,GB,en,BBC One,ITV Studios,,,False,False
 THE RISE AND FALL OF KINGS CROSS,AU,voz,programming,303424.0,tv,The Rise and Fall of Kings Cross,100.0,2025,,Unknown,Scripted series,US,en,,,,,False,False
 THE ROOKIE,AU,voz,programming,79744.0,tv,The Rookie,100.0,2018,Crime|Drama|Comedy,Crime,Scripted series,US,en,ABC,ABC Studios|Entertainment One|Lionsgate Television|ABC Signature|Perfectman Pictures|20th Television,,,False,False
+THE ROYAL VARIETY PERFORMANCE 2025,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+THE TONY BLAIR STORY,AU,voz,programming,313523.0,tv,The Tony Blair Story,100.0,2026,Documentary,Documentary,Documentary,GB,en,Channel 4,72 Films,,,False,False
+THE TRAITORS AUSTRALIA,AU,voz,programming,212457.0,tv,The Traitors,76.0,2022,Reality,Reality,Reality / unscripted,AU,en,10,EndemolShine Australia,,,False,False
+THE TRAITORS AUSTRALIA GRAND FINALE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 THE VOICE,AU,voz,programming,39845.0,tv,The Voice,100.0,2012,Reality,Reality,Reality / unscripted,AU,en,Seven Network,ITV Studios Australia|Fox Studios Australia,,,False,False
+THE WEEKLY WITH CHARLIE PICKERING,AU,voz,programming,66893.0,tv,The Weekly with Charlie Pickering,100.0,2015,Comedy|Talk,Comedy,Talk / variety,AU,en,ABC TV,Thinkative Television,,,False,False
+THE YEARLY WITH CHARLIE PICKERING 2025,AU,voz,no TMDB result,,,,0.0,,,,,,,,,,,,
+THURSDAY NIGHT NRL LIVE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+TIPPING POINT,AU,voz,programming,56926.0,tv,Tipping Point,100.0,2012,Reality,Reality,Reality / unscripted,GB,en,ITV1,,,,False,False
 TIPPING POINT AUSTRALIA,AU,voz,programming,242192.0,tv,Tipping Point Australia,100.0,2023,Family,Family,Scripted series,US,en,Nine Network,,,,False,False
+TIPPING POINT: 70 YEARS OF TV,AU,voz,programming,56926.0,tv,Tipping Point,80.0,2012,Reality,Reality,Reality / unscripted,GB,en,ITV1,,,,False,False
+TIPPING POINT: CELEBRITY SPECIAL,AU,voz,programming,56926.0,tv,Tipping Point,80.0,2012,Reality,Reality,Reality / unscripted,GB,en,ITV1,,,,False,False
+TIPPING POINT: TRAVEL GUIDES,AU,voz,programming,56926.0,tv,Tipping Point,80.0,2012,Reality,Reality,Reality / unscripted,GB,en,ITV1,,,,False,False
+TODAY,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+TODD SAMPSON’S WHY?,AU,voz,programming,315469.0,tv,Todd Sampson's Why?,100.0,2026,Documentary,Documentary,Documentary,AU,en,ABC TV,Baltimore Films,,,False,False
 TRAVEL GUIDES,AU,voz,programming,99625.0,tv,Travel Guides,100.0,2017,Reality,Reality,Reality / unscripted,AU,en,Nine Network,,,,False,False
+TREASURE & DIRT,AU,voz,programming,325785.0,tv,Treasure & Dirt,100.0,2026,Action & Adventure|Mystery|Crime|Drama,Action & Adventure,Scripted limited series,AU,en,ABC TV|ABC iview,Easy Tiger,,,False,False
+TRESPASSES,AU,voz,programming,260650.0,tv,Trespasses,100.0,2025,Drama|War & Politics,Drama,Scripted limited series,GB,en,Channel 4,Wildgaze Films,,,False,False
 Take Shelter,AU,netflix,programming,64720.0,movie,Take Shelter,100.0,2011,Thriller|Drama|Horror,Thriller,Film,US,en,,Hydraulx|REI Capital|Grove Hill Productions|Strange Matter Films,,,False,False
 Take That,AU,netflix,programming,262275.0,tv,Take That,100.0,2026,Documentary,Documentary,Documentary,GB,en,Netflix,Fulwell Entertainment,,,False,False
 Taken in Plain Sight,US,netflix,programming,1360231.0,movie,Taken in Plain Sight,100.0,2024,Thriller|TV Movie,Thriller,Film,US,en,,CME Autum Productions|Champlain Media|Lifetime|Reel One Entertainment,,,False,False
@@ -758,6 +1115,7 @@ Twisters,AU,netflix,programming,718821.0,movie,Twisters,100.0,2024,Action|Thrill
 Tyler Perry's A Madea Christmas,US,netflix,programming,239650.0,movie,Tyler Perry's A Madea Christmas - The Play,86.0,2011,Comedy,Comedy,Film,US,en,,,,,False,False
 UNABOMBER,AU|US,netflix,programming,1492640.0,movie,UNABOMBER,100.0,2026,Thriller|Drama|Crime,Thriller,Film,US,en,,MRC|2.0 Entertainment,,,False,False
 UNFILTERED: CRICKET,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+URZILA,AU,voz,programming,321032.0,tv,Urzila,100.0,2026,Comedy,Comedy,Scripted series,AU,en,ABC TV|ABC iview,Australian Broadcasting Corporation,,,False,False
 Unchosen,AU|US,netflix,programming,262848.0,tv,Unchosen,100.0,2026,Drama,Drama,Scripted series,GB,en,Netflix,Double Dutch Productions,,,False,False
 Under the Boardwalk,AU,netflix,programming,609271.0,movie,Under the Boardwalk,100.0,2023,Adventure|Animation|Comedy|Family|Romance,Adventure,Animated film,US,en,,Paramount Animation|Big Kid Pictures|DNEG,,,False,False
 Undisputed,AU,netflix,programming,15070.0,movie,Undisputed,100.0,2002,Action|Drama|Crime,Action,Film,US,en,,Amen Ra Films|Motion Picture Corporation of America|Hollywood Partners|Millennium Media|David Giler Productions,,,False,False
@@ -771,14 +1129,41 @@ Untold: Jail Blazers,US,netflix,programming,1641965.0,movie,Untold: Jail Blazers
 Untold: The Death & Life of Lamar Odom,AU|US,netflix,programming,1641961.0,movie,Untold: The Death & Life of Lamar Odom,100.0,2026,Documentary,Documentary,Film,US,en,,Propagate Content|Stardust Frames,,,False,False
 Untold: The Shooting at Hawthorne Hill,AU|US,netflix,programming,1641966.0,movie,Untold: The Shooting at Hawthorne Hill,100.0,2026,Documentary,Documentary,Film,US,en,,Propagate Content|Stardust Frames,,,False,False
 Untold: The Testimony of Vince Young,US,netflix,programming,1739186.0,movie,Untold: The Testimony of Vince Young,100.0,2026,Documentary,Documentary,Film,US,en,,Campfire Studios,,,False,False
+VERA,AU,voz,programming,39185.0,tv,Vera,100.0,2011,Crime|Drama|Mystery,Crime,Scripted series,GB,en,ITV1,ITV Studios,,,False,False
 Vacation,US,netflix,programming,296099.0,movie,Vacation,100.0,2015,Comedy|Adventure,Comedy,Film,US,en,,BenderSpink|David Dobkin Productions,,,False,False
 Victoria Beckham,AU,netflix,programming,262281.0,tv,Victoria Beckham,100.0,2025,Documentary,Documentary,Documentary,GB,en,Netflix,Studio 99|Dorothy St Pictures,,,False,False
 Virgin River,AU|US,netflix|nielsen,programming,88324.0,tv,Virgin River,100.0,2019,Drama,Drama,Scripted series,US,en,Netflix,Reel World Management,,,False,False
 Vishwanath & Sons,AU,netflix,programming,1408162.0,movie,Vishwanath & Sons,100.0,2026,Drama|Romance|Comedy,Drama,Film,IN,ta,,Sithara Entertainments|Srikara Studios|Fortune Four Cinemas,,,False,False
 Vladimir,AU|US,netflix,programming,285739.0,tv,Vladimir,100.0,2026,Drama,Drama,Scripted limited series,US,en,Netflix,20th Television|Small Dog Picture Company|Merman|Astral Projection,,,False,False
 Voicemails for Isabelle,AU|US,netflix,programming,614945.0,movie,Voicemails for Isabelle,100.0,2026,Romance|Comedy|Drama,Romance,Film,US,en,,Escape Artists|Sony Pictures,,,False,False
+WEEKEND SUNRISE,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WEEKEND TODAY,AU,voz,programming,44619.0,tv,Weekend Today,100.0,2009,News,News,Scripted series,AU,en,Nine Network,Nine Network Australia,,,False,False
+WHATEVER IT TAKES: INSIDE THE EBAY SCANDAL,AU,voz,programming,1229905.0,movie,Whatever It Takes,100.0,2024,Crime|Documentary,Crime,Film,GB,en,,Big Pond Films|Concordia Studio|Fremantle,,,False,False
 WHEN THE WAR IS OVER,AU,voz,programming,305791.0,tv,When The War Is Over,100.0,2025,Documentary,Documentary,Documentary,AU,en,ABC TV,Mint Pictures,,,False,False
 WICKED: ONE WONDERFUL NIGHT,AU,voz,programming,1479945.0,movie,Wicked: One Wonderful Night,100.0,2025,Music,Music,Film,US,en,,Fulwell Entertainment,,,False,False
+WINTER OLYMPICS 2026,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WINTER OLYMPICS 2026 D-1,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WINTER OLYMPICS 2026 D0,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WINTER OLYMPICS 2026 D1,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WINTER OLYMPICS 2026 D10,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WINTER OLYMPICS 2026 D11,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WINTER OLYMPICS 2026 D12,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WINTER OLYMPICS 2026 D13,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WINTER OLYMPICS 2026 D14,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WINTER OLYMPICS 2026 D15,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WINTER OLYMPICS 2026 D16,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WINTER OLYMPICS 2026 D2,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WINTER OLYMPICS 2026 D3,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WINTER OLYMPICS 2026 D4,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WINTER OLYMPICS 2026 D5,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WINTER OLYMPICS 2026 D6,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WINTER OLYMPICS 2026 D7,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WINTER OLYMPICS 2026 D8,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WINTER OLYMPICS 2026 D9,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WOGBALL: AUSTRALIA’S BEAUTIFUL GAME,AU,voz,programming,1720145.0,movie,Wogball: Australia's Beautiful Game,100.0,2026,Documentary,Documentary,Film,AU,en,,,,,False,False
+WOMEN’S STATE OF ORIGIN 1ST,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WOMEN’S STATE OF ORIGIN 2ND,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
+WOMEN’S STATE OF ORIGIN 3RD,AU,voz,news/sport/live,,,,,,,,,,,,,,,,
 WORKING CLASS MAN,AU,voz,programming,1511502.0,movie,Jimmy Barnes: Working Class Man,72.0,2025,Documentary|Music,Documentary,Film,AU,en,,Cordell Jigsaw Zapruder|Seven News Australia|Channel 7,,,False,False
 WWE Crown Jewel,AU,netflix,news/sport/live,,,,,,,,,,,,,,,,
 WWE Elimination Chamber,AU,netflix,news/sport/live,,,,,,,,,,,,,,,,

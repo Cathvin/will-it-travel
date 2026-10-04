@@ -10,9 +10,11 @@ Matching rules, in order:
 
 Uncertain matches (TMDB name score < 85, or any format link) are written to
 data/processed/uncertain_matches.csv for a human to check. Corrections go in
-data/manual/match_overrides.csv (columns: title, tmdb_id, media_type) and are applied on the next run.
+data/manual/match_overrides.csv (columns: title, action, tmdb_id, media_type, origin_country, note)
+and are applied on the next run.
 
-Output: data/processed/matched_titles.csv  (one row per title family)
+Outputs: data/processed/matched_titles.csv  (one row per title family)
+         data/processed/titles_reviewed.csv (TMDB table with manual corrections applied)
 
 Run:  .venv/bin/python src/match_titles.py
 """
@@ -20,6 +22,8 @@ import re
 from pathlib import Path
 
 import pandas as pd
+
+from enrich_tmdb import NBCU_NETWORKS, NBCU_STUDIOS, describe_format, details, first_match
 
 UNCERTAIN_BELOW = 85
 OVERRIDES = Path("data/manual/match_overrides.csv")
@@ -34,6 +38,25 @@ GROUPS = {  # platform_group -> short column prefix
 }
 
 
+def tmdb_details(tmdb_id, media):
+    """Re-describe a title from a TMDB ID chosen by hand (same fields as enrich_tmdb.py)."""
+    d = details(tmdb_id, media)
+    genres = [g["name"] for g in d.get("genres", [])]
+    networks = [n["name"] for n in d.get("networks", [])]
+    companies = [c["name"] for c in d.get("production_companies", [])]
+    studio, network = first_match(companies, NBCU_STUDIOS), first_match(networks, NBCU_NETWORKS)
+    return {
+        "tmdb_id": tmdb_id, "media_type": media, "tmdb_name": d.get("name") or d.get("title"),
+        "year": (d.get("first_air_date") or d.get("release_date") or "")[:4],
+        "genres": "|".join(genres), "primary_genre": genres[0] if genres else "Unknown",
+        "format": describe_format(media, d, genres),
+        "origin_country": "|".join(d.get("origin_country", []) or [c["iso_3166_1"] for c in d.get("production_countries", [])]),
+        "original_language": d.get("original_language"), "networks": "|".join(networks),
+        "production_companies": "|".join(companies), "nbcu_studio": studio, "nbcu_network": network,
+        "is_nbcu": bool(studio), "nbcu_check_rights": bool(network) and not studio,
+    }
+
+
 def format_key(title):
     """'LOVE ISLAND AUSTRALIA' and 'Love Island USA' -> 'love island'."""
     t = re.sub(r"\(\d{4}\)", "", str(title).lower())
@@ -46,14 +69,32 @@ def main():
     charts = pd.read_csv("data/processed/charts_long.csv")
     tmdb = pd.read_csv("data/processed/titles_tmdb.csv")
 
-    # Apply manual corrections, if any
+    # Apply manual corrections, if any. Columns: title, action, tmdb_id, media_type, origin_country, note
+    #   action = set      -> point the title at a different TMDB entry (and/or fix its origin country)
+    #   action = exclude  -> drop it (live sport, or a wrong match with no correct TMDB entry)
     if OVERRIDES.exists():
-        fix = pd.read_csv(OVERRIDES)
-        tmdb = tmdb.set_index("title")
+        fix = pd.read_csv(OVERRIDES, dtype=str).fillna("")
+        tmdb = tmdb.astype(object).set_index("title")  # object dtype so any value can be written
         for r in fix.itertuples():
-            tmdb.loc[r.title, ["tmdb_id", "media_type", "match_score", "category"]] = [r.tmdb_id, r.media_type, 100, "programming"]
+            if r.title not in tmdb.index:
+                print(f"  override skipped (title not found): {r.title}")
+                continue
+            if r.action == "exclude":
+                tmdb.loc[r.title, "category"] = "excluded by review"
+                continue
+            if r.tmdb_id:
+                d = tmdb_details(int(r.tmdb_id), r.media_type)
+                tmdb.loc[r.title, list(d)] = list(d.values())
+            if r.origin_country:
+                tmdb.loc[r.title, "origin_country"] = r.origin_country
+            tmdb.loc[r.title, ["match_score", "category"]] = [100, "programming"]
         tmdb = tmdb.reset_index()
-        print(f"Applied {len(fix)} manual overrides")
+        tmdb["match_score"] = pd.to_numeric(tmdb.match_score)
+        tmdb["tmdb_id"] = pd.to_numeric(tmdb.tmdb_id)
+        print(f"Applied {len(fix)} manual overrides from {OVERRIDES}")
+
+    # Save the reviewed title table so later steps use the corrected matches
+    tmdb.to_csv("data/processed/titles_reviewed.csv", index=False)
 
     prog = tmdb[tmdb.category == "programming"].copy()
     prog["tmdb_key"] = prog.media_type + ":" + prog.tmdb_id.astype(int).astype(str)

@@ -80,7 +80,7 @@ def share_scores(charts, segment_col):
             n = int(au_titles.get(seg, 0))
             rows.append({
                 "segment_type": segment_col.replace("sales_", ""), "segment": seg, "platform_group": group,
-                "au_share_of_us_content": round(a, 3), "us_chart_share": round(u, 3),
+                "au_share_of_us_content": round(a, 4), "us_chart_share": round(u, 4),
                 "travel_score": round(100 * a / u) if u > 0 else None,
                 "au_titles": n, "small_sample": n < 3,
                 "example_titles": ", ".join(au[au[segment_col] == seg].groupby("title").rank_pct.sum()
@@ -148,7 +148,7 @@ def main():
 
     # Chart-level table with genre/format attached (for lens A)
     charts = pd.read_csv("data/processed/charts_long.csv")
-    tmdb = pd.read_csv("data/processed/titles_tmdb.csv")
+    tmdb = pd.read_csv("data/processed/titles_reviewed.csv")  # includes manual corrections
     tmdb["sales_genre"] = tmdb.genres.map(sales_genre)
     tmdb["is_us_origin"] = tmdb.origin_country.fillna("").str.contains("US")
     charts = charts.merge(tmdb[["title", "category", "origin_country", "is_us_origin", "sales_genre", "format"]], on="title", how="left")

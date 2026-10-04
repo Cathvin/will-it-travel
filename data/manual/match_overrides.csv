@@ -1,0 +1,38 @@
+title,action,tmdb_id,media_type,origin_country,note
+GOGGLEBOX,set,74337,tv,,AU version (Ten) not UK original
+FARMER WANTS A WIFE,set,15409,tv,,AU version (Seven) not Dutch original
+LEGO MASTERS BRICKTACULAR,set,88754,tv,,AU version special
+THE AMAZING RACE AUSTRALIA: CELEBRITY,set,45665,tv,,AU version (Ten) not US original
+THE GOLDEN BACHELOR,set,303516,tv,,AU version on an AU channel (TMDB has The Golden Bachelor Australia 2025)
+SAS: AUS V ENG,set,112867,tv,,SAS Australia special
+TIPPING POINT AUSTRALIA,set,,,AU,TMDB lists origin as US - it is an AU production
+FIND MY COUNTRY HOUSE AUSTRALIA,set,,,AU,AU version of UK format
+FIND MY BEACH HOUSE AUSTRALIA,set,,,AU,AU production
+Hoppers,set,1327819,movie,,2026 Pixar film not a Dutch TV series
+GOAT,set,1297842,movie,,2026 Sony Animation film not 'The GOAT' TV show
+Dr. Seuss' The Grinch,set,360920,movie,,2018 Illumination film not the NBC musical
+Tom Clancy's Jack Ryan: Ghost War,set,1380291,movie,,2026 film not the TV series
+NFL,exclude,,,,live sport
+SUPER BOWL LX: PATRIOTS AT SEAHAWKS,exclude,,,,live sport
+SUPER BOWL LX: PATRIOTS AT SEAHAWKS POST GAME,exclude,,,,live sport
+2025: THE YEAR THAT WAS,exclude,,,,news review - matched a Chinese gala
+SHARK!,exclude,,,,matched US legal drama 'Shark' (2006) - unlikely; no better TMDB entry
+THE CASTLE,exclude,,,,matched a Spanish series - unlikely; no better TMDB entry
+World Breaker,exclude,,,,wrong match; film not found on TMDB
+"You, Me and the Penguins​",exclude,,,,wrong match; film not found on TMDB
+Terry McMillan Presents: Forever,exclude,,,,wrong match; film not found on TMDB
+AFI Life Achievement Award: A Tribute to Eddie Murphy,exclude,,,,awards special - no TMDB entry
+Taylor Tomlinson: Prodigal Daughter,exclude,,,,stand-up special - matched wrong show
+Trevor Noah: Joy in The Trenches,exclude,,,,stand-up special - matched The Daily Show
+Mike Epps: Delusional,exclude,,,,stand-up special - matched wrong show
+Bruce Bruce: I Ain’t Playin’,exclude,,,,stand-up special - matched wrong show
+Louis C.K.: Ridiculous,exclude,,,,stand-up special - matched wrong show
+Wanda Sykes: Legacy,exclude,,,,stand-up special - matched wrong show
+Kevin Hart: Acting My Age,exclude,,,,stand-up special - matched wrong show
+Ricky Gervais: Mortality,exclude,,,,stand-up special - matched wrong show
+THE FLOOR,exclude,,,,reviewer unsure if US or local version
+THE CAGE,exclude,,,,reviewer unsure which version
+DOC,exclude,,,,reviewer unsure if US Fox drama
+MY RENO RULES,set,,,AU,TMDB lists origin as US - Australian (Seven) production
+THE RISE AND FALL OF KINGS CROSS,set,,,AU,TMDB lists origin as US - Australian production
+JOHN FARNHAM,set,,,AU,TMDB lists origin as US - Australian documentary

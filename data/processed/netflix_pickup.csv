@@ -1,20 +1,20 @@
 segment_type,segment,platform_group,us_hits,travelled,hit_rate,pickup_index,avg_rank_gap,small_sample,example_titles
-genre,Action & Adventure,3 Paid streaming (Netflix AU),17,1,0.059,39,-0.2,False,SEAL Team
-genre,Comedy,3 Paid streaming (Netflix AU),50,15,0.3,107,-0.052,False,"People We Meet on Vacation, Little Brother, My Secret Santa"
-genre,Crime & Thriller,3 Paid streaming (Netflix AU),87,19,0.218,79,0.027,False,"UNABOMBER, Enola Holmes 3, Nobody 2"
+genre,Action & Adventure,3 Paid streaming (Netflix AU),16,1,0.062,41,-0.2,False,SEAL Team
+genre,Comedy,3 Paid streaming (Netflix AU),46,14,0.304,108,-0.056,False,"People We Meet on Vacation, Little Brother, My Secret Santa"
+genre,Crime & Thriller,3 Paid streaming (Netflix AU),88,19,0.216,78,0.027,False,"UNABOMBER, Enola Holmes 3, Nobody 2"
 genre,Documentary,3 Paid streaming (Netflix AU),24,17,0.708,227,0.01,False,"Evil Influencer: The Jodi Hildebrandt Story, Kidnapped: Elizabeth Smart, The Perfect Neighbor"
-genre,Drama,3 Paid streaming (Netflix AU),17,3,0.176,71,0.133,False,"Ordinary Angels, Lawmen: Bass Reeves, Southland"
-genre,Family & Animation,3 Paid streaming (Netflix AU),52,17,0.327,115,0.036,False,"Little House on the Prairie, How to Train Your Dragon, David"
+genre,Drama,3 Paid streaming (Netflix AU),17,3,0.176,72,0.133,False,"Ordinary Angels, Lawmen: Bass Reeves, Southland"
+genre,Family & Animation,3 Paid streaming (Netflix AU),53,17,0.321,114,0.036,False,"Little House on the Prairie, How to Train Your Dragon, David"
 genre,Horror,3 Paid streaming (Netflix AU),17,5,0.294,104,-0.011,False,"The Last House, The Covenant, Thrash"
-genre,Other,3 Paid streaming (Netflix AU),2,0,0.0,71,,True,
-genre,Reality,3 Paid streaming (Netflix AU),6,1,0.167,78,-0.1,False,Kevin Hart: Lyft Legend
-genre,Romance,3 Paid streaming (Netflix AU),7,3,0.429,131,-0.011,False,"Ruth & Boaz, Song Sung Blue, Flipped"
+genre,Other,3 Paid streaming (Netflix AU),1,0,0.0,83,,True,
+genre,Reality,3 Paid streaming (Netflix AU),4,0,0.0,56,,True,
+genre,Romance,3 Paid streaming (Netflix AU),6,3,0.5,143,-0.011,False,"Ruth & Boaz, Song Sung Blue, Flipped"
 genre,Sci-Fi & Fantasy,3 Paid streaming (Netflix AU),25,4,0.16,64,-0.042,False,"Jurassic World Rebirth, Wicked: For Good, The Creator"
-format,Animated film,3 Paid streaming (Netflix AU),31,13,0.419,143,0.014,False,"Shark Tale, David, Swapped"
+format,Animated film,3 Paid streaming (Netflix AU),32,13,0.406,139,0.014,False,"Shark Tale, David, Swapped"
 format,Animated series,3 Paid streaming (Netflix AU),3,0,0.0,62,,True,
 format,Documentary,3 Paid streaming (Netflix AU),4,1,0.25,95,0.217,True,Mark Rober's CrunchLabs
 format,Film,3 Paid streaming (Netflix AU),207,60,0.29,104,0.008,False,"UNABOMBER, Kidnapped: Elizabeth Smart, Enola Holmes 3"
-format,Reality / unscripted,3 Paid streaming (Netflix AU),6,1,0.167,78,-0.1,False,Kevin Hart: Lyft Legend
+format,Reality / unscripted,3 Paid streaming (Netflix AU),4,0,0.0,56,,True,
 format,Scripted limited series,3 Paid streaming (Netflix AU),3,1,0.333,107,0.4,True,Lawmen: Bass Reeves
-format,Scripted series,3 Paid streaming (Netflix AU),47,8,0.17,65,-0.101,False,"Little House on the Prairie, Legends, Shrill"
-format,Talk / variety,3 Paid streaming (Netflix AU),3,1,0.333,107,0.0,True,The Daily Show
+format,Scripted series,3 Paid streaming (Netflix AU),43,8,0.186,70,-0.101,False,"Little House on the Prairie, Legends, Shrill"
+format,Talk / variety,3 Paid streaming (Netflix AU),1,0,0.0,83,,True,

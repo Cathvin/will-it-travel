@@ -1,5 +1,6 @@
 tmdb_name,year,media_type,format,sales_genre,is_netflix_original,is_nbcu,nbcu_studio,nbcu_check_rights,networks,us_weeks,us_avg_pct,us_nielsen_weeks,us_netflix_weeks,au_fta_charted,au_fta_weeks,au_fta_avg_pct,au_bvod_charted,au_bvod_weeks,au_bvod_avg_pct,au_svod_charted,au_svod_weeks,au_svod_avg_pct,au_fta_rank_gap,au_bvod_rank_gap,au_svod_rank_gap,au_groups_charted
-Love Island USA,2019.0,tv,Reality / unscripted,Reality,False,False,,True,CBS|Peacock,2.0,0.95,2.0,,True,6.0,0.3943333333333333,True,6.0,1.0,False,,,-0.556,0.05,,2
+Love Island USA,2019.0,tv,Reality / unscripted,Reality,False,False,,True,CBS|Peacock,2.0,0.95,2.0,,True,8.0,0.40825,True,8.0,1.0,False,,,-0.542,0.05,,2
+Alone,2015.0,tv,Reality / unscripted,Reality,False,False,,False,History,1.0,0.2,,1.0,True,3.0,0.2,True,9.0,0.7962222222222223,False,,,0.0,0.596,,2
 Raw,1993.0,tv,Reality / unscripted,Reality,True,False,,True,USA Network|Spike|Netflix|The New TNN,50.0,0.56,,50.0,False,,,False,,,True,9.0,0.1555555555555555,,,-0.404,1
 KPop Demon Hunters,2025.0,movie,Animated film,Family & Animation,False,False,,False,,37.0,0.5407142857142857,2.0,35.0,False,,,False,,,True,28.0,0.4642857142857143,,,-0.076,1
 Ms. Rachel,2025.0,tv,Scripted series,Family & Animation,True,False,,False,Netflix,32.0,0.225,,32.0,False,,,False,,,True,1.0,0.1,,,-0.125,1
@@ -163,12 +164,10 @@ Vladimir,2026.0,tv,Scripted limited series,Drama,True,False,,False,Netflix,1.0,0
 Wicked: For Good,2025.0,movie,Film,Sci-Fi & Fantasy,False,True,Universal Pictures,False,,1.0,0.6,,1.0,False,,,False,,,True,1.0,0.4,,,-0.2,1
 Wonka's The Golden Ticket,2026.0,tv,Reality / unscripted,Reality,True,False,,False,Netflix,1.0,0.8,,1.0,False,,,False,,,True,1.0,0.8,,,0.0,1
 Tom Segura,2014.0,tv,Scripted series,Comedy,False,False,,False,,1.0,0.7,,1.0,False,,,False,,,True,1.0,0.1,,,-0.6,1
-Kevin Hart: Lyft Legend,2017.0,tv,Reality / unscripted,Reality,False,False,,False,,1.0,0.9,,1.0,False,,,False,,,True,1.0,0.8,,,-0.1,1
-The Daily Show,1996.0,tv,Talk / variety,Comedy,False,False,,False,Comedy Central,1.0,0.3,,1.0,False,,,False,,,True,1.0,0.3,,,0.0,1
 Grey's Anatomy,2005.0,tv,Scripted series,Drama,False,False,,False,ABC,12.0,0.4846153846153846,12.0,,False,,,False,,,False,,,,,,0
 The Big Bang Theory,2007.0,tv,Scripted series,Comedy,False,False,,False,CBS,10.0,0.5363636363636364,10.0,,False,,,False,,,False,,,,,,0
+GOAT,2026.0,movie,Animated film,Family & Animation,False,False,,False,,9.0,0.7142857142857142,2.0,7.0,False,,,False,,,False,,,,,,0
 Love Is Blind,2020.0,tv,Reality / unscripted,Reality,True,False,,False,Netflix,9.0,0.46875,1.0,8.0,False,,,False,,,False,,,,,,0
-GOAT,2026.0,movie,Animated film,Family & Animation,False,False,,False,,7.0,0.7285714285714285,,7.0,False,,,False,,,False,,,,,,0
 Spider-Man: Into the Spider-Verse,2018.0,movie,Animated film,Family & Animation,False,False,,False,,7.0,0.2714285714285714,,7.0,False,,,False,,,False,,,,,,0
 Minions: The Rise of Gru,2022.0,movie,Animated film,Family & Animation,False,True,Universal Pictures,False,,6.0,0.4666666666666666,,6.0,False,,,False,,,False,,,,,,0
 SpongeBob SquarePants,1999.0,tv,Animated series,Family & Animation,False,False,,False,Nickelodeon,5.0,0.2333333333333333,5.0,,False,,,False,,,False,,,,,,0
@@ -199,7 +198,6 @@ Ted Lasso,2020.0,tv,Scripted series,Comedy,False,True,Universal Television,False
 The Pitt,2025.0,tv,Scripted series,Drama,False,False,,False,Max|HBO Max,2.0,0.8500000000000001,2.0,,False,,,False,,,False,,,,,,0
 The Secret Lives of Mormon Wives,2024.0,tv,Reality / unscripted,Reality,False,False,,False,Hulu,2.0,0.1,2.0,,False,,,False,,,False,,,,,,0
 The Fantastic 4: First Steps,2025.0,movie,Film,Sci-Fi & Fantasy,False,False,,False,,2.0,0.25,2.0,,False,,,False,,,False,,,,,,0
-The GOAT,2024.0,tv,Reality / unscripted,Reality,False,False,,False,Prime Video|Amazon Freevee,2.0,0.7,2.0,,False,,,False,,,False,,,,,,0
 The Closer,2005.0,tv,Scripted series,Crime & Thriller,False,False,,False,TNT,2.0,0.55,1.0,1.0,False,,,False,,,False,,,,,,0
 A Cowboy Christmas Romance,2023.0,movie,Film,Comedy,False,False,,False,,2.0,0.6,,2.0,False,,,False,,,False,,,,,,0
 About My Father,2023.0,movie,Film,Comedy,False,False,,False,,2.0,0.6,,2.0,False,,,False,,,False,,,,,,0
@@ -252,12 +250,12 @@ Wrath of Man,2021.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.850000
 Zombieland: Double Tap,2019.0,movie,Film,Comedy,False,False,,False,,2.0,0.15,,2.0,False,,,False,,,False,,,,,,0
 Tyler Perry's A Madea Christmas - The Play,2011.0,movie,Film,Comedy,False,False,,False,,2.0,0.2,,2.0,False,,,False,,,False,,,,,,0
 Expend4bles,2023.0,movie,Film,Crime & Thriller,False,False,,False,,2.0,0.75,,2.0,False,,,False,,,False,,,,,,0
-Cube & Epps,,tv,Scripted series,Comedy,False,False,,False,,2.0,0.55,,2.0,False,,,False,,,False,,,,,,0
 Criminal Minds,2005.0,tv,Scripted series,Crime & Thriller,False,False,,False,CBS|Paramount+,1.0,0.2,1.0,,False,,,False,,,False,,,,,,0
 Euphoria,2019.0,tv,Scripted series,Drama,False,False,,False,HBO,1.0,0.2,1.0,,False,,,False,,,False,,,,,,0
 Fallout,2024.0,tv,Scripted series,Sci-Fi & Fantasy,False,False,,False,Prime Video,1.0,0.5,1.0,,False,,,False,,,False,,,,,,0
 Freakier Friday,2025.0,movie,Film,Family & Animation,False,False,,False,,1.0,0.6,1.0,,False,,,False,,,False,,,,,,0
 Gunsmoke,1955.0,tv,Scripted series,Action & Adventure,False,False,,False,CBS,1.0,0.3,1.0,,False,,,False,,,False,,,,,,0
+Hoppers,2026.0,movie,Animated film,Family & Animation,False,False,,False,,1.0,0.3,1.0,,False,,,False,,,False,,,,,,0
 IT: Welcome to Derry,2025.0,tv,Scripted series,Crime & Thriller,False,False,,False,HBO,1.0,0.1,1.0,,False,,,False,,,False,,,,,,0
 Lanterns,2026.0,tv,Scripted series,Crime & Thriller,False,False,,False,HBO,1.0,0.4,1.0,,False,,,False,,,False,,,,,,0
 Major Crimes,2012.0,tv,Scripted series,Crime & Thriller,False,False,,False,TNT,1.0,0.65,1.0,,False,,,False,,,False,,,,,,0
@@ -271,16 +269,15 @@ Spider-Noir,2026.0,tv,Scripted series,Crime & Thriller,False,False,,False,MGM+,1
 Supergirl,2026.0,movie,Film,Sci-Fi & Fantasy,False,False,,False,,1.0,0.7,1.0,,False,,,False,,,False,,,,,,0
 The Madison,2026.0,tv,Scripted series,Drama,False,False,,False,Paramount+,1.0,0.7,1.0,,False,,,False,,,False,,,,,,0
 The Super Mario Galaxy Movie,2026.0,movie,Animated film,Family & Animation,False,True,Illumination,False,,1.0,0.3,1.0,,False,,,False,,,False,,,,,,0
+Tom Clancy's Jack Ryan: Ghost War,2026.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.4,1.0,,False,,,False,,,False,,,,,,0
 Young Sheldon,2017.0,tv,Scripted series,Family & Animation,False,False,,False,CBS,1.0,0.1,1.0,,False,,,False,,,False,,,,,,0
 The Mandalorian and Grogu,2026.0,movie,Film,Sci-Fi & Fantasy,False,False,,False,,1.0,0.6,1.0,,False,,,False,,,False,,,,,,0
-Tom Clancy's Jack Ryan,2018.0,tv,Scripted series,Action & Adventure,False,False,,False,Prime Video,1.0,0.4,1.0,,False,,,False,,,False,,,,,,0
 10 Things I Hate About You,1999.0,movie,Film,Comedy,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
 5lbs of Pressure,2024.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.7,,1.0,False,,,False,,,False,,,,,,0
 9 to 5,,movie,Film,Comedy,False,False,,False,,1.0,0.3,,1.0,False,,,False,,,False,,,,,,0
 A Different World,1987.0,tv,Scripted series,Family & Animation,False,False,,True,NBC,1.0,0.9,,1.0,False,,,False,,,False,,,,,,0
 A Line of Fire,2025.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
 Alice,2022.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
-Alone,2015.0,tv,Reality / unscripted,Reality,False,False,,False,History,1.0,0.2,,1.0,False,,,False,,,False,,,,,,0
 Ambulance,2022.0,movie,Film,Crime & Thriller,False,True,Universal Pictures,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
 American Godfathers: The Five Families,2024.0,tv,Documentary,Documentary,False,False,,False,History,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
 Amish Stud: The Eli Weaver Story,2023.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
@@ -387,8 +384,3 @@ Welcome Home Roscoe Jenkins,2008.0,movie,Film,Family & Animation,False,True,Univ
 Maze Runner: The Death Cure,2018.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.1,,1.0,False,,,False,,,False,,,,,,0
 Mission: Impossible - Dead Reckoning Part One,2023.0,movie,Film,Crime & Thriller,False,False,,False,,1.0,0.4,,1.0,False,,,False,,,False,,,,,,0
 Kill Tony,,tv,Talk / variety,Comedy,False,False,,False,,1.0,0.6,,1.0,False,,,False,,,False,,,,,,0
-Terry McMillan Presents: Tempted 2 Love,2026.0,movie,Film,Romance,False,False,,False,,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
-The Wanda Sykes Show,2009.0,tv,Scripted series,Other,False,False,,False,FOX,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
-Louis CK Stand Up,1996.0,tv,Scripted series,Comedy,False,False,,False,,1.0,0.3,,1.0,False,,,False,,,False,,,,,,0
-After Midnight,2024.0,tv,Talk / variety,Comedy,False,False,,False,CBS,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0
-The American Film Institute Salute to ...,1973.0,tv,Reality / unscripted,Reality,True,False,,False,TNT|Netflix,1.0,0.5,,1.0,False,,,False,,,False,,,,,,0

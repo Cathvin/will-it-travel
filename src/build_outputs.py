@@ -231,6 +231,7 @@ def build_workbook():
         img.width, img.height = img.width * 0.35, img.height * 0.35
         ws.add_image(img, f"A{row}")
         row += int(img.height / 20) + 3
+    wb.calculation.fullCalcOnLoad = True  # Excel computes the formula columns when the file opens
     wb.save(XLSX)
     print(f"Saved workbook -> {XLSX}  ({len(wb.sheetnames)} tabs: {', '.join(wb.sheetnames)})")
 
