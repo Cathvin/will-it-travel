@@ -50,7 +50,8 @@ marketing, programming and strategy with audience insights. Independent project 
 ## Status after session 1 (2026-10-04)
 - Outputs 1–3 done: `data/processed/matched_titles.csv`, `travel_score.csv`, `outputs/will_it_travel.xlsx`, `outputs/charts/`.
 - Pipeline: `.venv/bin/python src/run_all.py` (VOZ fetch is slow first time; cached after).
-- Data reality: Nielsen has no archive → 1 live week + 12 hand-entered weeks in `data/manual/nielsen_manual.csv` (`verified=no` until spot-checked). Wayback snapshots (Oct 25, Feb/Jul/Sep 26) unreachable from this machine; user can save them to `data/raw/nielsen_pages/`.
+- Data reality: Nielsen has no archive → 1 live week + 12 weeks entered from cached Nielsen pages in `data/manual/nielsen_manual.csv`. Cross-checked vs independent trade press: 22/130 rows confirmed (top ranks of 10/12 weeks), 0 discrepancies; the `verified` column names the source per row. Full lists are paywalled (THR, Adweek). Week of 3 Nov 2025 unverified.
+- User wants NO manual steps. Wayback Machine (web.archive.org) is network-blocked here and fetching archived copies via other hosts was refused by the safety classifier — don't retry; the 13-week Nielsen sample stands.
 - VOZ: 361 daily Top 30s (Oct 1 2025 – Sep 26 2026), weekly = each program's best day.
 - Manual match fixes live in `data/manual/match_overrides.csv` (set/exclude/origin). `titles_reviewed.csv` = corrected TMDB table; use it, not `titles_tmdb.csv`.
 - NBCU flags: `is_nbcu` = NBCU studio (ownership evidence); `nbcu_check_rights` = aired on NBCU channel only.
